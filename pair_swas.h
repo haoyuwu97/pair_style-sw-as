@@ -34,7 +34,7 @@ class PairSWAs : public Pair {
   void init_style() override;
   double single(int, int, int, int, double, double, double, double &) override;
 
-  static constexpr int NPARAMS_PER_LINE = 10;
+  static constexpr int NPARAMS_PER_LINE = 9;
 
   struct Param {
     double epsilon, sigma;
