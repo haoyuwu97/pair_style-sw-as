@@ -1,0 +1,134 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "9505fda565b1f59920c26792b3978d949c265326",
+        "externalIds": {
+          "PubMedCentral": "12251044",
+          "DOI": "10.3390/ma18133097",
+          "CorpusId": 279772043,
+          "PubMed": "40649586"
+        },
+        "url": "https://www.semanticscholar.org/paper/9505fda565b1f59920c26792b3978d949c265326",
+        "title": "Dynamic Statistical Mechanics Modeling of Percolation Networks in Conductive Polymer Composites for Smart Sensor Applications",
+        "venue": "Materials",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-06-30",
+        "authors": [
+          {
+            "authorId": "2116636044",
+            "name": "Sang-U Kim"
+          },
+          {
+            "authorId": "2340081039",
+            "name": "Jooyong Kim"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f0fbda5e626372644a2ec56506b872d25164de84",
+        "externalIds": {
+          "DOI": "10.1007/s10118-025-3295-9",
+          "CorpusId": 276495964
+        },
+        "url": "https://www.semanticscholar.org/paper/f0fbda5e626372644a2ec56506b872d25164de84",
+        "title": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+        "venue": "Chinese Journal of Polymer Science",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-18",
+        "authors": [
+          {
+            "authorId": "2346419402",
+            "name": "Shaolong Liu"
+          },
+          {
+            "authorId": "2369892721",
+            "name": "Tang Sui"
+          },
+          {
+            "authorId": "2346884042",
+            "name": "Shuang Xu"
+          },
+          {
+            "authorId": "2346454901",
+            "name": "Xiaoke Xu"
+          },
+          {
+            "authorId": "2281381182",
+            "name": "Giuseppe Milano"
+          },
+          {
+            "authorId": "2346431216",
+            "name": "Ying Zhao"
+          },
+          {
+            "authorId": "2116514284",
+            "name": "Youliang Zhu"
+          },
+          {
+            "authorId": "115342389",
+            "name": "Baohong Cao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f8660d7cd3b656e7ebf7039f9e6430b99f62d660",
+        "externalIds": {
+          "DOI": "10.1016/j.compscitech.2024.110583",
+          "CorpusId": 268952635
+        },
+        "url": "https://www.semanticscholar.org/paper/f8660d7cd3b656e7ebf7039f9e6430b99f62d660",
+        "title": "One-pot strategy for the preparation of nanoparticles grafted with bimodal polymers: An in-silico insight",
+        "venue": "Composites Science And Technology",
+        "year": 2024,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-04-01",
+        "authors": [
+          {
+            "authorId": "2069542767",
+            "name": "Jinyuan Mao"
+          },
+          {
+            "authorId": "2146367582",
+            "name": "Jiajia Zhou"
+          },
+          {
+            "authorId": "2121301737",
+            "name": "Hong Liu"
+          }
+        ]
+      }
+    }
+  ]
+}

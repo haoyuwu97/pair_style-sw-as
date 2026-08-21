@@ -1,0 +1,757 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "fd6928ffaa06e0e81ed608060d08b0845ed05071",
+        "externalIds": {
+          "DOI": "10.1016/j.fluid.2026.114788",
+          "CorpusId": 289057185
+        },
+        "url": "https://www.semanticscholar.org/paper/fd6928ffaa06e0e81ed608060d08b0845ed05071",
+        "title": "Computer simulation of polymer nanocomposites: Challenges and perspectives",
+        "venue": "Fluid Phase Equilibria",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://hdl.handle.net/10481/113855",
+          "status": "GREEN",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2246844615",
+            "name": "A. Escañuela-Copado"
+          },
+          {
+            "authorId": "2006848181",
+            "name": "D. Valero"
+          },
+          {
+            "authorId": "14049680",
+            "name": "G. Giunta"
+          },
+          {
+            "authorId": "1398257379",
+            "name": "A. Martín-Molina"
+          },
+          {
+            "authorId": "2289560702",
+            "name": "Alessandro Patti"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3c0c4162d0886401111a4ac65a5126189291e76b",
+        "externalIds": {
+          "DOI": "10.1016/j.seppur.2026.137629",
+          "CorpusId": 286602479
+        },
+        "url": "https://www.semanticscholar.org/paper/3c0c4162d0886401111a4ac65a5126189291e76b",
+        "title": "Breathable and antibacterial ultra-low particulate air filters using porous Nanofibres",
+        "venue": "Separation and Purification Technology",
+        "year": 2026,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-01",
+        "authors": [
+          {
+            "authorId": "2341812343",
+            "name": "T. Biswas"
+          },
+          {
+            "authorId": "2190235018",
+            "name": "Bhavesh Thakur"
+          },
+          {
+            "authorId": "2144041542",
+            "name": "Saurabh Kumar"
+          },
+          {
+            "authorId": "2349148824",
+            "name": "Ajit Kumar"
+          },
+          {
+            "authorId": "2268511765",
+            "name": "P. K. Shukla"
+          },
+          {
+            "authorId": "1399319829",
+            "name": "Sumit Sinha-Ray"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0aa2e8255bb184f097fec918f8d78db9da5eede8",
+        "externalIds": {
+          "PubMedCentral": "12947174",
+          "DOI": "10.1021/acsomega.5c11248",
+          "CorpusId": 285509279,
+          "PubMed": "41768670"
+        },
+        "url": "https://www.semanticscholar.org/paper/0aa2e8255bb184f097fec918f8d78db9da5eede8",
+        "title": "Structure and Flow-Viscosity of Filled-Polymer-Based 3D Printing Ink: Exploration through Coarse-Grained Molecular Dynamics",
+        "venue": "ACS Omega",
+        "year": 2026,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.5c11248?ref=article_openPDF",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-09",
+        "authors": [
+          {
+            "authorId": "93886752",
+            "name": "Supun S. Mohottalalage"
+          },
+          {
+            "authorId": "15866811",
+            "name": "J. Karnes"
+          },
+          {
+            "authorId": "2319432201",
+            "name": "Spencer C. Schmidt"
+          },
+          {
+            "authorId": "3246921",
+            "name": "T. Weisgraber"
+          },
+          {
+            "authorId": "2269071932",
+            "name": "Andrew P. Saab"
+          },
+          {
+            "authorId": "2269069920",
+            "name": "A. Maiti"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "765fb93e488d7742747ac528dc513607d51b36da",
+        "externalIds": {
+          "PubMedCentral": "12944194",
+          "DOI": "10.3390/polym18040443",
+          "CorpusId": 285525367,
+          "PubMed": "41754633"
+        },
+        "url": "https://www.semanticscholar.org/paper/765fb93e488d7742747ac528dc513607d51b36da",
+        "title": "A Review of Computational Modeling of Polymer Composites and Nanocomposites",
+        "venue": "Polymers",
+        "year": 2026,
+        "citationCount": 9,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-01",
+        "authors": [
+          {
+            "authorId": "2249946040",
+            "name": "Zhangke Yang"
+          },
+          {
+            "authorId": "2250013076",
+            "name": "Zhaoxu Meng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "930484718f43e4e3dc30cebdca4599feb4f6f982",
+        "externalIds": {
+          "PubMedCentral": "12030574",
+          "DOI": "10.3390/polym17081120",
+          "CorpusId": 277980915,
+          "PubMed": "40284385"
+        },
+        "url": "https://www.semanticscholar.org/paper/930484718f43e4e3dc30cebdca4599feb4f6f982",
+        "title": "Polyvinylidene Fluoride (PVDF) and Nanoclay Composites’ Mixed-Matrix Membranes: Exploring Structure, Properties, and Performance Relationships",
+        "venue": "Polymers",
+        "year": 2025,
+        "citationCount": 17,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/polym17081120",
+          "status": "GOLD",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-04-01",
+        "authors": [
+          {
+            "authorId": "1403714967",
+            "name": "R. Abu-Zurayk"
+          },
+          {
+            "authorId": "2136072800",
+            "name": "Nour Alnairat"
+          },
+          {
+            "authorId": "2260849366",
+            "name": "Haneen Waleed"
+          },
+          {
+            "authorId": "2297567215",
+            "name": "M. Q. Al-Khaial"
+          },
+          {
+            "authorId": "2063969338",
+            "name": "A. Khalaf"
+          },
+          {
+            "authorId": "13592355",
+            "name": "Ayat Bozeya"
+          },
+          {
+            "authorId": "2165428556",
+            "name": "D. Abu-Dalo"
+          },
+          {
+            "authorId": "2356732797",
+            "name": "Sojoud Al-Yousef"
+          },
+          {
+            "authorId": "2356735095",
+            "name": "Razan Afaneh"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "76a85b08e3c5afecb5036bc72ffbf09fb62d9a43",
+        "externalIds": {
+          "DOI": "10.1007/s10924-025-03505-8",
+          "CorpusId": 276260942
+        },
+        "url": "https://www.semanticscholar.org/paper/76a85b08e3c5afecb5036bc72ffbf09fb62d9a43",
+        "title": "Polymer Synergy: Enhancing PA6/PLA Properties with POE-g-MA and Bioactive Glass for Advanced Biomedical Solutions",
+        "venue": "Journal of Polymers and the Environment",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-10",
+        "authors": [
+          {
+            "authorId": "113666258",
+            "name": "M. Azizli"
+          },
+          {
+            "authorId": "114373453",
+            "name": "S. Lashgari"
+          },
+          {
+            "authorId": "104650088",
+            "name": "Katayoon Rezaeeparto"
+          },
+          {
+            "authorId": "114765418",
+            "name": "S. Parham"
+          },
+          {
+            "authorId": "93339787",
+            "name": "A. Ghadami"
+          },
+          {
+            "authorId": "4476011",
+            "name": "L. Tayebi"
+          },
+          {
+            "authorId": "92436397",
+            "name": "Ehsan Vafa"
+          },
+          {
+            "authorId": "2344848352",
+            "name": "Mohammadreza Asadizadegan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "23d18c24d25c612d17a915496ab158967aafd1c9",
+        "externalIds": {
+          "DOI": "10.1038/s41428-024-00938-1",
+          "CorpusId": 271690925
+        },
+        "url": "https://www.semanticscholar.org/paper/23d18c24d25c612d17a915496ab158967aafd1c9",
+        "title": "Preparation of small-pore UF membranes with high porosity by modulating the size of nano-CaCO3 in a casting solution",
+        "venue": "Polymer journal",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-02",
+        "authors": [
+          {
+            "authorId": "2314604096",
+            "name": "Yujie Wu"
+          },
+          {
+            "authorId": "3873119",
+            "name": "Shenghuan Wang"
+          },
+          {
+            "authorId": "2297062105",
+            "name": "Yahui Liu"
+          },
+          {
+            "authorId": "2443253163",
+            "name": "Yanhong Ji"
+          },
+          {
+            "authorId": "2297155965",
+            "name": "Benqiao He"
+          },
+          {
+            "authorId": "46621112",
+            "name": "M. Younas"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6f95d3fd390da34e6fade70d53e51c401c4843bb",
+        "externalIds": {
+          "DOI": "10.1016/j.commatsci.2023.112572",
+          "CorpusId": 264361300
+        },
+        "url": "https://www.semanticscholar.org/paper/6f95d3fd390da34e6fade70d53e51c401c4843bb",
+        "title": "Molecular simulation on the rheological properties of phenolic resins during crosslinking",
+        "venue": "Computational materials science",
+        "year": 2024,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-01-01",
+        "authors": [
+          {
+            "authorId": "2260848238",
+            "name": "Yu Qiao"
+          },
+          {
+            "authorId": "2304887862",
+            "name": "Bing Sun"
+          },
+          {
+            "authorId": "2372918317",
+            "name": "Hongtao Wang"
+          },
+          {
+            "authorId": "2118082149",
+            "name": "Lei Dong"
+          },
+          {
+            "authorId": "2260718949",
+            "name": "Jianyu Wu"
+          },
+          {
+            "authorId": "2108801012",
+            "name": "Yanping Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8675c4349e6c792dd11b8220bc7f63528b932610",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2023.126482",
+          "CorpusId": 265242607
+        },
+        "url": "https://www.semanticscholar.org/paper/8675c4349e6c792dd11b8220bc7f63528b932610",
+        "title": "Exploring the relationship between interfacial adhesion, molecular dynamics, and the brill transition in fully bio-based polyamide 1010 nanocomposites reinforced by two-dimensional materials",
+        "venue": "Polymer",
+        "year": 2023,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-11-01",
+        "authors": [
+          {
+            "authorId": "2258146237",
+            "name": "G. M. Pinto"
+          },
+          {
+            "authorId": "2267017114",
+            "name": "A. B. Santos"
+          },
+          {
+            "authorId": "31280017",
+            "name": "E. Helal"
+          },
+          {
+            "authorId": "31813016",
+            "name": "H. Ribeiro"
+          },
+          {
+            "authorId": "2183973750",
+            "name": "É. David"
+          },
+          {
+            "authorId": "12201526",
+            "name": "C. Woellner"
+          },
+          {
+            "authorId": "16185004",
+            "name": "N. Demarquette"
+          },
+          {
+            "authorId": "41210198",
+            "name": "G. Fechine"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d47dc1e8a2baeadfdc099a550ce730171d0f80c7",
+        "externalIds": {
+          "DOI": "10.1021/acs.jpcb.3c01697",
+          "CorpusId": 257983976,
+          "PubMed": "37020173"
+        },
+        "url": "https://www.semanticscholar.org/paper/d47dc1e8a2baeadfdc099a550ce730171d0f80c7",
+        "title": "Analyzing and Predicting the Viscosity of Polymer Nanocomposites in the Conditions of Temperature, Shear Rate, and Nanoparticle Loading with Molecular Dynamics Simulations and Machine Learning.",
+        "venue": "Journal of Physical Chemistry B",
+        "year": 2023,
+        "citationCount": 21,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-04-05",
+        "authors": [
+          {
+            "authorId": "2261841637",
+            "name": "Haoxiang Li"
+          },
+          {
+            "authorId": "48496809",
+            "name": "Hao Tian"
+          },
+          {
+            "authorId": "3028361",
+            "name": "Yewei Chen"
+          },
+          {
+            "authorId": "2150301431",
+            "name": "Sian Xiao"
+          },
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f610903e5f0dd23ec94ef8bc86558b924afdface",
+        "externalIds": {
+          "DOI": "10.2139/ssrn.4387029",
+          "CorpusId": 257529109
+        },
+        "url": "https://www.semanticscholar.org/paper/f610903e5f0dd23ec94ef8bc86558b924afdface",
+        "title": "Facilely Prepare High-Performance Loose Nanofiltration Membranes Through Regulation of Polymer Chain Entanglements by Only Changing Nanoparticle Size in Solution",
+        "venue": "Social Science Research Network",
+        "year": 2023,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-04-01",
+        "authors": [
+          {
+            "authorId": "3873119",
+            "name": "Shenghuan Wang"
+          },
+          {
+            "authorId": "2151697180",
+            "name": "Qiaoyu Liang"
+          },
+          {
+            "authorId": "2324344995",
+            "name": "Yanghe Liu"
+          },
+          {
+            "authorId": "9850950",
+            "name": "Benqiao He"
+          },
+          {
+            "authorId": "2443253163",
+            "name": "Yanhong Ji"
+          },
+          {
+            "authorId": "39641862",
+            "name": "Zhenyu Cui"
+          },
+          {
+            "authorId": "2109054051",
+            "name": "Xiaohua Ma"
+          },
+          {
+            "authorId": "2155336098",
+            "name": "Jianxin Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3b1e473349ed8e7cd8e0b96078a8511ca70eacdb",
+        "externalIds": {
+          "DBLP": "journals/cphysics/KrogerDHL23",
+          "DOI": "10.1016/j.cpc.2022.108567",
+          "CorpusId": 253113668
+        },
+        "url": "https://www.semanticscholar.org/paper/3b1e473349ed8e7cd8e0b96078a8511ca70eacdb",
+        "title": "The Z1+ package: Shortest multiple disconnected path for the analysis of entanglements in macromolecular systems",
+        "venue": "Computer Physics Communications",
+        "year": 2023,
+        "citationCount": 124,
+        "openAccessPdf": {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0010465522002867/pdf",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-02-01",
+        "authors": [
+          {
+            "authorId": "145180906",
+            "name": "M. Kröger"
+          },
+          {
+            "authorId": "1671182202",
+            "name": "Joseph D. Dietz"
+          },
+          {
+            "authorId": "5294448",
+            "name": "R. Hoy"
+          },
+          {
+            "authorId": "91065662",
+            "name": "C. Luap"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f5b752f5bfcea1bf93492bc828d8f3055ae7c674",
+        "externalIds": {
+          "DOI": "10.1016/j.mtcomm.2023.105573",
+          "CorpusId": 256790734
+        },
+        "url": "https://www.semanticscholar.org/paper/f5b752f5bfcea1bf93492bc828d8f3055ae7c674",
+        "title": "Stress Overshoot Behavior in Polymer Nanocomposites Filled with Spherical Nanoparticles under Steady Shear Flow via Molecular Dynamics Simulation",
+        "venue": "Materials Today Communications",
+        "year": 2023,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2023-02-01",
+        "authors": [
+          {
+            "authorId": "2261841637",
+            "name": "Haoxiang Li"
+          },
+          {
+            "authorId": "2113550811",
+            "name": "Ruibin Ma"
+          },
+          {
+            "authorId": "2145505463",
+            "name": "Wenfeng Zhang"
+          },
+          {
+            "authorId": "48802581",
+            "name": "Shikai Hu"
+          },
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "15a0a36b9d70aacedeed1020d7c3c2a44f758936",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2023.125722",
+          "CorpusId": 256125630
+        },
+        "url": "https://www.semanticscholar.org/paper/15a0a36b9d70aacedeed1020d7c3c2a44f758936",
+        "title": "Effects of 2D filler on rheology of additive manufacturing polymers: Simulation and experiment on polyetherketoneketone -mica composites",
+        "venue": "Polymer",
+        "year": 2023,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0032386123000526",
+          "status": "BRONZE",
+          "license": "publisher-specific-oa"
+        },
+        "publicationTypes": null,
+        "publicationDate": "2023-01-01",
+        "authors": [
+          {
+            "authorId": "50735395",
+            "name": "Peiyuan Gao"
+          },
+          {
+            "authorId": "113025650",
+            "name": "Scott E. Muller"
+          },
+          {
+            "authorId": "2141580998",
+            "name": "J. Chun"
+          },
+          {
+            "authorId": "2112684337",
+            "name": "L. Zhong"
+          },
+          {
+            "authorId": "144494627",
+            "name": "Zachary C. Kennedy"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1f851612e1ea04e9dc05b6ab59c73ad07629adc2",
+        "externalIds": {
+          "DOI": "10.1016/j.ccr.2025.216580",
+          "CorpusId": 276891051
+        },
+        "url": "https://www.semanticscholar.org/paper/1f851612e1ea04e9dc05b6ab59c73ad07629adc2",
+        "title": "Comprehensive insights into molecular simulation-driven advances in functional materials for pollutant mitigation",
+        "venue": "Coordination chemistry reviews",
+        "year": 2025,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2255557254",
+            "name": "Iman Salahshoori"
+          },
+          {
+            "authorId": "1399041778",
+            "name": "Majid Namayandeh Jorabchi"
+          },
+          {
+            "authorId": "2275905579",
+            "name": "Morteza Asghari"
+          },
+          {
+            "authorId": "2327490400",
+            "name": "Sebastian Wohlrab"
+          },
+          {
+            "authorId": "2161305050",
+            "name": "Mehdi Golriz"
+          },
+          {
+            "authorId": "2266109088",
+            "name": "H. A. Khonakdar"
+          }
+        ]
+      }
+    }
+  ]
+}

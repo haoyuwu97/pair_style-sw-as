@@ -1,0 +1,1028 @@
+[
+  {
+    "oci": "06012945099-06704430175",
+    "citing": "omid:br/06012945099 doi:10.1007/978-981-96-3679-2_12 openalex:W4409254642",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025",
+    "timespan": "P1Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607122670-06704430175",
+    "citing": "omid:br/0607122670 doi:10.1021/acssensors.4c02395 openalex:W4406106640",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-01-06",
+    "timespan": "P1Y11M7D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06280146118-06704430175",
+    "citing": "omid:br/06280146118 doi:10.1016/j.isci.2023.107304 openalex:W4383740948",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-08",
+    "timespan": "P0Y6M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06330369166-06704430175",
+    "citing": "omid:br/06330369166 doi:10.1002/adma.202310505 openalex:W4391137392",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-02-07",
+    "timespan": "P1Y0M8D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013871577-06704430175",
+    "citing": "omid:br/06013871577 doi:10.1039/d5ta04906g",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025",
+    "timespan": "P1Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608563334-06704430175",
+    "citing": "omid:br/0608563334 doi:10.1002/smll.202506521 openalex:W4412490490",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-07-17",
+    "timespan": "P2Y5M17D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015154452-06704430175",
+    "citing": "omid:br/06015154452 doi:10.1360/csb-2025-5240",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-11-01",
+    "timespan": "P2Y9M2D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06504734716-06704430175",
+    "citing": "omid:br/06504734716 doi:10.2139/ssrn.4856226 openalex:W4399658682",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06204663197-06704430175",
+    "citing": "omid:br/06204663197 doi:10.1021/acs.chemrev.3c00507 openalex:W4391929423",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-02-19",
+    "timespan": "P1Y0M20D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062404300790-06704430175",
+    "citing": "omid:br/062404300790 doi:10.1016/j.cej.2024.155590 openalex:W4402338814",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-10",
+    "timespan": "P1Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061304313247-06704430175",
+    "citing": "omid:br/061304313247 doi:10.1038/s41467-024-49787-9 openalex:W4400010126",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-06-25",
+    "timespan": "P1Y4M26D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06904314802-06704430175",
+    "citing": "omid:br/06904314802 doi:10.1021/acssuschemeng.3c04237 openalex:W4388125593",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "",
+    "timespan": "",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06330368684-06704430175",
+    "citing": "omid:br/06330368684 doi:10.1002/adma.202308912 openalex:W4391014981",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-02-03",
+    "timespan": "P1Y0M4D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061604312398-06704430175",
+    "citing": "omid:br/061604312398 doi:10.1002/adfm.202406022 openalex:W4399490764",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-06-10",
+    "timespan": "P1Y4M11D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608776222-06704430175",
+    "citing": "omid:br/0608776222 doi:10.3390/s25072280 openalex:W4409173016",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-04-03",
+    "timespan": "P2Y2M4D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014914913-06704430175",
+    "citing": "omid:br/06014914913 doi:10.1038/s41467-025-67413-0",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-12-12",
+    "timespan": "P2Y10M12D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062104277886-06704430175",
+    "citing": "omid:br/062104277886 doi:10.1021/acsnano.4c10117 openalex:W4404076609",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11-05",
+    "timespan": "P1Y9M6D",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608907895-06704430175",
+    "citing": "omid:br/0608907895 doi:10.2139/ssrn.5240877 openalex:W4410052664",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025",
+    "timespan": "P1Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061404174152-06704430175",
+    "citing": "omid:br/061404174152 doi:10.1039/d3nr06664a openalex:W4393205725",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015314041-06704430175",
+    "citing": "omid:br/06015314041 doi:10.1021/acs.langmuir.5c04791",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-12-12",
+    "timespan": "P2Y10M12D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608003825-06704430175",
+    "citing": "omid:br/0608003825 doi:10.1021/acsaelm.5c00221 openalex:W4408836909",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-03-24",
+    "timespan": "P2Y1M24D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015277447-06704430175",
+    "citing": "omid:br/06015277447 doi:10.1126/sciadv.aea5803",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-01-16",
+    "timespan": "P2Y11M17D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0609814449-06704430175",
+    "citing": "omid:br/0609814449 doi:10.1016/j.nanoen.2025.111035 openalex:W4409827409",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-07",
+    "timespan": "P2Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0606456680-06704430175",
+    "citing": "omid:br/0606456680 doi:10.1016/j.jallcom.2024.177930 openalex:W4404996358",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-01",
+    "timespan": "P1Y11M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06280416352-06704430175",
+    "citing": "omid:br/06280416352 doi:10.1039/d3dt04192a openalex:W4391995308",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504429954-06704430175",
+    "citing": "omid:br/062504429954 doi:10.1016/j.nanoen.2024.109878 openalex:W4399631169",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-09",
+    "timespan": "P1Y7M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06011869614-06704430175",
+    "citing": "omid:br/06011869614 doi:10.1016/j.cej.2025.166454 openalex:W4412818157",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-10",
+    "timespan": "P2Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014786831-06704430175",
+    "citing": "omid:br/06014786831 doi:10.1039/d5mh02286j",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026",
+    "timespan": "P2Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061804314758-06704430175",
+    "citing": "omid:br/061804314758 doi:10.1109/tim.2024.3488139 openalex:W4403919817",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06330556142-06704430175",
+    "citing": "omid:br/06330556142 doi:10.1039/d3tc02970k openalex:W4388026736",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06011734653-06704430175",
+    "citing": "omid:br/06011734653 doi:10.1021/acsaelm.5c01173 openalex:W4412881641",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-08-04",
+    "timespan": "P2Y6M5D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0606768278-06704430175",
+    "citing": "omid:br/0606768278 doi:10.1016/j.nanoen.2025.110747 openalex:W4407088212",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-04",
+    "timespan": "P2Y2M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608003012-06704430175",
+    "citing": "omid:br/0608003012 doi:10.1021/acsaelm.5c00067 openalex:W4408865077",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-03-26",
+    "timespan": "P2Y1M26D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061604125082-06704430175",
+    "citing": "omid:br/061604125082 doi:10.1021/acssuschemeng.3c06481 openalex:W4390192266",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-12-25",
+    "timespan": "P0Y10M25D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062204380896-06704430175",
+    "citing": "omid:br/062204380896 doi:10.1016/j.snb.2024.136005 openalex:W4398200900",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-10",
+    "timespan": "P1Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06404852355-06704430175",
+    "citing": "omid:br/06404852355 doi:10.1109/led.2024.3394855 openalex:W4396599657",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-07",
+    "timespan": "P1Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06011573748-06704430175",
+    "citing": "omid:br/06011573748 doi:10.1021/acsami.5c10061 openalex:W4412066446",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-07-07",
+    "timespan": "P2Y5M7D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062104277374-06704430175",
+    "citing": "omid:br/062104277374 doi:10.1021/acsnano.3c13221 openalex:W4394683440",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-04-10",
+    "timespan": "P1Y2M11D",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015032015-06704430175",
+    "citing": "omid:br/06015032015 doi:10.2139/ssrn.4669527",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06010009562-06704430175",
+    "citing": "omid:br/06010009562 doi:10.1038/s41528-025-00469-6 openalex:W4414543791",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-09-26",
+    "timespan": "P2Y7M27D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015395795-06704430175",
+    "citing": "omid:br/06015395795 doi:10.1002/adfm.202530875",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-01-29",
+    "timespan": "P2Y11M30D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061604207364-06704430175",
+    "citing": "omid:br/061604207364 doi:10.1021/acsanm.4c02631 openalex:W4400119999",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-06-28",
+    "timespan": "P1Y4M29D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014541588-06704430175",
+    "citing": "omid:br/06014541588 doi:10.1021/acssensors.5c03297",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-11-24",
+    "timespan": "P2Y9M25D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06012693604-06704430175",
+    "citing": "omid:br/06012693604 doi:10.1002/adfm.202505543 openalex:W4411570774",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-06-23",
+    "timespan": "P2Y4M24D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607251172-06704430175",
+    "citing": "omid:br/0607251172 doi:10.1016/j.nanoen.2025.110678 openalex:W4406570289",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-03",
+    "timespan": "P2Y1M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0604961176-06704430175",
+    "citing": "omid:br/0604961176 doi:10.1016/j.cej.2024.158879 openalex:W4405695311",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-02",
+    "timespan": "P2Y0M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062204286754-06704430175",
+    "citing": "omid:br/062204286754 doi:10.1021/acs.macromol.4c00057 openalex:W4396814947",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-05-10",
+    "timespan": "P1Y3M10D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06204663198-06704430175",
+    "citing": "omid:br/06204663198 doi:10.1021/acs.chemrev.3c00502 openalex:W4390588573",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-01-04",
+    "timespan": "P0Y11M5D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0605629190-06704430175",
+    "citing": "omid:br/0605629190 doi:10.1016/j.cej.2025.161618 openalex:W4408475671",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-04",
+    "timespan": "P2Y2M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014145048-06704430175",
+    "citing": "omid:br/06014145048 doi:10.1109/jsen.2025.3618897",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-11-15",
+    "timespan": "P2Y9M16D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06904312466-06704430175",
+    "citing": "omid:br/06904312466 doi:10.1016/j.measurement.2024.114874 openalex:W4396733002",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-08",
+    "timespan": "P1Y6M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061403819285-06704430175",
+    "citing": "omid:br/061403819285 doi:10.1002/smll.202303301 openalex:W4383682828",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-07-09",
+    "timespan": "P0Y5M9D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06404778102-06704430175",
+    "citing": "omid:br/06404778102 doi:10.1039/d3cs00941f openalex:W4401963745",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062204401510-06704430175",
+    "citing": "omid:br/062204401510 doi:10.1016/j.nanoen.2023.109039 openalex:W4388161337",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "",
+    "timespan": "",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013078357-06704430175",
+    "citing": "omid:br/06013078357 doi:10.1002/admt.202501463",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-10-30",
+    "timespan": "P2Y9M0D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06310437906-06704430175",
+    "citing": "omid:br/06310437906 doi:10.1002/adma.202402542 openalex:W4397021207",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-05-22",
+    "timespan": "P1Y3M22D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06012883260-06704430175",
+    "citing": "omid:br/06012883260 doi:10.1016/j.measurement.2025.118359 openalex:W4412702344",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-12",
+    "timespan": "P2Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061704331123-06704430175",
+    "citing": "omid:br/061704331123 doi:10.1002/adfm.202405099 openalex:W4396906102",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-05-14",
+    "timespan": "P1Y3M14D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013068196-06704430175",
+    "citing": "omid:br/06013068196 doi:10.1109/jsen.2025.3559555",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-02-01",
+    "timespan": "P3Y0M2D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014848312-06704430175",
+    "citing": "omid:br/06014848312 doi:10.1007/s42765-025-00670-2",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-02-23",
+    "timespan": "P3Y0M24D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06011658390-06704430175",
+    "citing": "omid:br/06011658390 doi:10.1109/ted.2025.3558495 openalex:W4409561292",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-06",
+    "timespan": "P2Y4M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061504251517-06704430175",
+    "citing": "omid:br/061504251517 doi:10.1021/acsami.4c16505 openalex:W4403970644",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11-01",
+    "timespan": "P1Y9M2D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504429824-06704430175",
+    "citing": "omid:br/062504429824 doi:10.1016/j.nanoen.2024.109750 openalex:W4397031091",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-08",
+    "timespan": "P1Y6M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061404280436-06704430175",
+    "citing": "omid:br/061404280436 doi:10.1039/d4ta01394h openalex:W4396738827",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06804715513-06704430175",
+    "citing": "omid:br/06804715513 doi:10.1021/acssensors.4c01171 openalex:W4400355577",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-07-05",
+    "timespan": "P1Y5M5D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061903945404-06704430175",
+    "citing": "omid:br/061903945404 doi:10.3390/app13084688 openalex:W4362733379",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-04-07",
+    "timespan": "P0Y2M8D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0609000593-06704430175",
+    "citing": "omid:br/0609000593 doi:10.1016/j.sna.2025.116736 openalex:W4410773033",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-10",
+    "timespan": "P2Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06010390482-06704430175",
+    "citing": "omid:br/06010390482 doi:10.1016/j.mtphys.2025.101793 openalex:W4412436397",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-09",
+    "timespan": "P2Y7M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06350441145-06704430175",
+    "citing": "omid:br/06350441145 doi:10.1155/2024/5541865 openalex:W4392767062",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-03-01",
+    "timespan": "P1Y1M1D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0606756560-06704430175",
+    "citing": "omid:br/0606756560 doi:10.1002/adfm.202417238 openalex:W4405006072",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-12-04",
+    "timespan": "P1Y10M4D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0639088748-06704430175",
+    "citing": "omid:br/0639088748 doi:10.3390/bios13060656 openalex:W4380988441",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-06-15",
+    "timespan": "P0Y4M16D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06012630147-06704430175",
+    "citing": "omid:br/06012630147 doi:10.1039/d5ra02594j openalex:W4411786516",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025",
+    "timespan": "P1Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014299546-06704430175",
+    "citing": "omid:br/06014299546 doi:10.1016/j.sna.2025.117398",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-03",
+    "timespan": "P3Y1M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0606904634-06704430175",
+    "citing": "omid:br/0606904634 doi:10.1002/adfm.202418706 openalex:W4404900146",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-12",
+    "timespan": "P1Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015480926-06704430175",
+    "citing": "omid:br/06015480926 doi:10.1002/inf2.70116",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-01-13",
+    "timespan": "P2Y11M14D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504279097-06704430175",
+    "citing": "omid:br/062504279097 doi:10.1016/j.nantod.2024.102544 openalex:W4404127660",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-12",
+    "timespan": "P1Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06104682542-06704430175",
+    "citing": "omid:br/06104682542 doi:10.1016/j.nanoen.2023.109104 openalex:W4388806410",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-02",
+    "timespan": "P1Y0M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06340479700-06704430175",
+    "citing": "omid:br/06340479700 doi:10.1021/acsaelm.4c01090 openalex:W4402484227",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-09-12",
+    "timespan": "P1Y7M13D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014972763-06704430175",
+    "citing": "omid:br/06014972763 doi:10.1021/acsami.5c13759",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-11-19",
+    "timespan": "P2Y9M20D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0609454938-06704430175",
+    "citing": "omid:br/0609454938 doi:10.20517/ss.2025.11 openalex:W4411664979",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-06-26",
+    "timespan": "P2Y4M27D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06504819530-06704430175",
+    "citing": "omid:br/06504819530 doi:10.1109/mems58180.2024.10439393 openalex:W4392029227",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-01-21",
+    "timespan": "P0Y11M22D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013014244-06704430175",
+    "citing": "omid:br/06013014244 doi:10.1016/j.cej.2026.173685",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-03",
+    "timespan": "P3Y1M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06011831266-06704430175",
+    "citing": "omid:br/06011831266 doi:10.1002/adrr.202500027 openalex:W7084500753",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-07-08",
+    "timespan": "P2Y5M8D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504429153-06704430175",
+    "citing": "omid:br/062504429153 doi:10.1016/j.nanoen.2024.110524 openalex:W4404769880",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11",
+    "timespan": "P1Y9M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061504294415-06704430175",
+    "citing": "omid:br/061504294415 doi:10.1002/adfm.202403788 openalex:W4401400732",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-08-07",
+    "timespan": "P1Y6M8D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061304197043-06704430175",
+    "citing": "omid:br/061304197043 doi:10.1038/s41378-024-00703-7 openalex:W4399552767",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-06-11",
+    "timespan": "P1Y4M12D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06010359820-06704430175",
+    "citing": "omid:br/06010359820 doi:10.1109/tim.2025.3561435 openalex:W4409494518",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025",
+    "timespan": "P1Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06310437880-06704430175",
+    "citing": "omid:br/06310437880 doi:10.1002/adma.202410312 openalex:W4402994118",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-09-30",
+    "timespan": "P1Y8M0D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0609104458-06704430175",
+    "citing": "omid:br/0609104458 doi:10.1021/acs.langmuir.5c01404 openalex:W4410449333",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-05-16",
+    "timespan": "P2Y3M16D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06350516476-06704430175",
+    "citing": "omid:br/06350516476 doi:10.1021/acs.chemrev.4c00049 openalex:W4402012888",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-08-28",
+    "timespan": "P1Y6M29D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061204141413-06704430175",
+    "citing": "omid:br/061204141413 doi:10.1039/d3mh01387a openalex:W4388552835",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015380604-06704430175",
+    "citing": "omid:br/06015380604 doi:10.1021/acsnano.5c21609",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-02-20",
+    "timespan": "P3Y0M21D",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061804342119-06704430175",
+    "citing": "omid:br/061804342119 doi:10.1021/acsami.4c15137 openalex:W4404414546",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11-15",
+    "timespan": "P1Y9M16D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06204856518-06704430175",
+    "citing": "omid:br/06204856518 doi:10.3390/biomedicines12102307 openalex:W4403338890",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-10-11",
+    "timespan": "P1Y8M11D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013206178-06704430175",
+    "citing": "omid:br/06013206178 doi:10.1016/j.mattod.2026.103211",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-03",
+    "timespan": "P3Y1M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014543911-06704430175",
+    "citing": "omid:br/06014543911 doi:10.1002/admt.202502287",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-02-22",
+    "timespan": "P3Y0M23D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014142781-06704430175",
+    "citing": "omid:br/06014142781 doi:10.1016/j.sna.2025.117329",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2026-02",
+    "timespan": "P3Y0M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504430003-06704430175",
+    "citing": "omid:br/062504430003 doi:10.1016/j.nanoen.2024.110188 openalex:W4401964052",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-12",
+    "timespan": "P1Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06010100248-06704430175",
+    "citing": "omid:br/06010100248 doi:10.1002/adhm.202502901 openalex:W4412067102",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-07-06",
+    "timespan": "P2Y5M6D",
+    "journal_sc": "no",
+    "author_sc": "yes"
+  },
+  {
+    "oci": "06011926032-06704430175",
+    "citing": "omid:br/06011926032 doi:10.1021/acssensors.5c01945 openalex:W4413935217",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-09-02",
+    "timespan": "P2Y7M3D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0645067275-06704430175",
+    "citing": "omid:br/0645067275 doi:10.1021/acsami.3c02690 openalex:W4367048117",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-04-26",
+    "timespan": "P0Y2M27D",
+    "journal_sc": "no",
+    "author_sc": "yes"
+  },
+  {
+    "oci": "06014037776-06704430175",
+    "citing": "omid:br/06014037776 doi:10.1021/acsami.5c19862",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-12-30",
+    "timespan": "P2Y11M0D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062104416734-06704430175",
+    "citing": "omid:br/062104416734 doi:10.1002/advs.202408313 openalex:W4404696462",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11-25",
+    "timespan": "P1Y9M26D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062404301384-06704430175",
+    "citing": "omid:br/062404301384 doi:10.1016/j.cej.2024.154083 openalex:W4400721686",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-09",
+    "timespan": "P1Y7M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061604291217-06704430175",
+    "citing": "omid:br/061604291217 doi:10.1039/d4ta03517h openalex:W4400049475",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014214058-06704430175",
+    "citing": "omid:br/06014214058 doi:10.1002/aidi.202500112",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-10-20",
+    "timespan": "P2Y8M20D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06320375286-06704430175",
+    "citing": "omid:br/06320375286 doi:10.1021/acsami.3c18788 openalex:W4391484113",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-02-02",
+    "timespan": "P1Y0M3D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06804739758-06704430175",
+    "citing": "omid:br/06804739758 doi:10.1007/s40820-024-01571-6 openalex:W4404455487",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-11-18",
+    "timespan": "P1Y9M19D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607353969-06704430175",
+    "citing": "omid:br/0607353969 doi:10.1002/advs.202414425 openalex:W4407859199",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-02-22",
+    "timespan": "P2Y0M23D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062404455027-06704430175",
+    "citing": "omid:br/062404455027 doi:10.3390/s24144698 openalex:W4400806757",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-07-19",
+    "timespan": "P1Y5M19D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06404427770-06704430175",
+    "citing": "omid:br/06404427770 doi:10.1364/oe.498784 openalex:W4386250802",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2023-09-21",
+    "timespan": "P0Y7M22D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607236259-06704430175",
+    "citing": "omid:br/0607236259 doi:10.1021/acssensors.4c03495 openalex:W4407437095",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2025-02-13",
+    "timespan": "P2Y0M14D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06350423884-06704430175",
+    "citing": "omid:br/06350423884 doi:10.3390/chemosensors12040057 openalex:W4394580888",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-04-08",
+    "timespan": "P1Y2M9D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061704287582-06704430175",
+    "citing": "omid:br/061704287582 doi:10.1021/acsami.4c06546 openalex:W4399601022",
+    "cited": "omid:br/06704430175 doi:10.1021/acsnano.2c11897 openalex:W4318499587",
+    "creation": "2024-06-13",
+    "timespan": "P1Y4M14D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  }
+]

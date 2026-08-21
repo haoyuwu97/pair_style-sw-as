@@ -1,0 +1,3262 @@
+[
+  {
+    "id": "https://openalex.org/W4391961147",
+    "doi": "https://doi.org/10.3390/polym16040545",
+    "title": "Advances in Monte Carlo Method for Simulating the Electrical Percolation Behavior of Conductive Polymer Composites with a Carbon-Based Filling",
+    "display_name": "Advances in Monte Carlo Method for Simulating the Electrical Percolation Behavior of Conductive Polymer Composites with a Carbon-Based Filling",
+    "publication_year": 2024,
+    "publication_date": "2024-02-18",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5100442950",
+          "display_name": "Zhe Zhang",
+          "orcid": "https://orcid.org/0000-0001-8407-3167"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I198091727",
+            "display_name": "Tiangong University",
+            "ror": "https://ror.org/00xsr9m91",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zhe Zhang",
+        "raw_affiliation_strings": [
+          "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046565907",
+          "display_name": "Liang Hu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I198091727",
+            "display_name": "Tiangong University",
+            "ror": "https://ror.org/00xsr9m91",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Liang Hu",
+        "raw_affiliation_strings": [
+          "School of Physical Science and Technology, Tiangong University, Tianjin 300387, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physical Science and Technology, Tiangong University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5120645120",
+          "display_name": "Rui Wang",
+          "orcid": "https://orcid.org/0009-0005-8109-7688"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I198091727",
+            "display_name": "Tiangong University",
+            "ror": "https://ror.org/00xsr9m91",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rui Wang",
+        "raw_affiliation_strings": [
+          "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112582879",
+          "display_name": "Shujie Zhang",
+          "orcid": "https://orcid.org/0000-0003-3764-059X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I198091727",
+            "display_name": "Tiangong University",
+            "ror": "https://ror.org/00xsr9m91",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Shujie Zhang",
+        "raw_affiliation_strings": [
+          "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101904354",
+          "display_name": "Lisong Fu",
+          "orcid": "https://orcid.org/0000-0001-5163-3535"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I198091727",
+            "display_name": "Tiangong University",
+            "ror": "https://ror.org/00xsr9m91",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lisong Fu",
+        "raw_affiliation_strings": [
+          "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-5163-3535",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Textile Science and Engineering, Tiangong University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I198091727"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101544067",
+          "display_name": "Mengxuan Li",
+          "orcid": "https://orcid.org/0000-0001-8209-655X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I15062923",
+            "display_name": "Tianjin Normal University",
+            "ror": "https://ror.org/05x2td559",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I15062923"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mengxuan Li",
+        "raw_affiliation_strings": [
+          "College of Fine Arts & Design, Tianjin Normal University, Tianjin 300387, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Fine Arts & Design, Tianjin Normal University, Tianjin 300387, China",
+            "institution_ids": [
+              "https://openalex.org/I15062923"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021991832",
+          "display_name": "Qi Xiao",
+          "orcid": "https://orcid.org/0000-0002-5515-1514"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21741975",
+            "display_name": "Suzhou University of Technology",
+            "ror": "https://ror.org/05g6ben79",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21741975"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Qi Xiao",
+        "raw_affiliation_strings": [
+          "School of Textile Garment and Design, Changshu Institute of Technology, Changshu 215500, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Textile Garment and Design, Changshu Institute of Technology, Changshu 215500, China",
+            "institution_ids": [
+              "https://openalex.org/I21741975"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3390/polym16040545",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/polym16040545",
+      "pdf_url": "https://www.mdpi.com/2073-4360/16/4/545/pdf?version=1708241454",
+      "source": {
+        "id": "https://openalex.org/S123288148",
+        "display_name": "Polymers",
+        "issn_l": "2073-4360",
+        "issn": [
+          "2073-4360"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymers",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2073-4360/16/4/545/pdf?version=1708241454",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4391961147",
+      "doi": "https://doi.org/10.3390/polym16040545",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/38399924"
+    },
+    "cited_by_count": 49
+  },
+  {
+    "id": "https://openalex.org/W4387769250",
+    "doi": "https://doi.org/10.1021/acsnano.3c06207",
+    "title": "Photothermal Lithography for Realizing a Stretchable Multilayer Electronic Circuit Using a Laser",
+    "display_name": "Photothermal Lithography for Realizing a Stretchable Multilayer Electronic Circuit Using a Laser",
+    "publication_year": 2023,
+    "publication_date": "2023-10-19",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5110784571",
+          "display_name": "Sangmin Song",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sangmin Song",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113027941",
+          "display_name": "Hyejun Hong",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hyejun Hong",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5059524797",
+          "display_name": "Kyung Yeun Kim",
+          "orcid": "https://orcid.org/0009-0006-1893-2545"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I97018004",
+            "display_name": "Stanford University",
+            "ror": "https://ror.org/00f54p054",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ]
+          }
+        ],
+        "countries": [
+          "KR",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kyung Yeun Kim",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Chemical Engineering, Stanford University, Stanford, California 94305, United States",
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Stanford University, Stanford, California 94305, United States",
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5050373501",
+          "display_name": "Kyun Kyu Kim",
+          "orcid": "https://orcid.org/0000-0003-4764-8165"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I97018004",
+            "display_name": "Stanford University",
+            "ror": "https://ror.org/00f54p054",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I97018004"
+            ]
+          }
+        ],
+        "countries": [
+          "KR",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kyun Kyu Kim",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Chemical Engineering, Stanford University, Stanford, California 94305, United States",
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4764-8165",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Stanford University, Stanford, California 94305, United States",
+            "institution_ids": [
+              "https://openalex.org/I97018004"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100720870",
+          "display_name": "Jaewoo Kim",
+          "orcid": "https://orcid.org/0000-0002-0967-0882"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197347611",
+            "display_name": "Korea University",
+            "ror": "https://ror.org/047dqcg40",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197347611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jaewoo Kim",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I197347611"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034038987",
+          "display_name": "Daeyeon Won",
+          "orcid": "https://orcid.org/0000-0003-2786-6536"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Daeyeon Won",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5104185540",
+          "display_name": "Soyoung Yun",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Soyoung Yun",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5110799659",
+          "display_name": "Joonhwa Choi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Joonhwa Choi",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5086014085",
+          "display_name": "Young‐In Ryu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Young-In Ryu",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018052057",
+          "display_name": "Kyung-Woo Lee",
+          "orcid": "https://orcid.org/0000-0002-3533-7979"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kyungwoo Lee",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5028740314",
+          "display_name": "Jaeho Park",
+          "orcid": "https://orcid.org/0000-0002-0213-8076"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jaeho Park",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087498008",
+          "display_name": "Joohyuk Kang",
+          "orcid": "https://orcid.org/0000-0002-6318-4842"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Joohyuk Kang",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Materials Science and Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5022942669",
+          "display_name": "Junhyuk Bang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Junhyuk Bang",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5086795857",
+          "display_name": "Hyunseon Seo",
+          "orcid": "https://orcid.org/0000-0003-3063-3258"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I848706",
+            "display_name": "Sungkyunkwan University",
+            "ror": "https://ror.org/04q78tk20",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I848706"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hyunseon Seo",
+        "raw_affiliation_strings": [
+          "School of Medicine, Sungkyunkwan University, Suwon 16419, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Medicine, Sungkyunkwan University, Suwon 16419, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I848706"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015526216",
+          "display_name": "Yu-Chan Kim",
+          "orcid": "https://orcid.org/0000-0002-7895-2015"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yu-Chan Kim",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5032173768",
+          "display_name": "Daeho Lee",
+          "orcid": "https://orcid.org/0000-0002-8119-9677"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I12832649",
+            "display_name": "Gachon University",
+            "ror": "https://ror.org/03ryywt80",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I12832649"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Daeho Lee",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering, Gachon University, Seongnam 13120, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8119-9677",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Gachon University, Seongnam 13120, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I12832649"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5065913929",
+          "display_name": "Haechang Lee",
+          "orcid": "https://orcid.org/0009-0005-0830-8725"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haechang Lee",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100398116",
+          "display_name": "Jinwoo Lee",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205490536",
+            "display_name": "Dongguk University",
+            "ror": "https://ror.org/057q6n778",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I205490536"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jinwoo Lee",
+        "raw_affiliation_strings": [
+          "Department of Mechanical, Robotics, and Energy Engineering, Dongguk University, Seoul 04620, Republic of Korea"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical, Robotics, and Energy Engineering, Dongguk University, Seoul 04620, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I205490536"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5089561110",
+          "display_name": "Suk‐Won Hwang",
+          "orcid": "https://orcid.org/0000-0002-6883-201X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197347611",
+            "display_name": "Korea University",
+            "ror": "https://ror.org/047dqcg40",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197347611"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Suk-Won Hwang",
+        "raw_affiliation_strings": [
+          "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6883-201X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I197347611"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5006823975",
+          "display_name": "Seung Hwan Ko",
+          "orcid": "https://orcid.org/0000-0002-7477-0820"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139264467",
+            "display_name": "Seoul National University",
+            "ror": "https://ror.org/04h9pn542",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Seung Hwan Ko",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7477-0820",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I139264467"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035292004",
+          "display_name": "Hojeong Jeon",
+          "orcid": "https://orcid.org/0000-0002-8277-7926"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197347611",
+            "display_name": "Korea University",
+            "ror": "https://ror.org/047dqcg40",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197347611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Hojeong Jeon",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8277-7926",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I197347611"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5010464805",
+          "display_name": "Wonryung Lee",
+          "orcid": "https://orcid.org/0000-0003-0527-023X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210145660",
+            "display_name": "Bio-Medical Science (South Korea)",
+            "ror": "https://ror.org/046p12h21",
+            "country_code": "KR",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210145660"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58716616",
+            "display_name": "Korea Institute of Science and Technology",
+            "ror": "https://ror.org/05kzfa883",
+            "country_code": "KR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I27494661",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I2801339556",
+              "https://openalex.org/I4210144908",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I4387152098",
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I88761825",
+            "display_name": "Korea University of Science and Technology",
+            "ror": "https://ror.org/000qzf213",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I88761825"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Wonryung Lee",
+        "raw_affiliation_strings": [
+          "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+          "Division of Bio-Medical Science & Technology, University of Science & Technology (UST), Seoul 02792, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0527-023X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Biomaterials Research Center, Biomedical Research Division, Korea Institute of Science and Technology, Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I58716616"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Division of Bio-Medical Science & Technology, University of Science & Technology (UST), Seoul 02792, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I4210145660",
+              "https://openalex.org/I88761825"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acsnano.3c06207",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acsnano.3c06207",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S145476921",
+        "display_name": "ACS Nano",
+        "issn_l": "1936-0851",
+        "issn": [
+          "1936-0851",
+          "1936-086X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Nano",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4387769250",
+      "doi": "https://doi.org/10.1021/acsnano.3c06207",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/37857269"
+    },
+    "cited_by_count": 33
+  },
+  {
+    "id": "https://openalex.org/W3217652920",
+    "doi": "https://doi.org/10.1016/j.polymer.2021.124413",
+    "title": "Stretchable silver@CNT-poly(vinyl alcohol) films with efficient electromagnetic shielding prepared by polydopamine functionalization",
+    "display_name": "Stretchable silver@CNT-poly(vinyl alcohol) films with efficient electromagnetic shielding prepared by polydopamine functionalization",
+    "publication_year": 2021,
+    "publication_date": "2021-11-29",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5040443073",
+          "display_name": "Wenyu Shen",
+          "orcid": "https://orcid.org/0000-0001-8369-5423"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wenyu Shen",
+        "raw_affiliation_strings": [
+          "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-8369-5423",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063311052",
+          "display_name": "Diana Estévez",
+          "orcid": "https://orcid.org/0000-0002-3651-4412"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Diana Estevez",
+        "raw_affiliation_strings": [
+          "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5102792943",
+          "display_name": "Liping Zhou",
+          "orcid": "https://orcid.org/0000-0003-2669-0006"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Liping Zhou",
+        "raw_affiliation_strings": [
+          "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101910566",
+          "display_name": "Peng Xu",
+          "orcid": "https://orcid.org/0000-0002-7459-1777"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Peng Xu",
+        "raw_affiliation_strings": [
+          "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5091817886",
+          "display_name": "Faxiang Qin",
+          "orcid": "https://orcid.org/0000-0002-7971-764X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Faxiang Qin",
+        "raw_affiliation_strings": [
+          "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Composites Science Innovation (InCSI), School of Materials Science and Engineering, Zhejiang University, 38 Zheda Road, Hangzhou, 310027, PR China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2021.124413",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2021.124413",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W3217652920",
+      "doi": "https://doi.org/10.1016/j.polymer.2021.124413",
+      "mag": "3217652920"
+    },
+    "cited_by_count": 24
+  },
+  {
+    "id": "https://openalex.org/W4402984406",
+    "doi": "https://doi.org/10.1016/j.commatsci.2024.113424",
+    "title": "Improved aggregation/agglomeration-dependent percolation theory to predict nanoparticle-aided electrical conductivity in polymer nanocomposites: A combination of analytical strategy and artificial neural network",
+    "display_name": "Improved aggregation/agglomeration-dependent percolation theory to predict nanoparticle-aided electrical conductivity in polymer nanocomposites: A combination of analytical strategy and artificial neural network",
+    "publication_year": 2024,
+    "publication_date": "2024-09-30",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5082318505",
+          "display_name": "Neda Azimi",
+          "orcid": "https://orcid.org/0000-0001-5221-0171"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1187138",
+            "display_name": "Razi University",
+            "ror": "https://ror.org/02ynb0474",
+            "country_code": "IR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1187138"
+            ]
+          }
+        ],
+        "countries": [
+          "IR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Neda Azimi",
+        "raw_affiliation_strings": [
+          "CFD Research Division, Advanced Chemical Engineering Research Center, Razi University, Kermanshah, Iran"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "CFD Research Division, Advanced Chemical Engineering Research Center, Razi University, Kermanshah, Iran",
+            "institution_ids": [
+              "https://openalex.org/I1187138"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5062378000",
+          "display_name": "Esmail Sharifzadeh",
+          "orcid": "https://orcid.org/0000-0002-6321-8547"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1187138",
+            "display_name": "Razi University",
+            "ror": "https://ror.org/02ynb0474",
+            "country_code": "IR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1187138"
+            ]
+          }
+        ],
+        "countries": [
+          "IR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Esmail Sharifzadeh",
+        "raw_affiliation_strings": [
+          "Department of Chemical Engineering, Faculty of Petroleum and Chemical Engineering, Razi University, Kermanshah, Iran",
+          "Polymer Research Division, Advanced Chemical Engineering Research Center, Razi University, Kermanshah, Iran"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Faculty of Petroleum and Chemical Engineering, Razi University, Kermanshah, Iran",
+            "institution_ids": [
+              "https://openalex.org/I1187138"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Polymer Research Division, Advanced Chemical Engineering Research Center, Razi University, Kermanshah, Iran",
+            "institution_ids": [
+              "https://openalex.org/I1187138"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.commatsci.2024.113424",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.commatsci.2024.113424",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S26018076",
+        "display_name": "Computational Materials Science",
+        "issn_l": "0927-0256",
+        "issn": [
+          "0927-0256",
+          "1879-0801"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computational Materials Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4402984406",
+      "doi": "https://doi.org/10.1016/j.commatsci.2024.113424"
+    },
+    "cited_by_count": 12
+  },
+  {
+    "id": "https://openalex.org/W7117657221",
+    "doi": "https://doi.org/10.3390/nano16010052",
+    "title": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+    "display_name": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+    "publication_year": 2025,
+    "publication_date": "2025-12-30",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5140122172",
+          "display_name": "chang xu",
+          "orcid": "https://orcid.org/0000-0003-4184-232X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210156189",
+            "display_name": "Shanghai Dianji University",
+            "ror": "https://ror.org/055fene14",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Chang Xu",
+        "raw_affiliation_strings": [
+          "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4184-232X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China",
+            "institution_ids": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101956087",
+          "display_name": "Yixuan Zhao",
+          "orcid": "https://orcid.org/0000-0002-9603-2263"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yixuan Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5121615685",
+          "display_name": "Hualong Zhang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210156189",
+            "display_name": "Shanghai Dianji University",
+            "ror": "https://ror.org/055fene14",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hualong Zhang",
+        "raw_affiliation_strings": [
+          "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China",
+            "institution_ids": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3390/nano16010052",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/nano16010052",
+      "pdf_url": "https://www.mdpi.com/2079-4991/16/1/52/pdf",
+      "source": {
+        "id": "https://openalex.org/S2764646681",
+        "display_name": "Nanomaterials",
+        "issn_l": "2079-4991",
+        "issn": [
+          "2079-4991"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nanomaterials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2079-4991/16/1/52/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7117657221",
+      "doi": "https://doi.org/10.3390/nano16010052",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/41511248"
+    },
+    "cited_by_count": 4
+  },
+  {
+    "id": "https://openalex.org/W4416716357",
+    "doi": "https://doi.org/10.1016/j.bioadv.2025.214624",
+    "title": "Smart and injectable hydrogels for cancer treatment and other biomedical applications",
+    "display_name": "Smart and injectable hydrogels for cancer treatment and other biomedical applications",
+    "publication_year": 2025,
+    "publication_date": "2025-11-23",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Kang Er Cheah",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33849332",
+            "display_name": "University of Malaya",
+            "ror": "https://ror.org/00rzspn62",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kang Er Cheah",
+        "raw_affiliation_strings": [
+          "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5010585047",
+          "display_name": "Pauline Shan Qing Yeoh",
+          "orcid": "https://orcid.org/0000-0003-3643-4479"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33849332",
+            "display_name": "University of Malaya",
+            "ror": "https://ror.org/00rzspn62",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Pauline Shan Qing Yeoh",
+        "raw_affiliation_strings": [
+          "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5084900407",
+          "display_name": "Khin Wee Lai",
+          "orcid": "https://orcid.org/0000-0002-8602-0533"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33849332",
+            "display_name": "University of Malaya",
+            "ror": "https://ror.org/00rzspn62",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Khin Wee Lai",
+        "raw_affiliation_strings": [
+          "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5102804002",
+          "display_name": "Shuilin Wu",
+          "orcid": "https://orcid.org/0000-0002-1270-1870"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I20231570",
+            "display_name": "Peking University",
+            "ror": "https://ror.org/02v51f717",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I20231570"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shuilin Wu",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering, Peking University, 100871, Beijing, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering, Peking University, 100871, Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I20231570"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5103279854",
+          "display_name": "Farina Muhamad",
+          "orcid": "https://orcid.org/0000-0002-2432-3993"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33849332",
+            "display_name": "University of Malaya",
+            "ror": "https://ror.org/00rzspn62",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Farina Muhamad",
+        "raw_affiliation_strings": [
+          "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia. Electronic address: farinamuhamad@um.edu.my"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Biomedical Engineering, Faculty of Engineering, Universiti Malaya, 50603, Kuala Lumpur, Malaysia. Electronic address: farinamuhamad@um.edu.my",
+            "institution_ids": [
+              "https://openalex.org/I33849332"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.bioadv.2025.214624",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.bioadv.2025.214624",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210239156",
+        "display_name": "Biomaterials Advances",
+        "issn_l": "2772-9508",
+        "issn": [
+          "2772-9508",
+          "2772-9516"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biomaterials Advances",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4416716357",
+      "doi": "https://doi.org/10.1016/j.bioadv.2025.214624",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/41308530"
+    },
+    "cited_by_count": 3
+  },
+  {
+    "id": "https://openalex.org/W7155529894",
+    "doi": "https://doi.org/10.3389/fchem.2026.1789689",
+    "title": "Synergetic effects of silicon nanoparticles and multi-walled carbon nanotubes on the structural and dielectric properties of polystyrene-based nanocomposites",
+    "display_name": "Synergetic effects of silicon nanoparticles and multi-walled carbon nanotubes on the structural and dielectric properties of polystyrene-based nanocomposites",
+    "publication_year": 2026,
+    "publication_date": "2026-04-24",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5059054057",
+          "display_name": "María F. Cuenca-Lozano",
+          "orcid": "https://orcid.org/0000-0002-3734-7695"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I100205273",
+            "display_name": "Universidad Técnica Particular de Loja",
+            "ror": "https://ror.org/04dvbth24",
+            "country_code": "EC",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I100205273"
+            ]
+          }
+        ],
+        "countries": [
+          "EC"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "María Fernanda Cuenca-Lozano",
+        "raw_affiliation_strings": [
+          "Departamento de Producción, Facultad de Ciencias Exactas y Naturales, Universidad Técnica Particular de Loja"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departamento de Producción, Facultad de Ciencias Exactas y Naturales, Universidad Técnica Particular de Loja",
+            "institution_ids": [
+              "https://openalex.org/I100205273"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5048615160",
+          "display_name": "H. A. Shirinova",
+          "orcid": "https://orcid.org/0000-0003-3227-7752"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108106",
+            "display_name": "Nanomaterials Research (United States)",
+            "ror": "https://ror.org/01e5t7e46",
+            "country_code": "US",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Habiba Aslan Shirinova",
+        "raw_affiliation_strings": [
+          "Department of Chemical Physics of the Nanomaterials, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Physics of the Nanomaterials, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5074508286",
+          "display_name": "Lаla Gahramanli",
+          "orcid": "https://orcid.org/0000-0002-3799-8578"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194342707",
+            "display_name": "Baku State University",
+            "ror": "https://ror.org/054gw3b40",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194342707"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108106",
+            "display_name": "Nanomaterials Research (United States)",
+            "ror": "https://ror.org/01e5t7e46",
+            "country_code": "US",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lala Rasim Gahramanli",
+        "raw_affiliation_strings": [
+          "Department of Chemical Physics of the Nanomaterials, Baku State University",
+          "Nanoresearch Laboratory, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Physics of the Nanomaterials, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I4210108106"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Nanoresearch Laboratory, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5064664222",
+          "display_name": "F. V. Hajiyeva",
+          "orcid": "https://orcid.org/0000-0003-1686-3401"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194342707",
+            "display_name": "Baku State University",
+            "ror": "https://ror.org/054gw3b40",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194342707"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108106",
+            "display_name": "Nanomaterials Research (United States)",
+            "ror": "https://ror.org/01e5t7e46",
+            "country_code": "US",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Flora Vidadi Hajiyeva",
+        "raw_affiliation_strings": [
+          "Department of Chemical Physics of the Nanomaterials, Baku State University",
+          "Nanoresearch Laboratory, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Physics of the Nanomaterials, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I4210108106"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Nanoresearch Laboratory, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5134494837",
+          "display_name": "Sevinj Garib Nuriyeva",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194342707",
+            "display_name": "Baku State University",
+            "ror": "https://ror.org/054gw3b40",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sevinj Garib Nuriyeva",
+        "raw_affiliation_strings": [
+          "Nanoresearch Laboratory, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanoresearch Laboratory, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5134471963",
+          "display_name": "Aynura Hidayat Karimova",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194342707",
+            "display_name": "Baku State University",
+            "ror": "https://ror.org/054gw3b40",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aynura Hidayat Karimova",
+        "raw_affiliation_strings": [
+          "Faculty of Chemistry, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Chemistry, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I194342707"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072572823",
+          "display_name": "Eldar Kochari Gasimov",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I189285622",
+            "display_name": "Azerbaijan Medical University",
+            "ror": "https://ror.org/016a0n751",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I189285622"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Eldar Kochari Gasimov",
+        "raw_affiliation_strings": [
+          "Department of Cytology, Embryology and Histology, Azerbaijan Medical University. Nasimi reg"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Cytology, Embryology and Histology, Azerbaijan Medical University. Nasimi reg",
+            "institution_ids": [
+              "https://openalex.org/I189285622"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5134467729",
+          "display_name": "Fuad Huseynali Rzayev",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I189285622",
+            "display_name": "Azerbaijan Medical University",
+            "ror": "https://ror.org/016a0n751",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I189285622"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fuad Huseynali Rzayev",
+        "raw_affiliation_strings": [
+          "Department of Electron Microscopy, Scientific Research Center, Azerbaijan Medical University. Nasimi reg"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Electron Microscopy, Scientific Research Center, Azerbaijan Medical University. Nasimi reg",
+            "institution_ids": [
+              "https://openalex.org/I189285622"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5134511234",
+          "display_name": "Aysel Ilgar Masimova",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108106",
+            "display_name": "Nanomaterials Research (United States)",
+            "ror": "https://ror.org/01e5t7e46",
+            "country_code": "US",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aysel Ilgar Masimova",
+        "raw_affiliation_strings": [
+          "Department of Chemical Physics of the Nanomaterials, Baku State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Physics of the Nanomaterials, Baku State University",
+            "institution_ids": [
+              "https://openalex.org/I4210108106"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5134509763",
+          "display_name": "Narmin Yashar Suleymanova",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I3131466805",
+            "display_name": "Sumgayit State University",
+            "ror": "https://ror.org/04zf66g39",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I3131466805"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108394",
+            "display_name": "Institute of Education of the Republic of Azerbaijan",
+            "ror": "https://ror.org/01ytcra85",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210108394"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210115115",
+            "display_name": "Ministry of Science and Education Republic of Azerbaijan",
+            "ror": "https://ror.org/022arna15",
+            "country_code": "AZ",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210115115"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Narmin Yashar Suleymanova",
+        "raw_affiliation_strings": [
+          "Institute of Physics, Ministry of Science and Education of the Republic of Azerbaijan",
+          "Sumgayit State University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Physics, Ministry of Science and Education of the Republic of Azerbaijan",
+            "institution_ids": [
+              "https://openalex.org/I4210108394",
+              "https://openalex.org/I4210115115"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Sumgayit State University",
+            "institution_ids": [
+              "https://openalex.org/I3131466805"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5106816519",
+          "display_name": "Raida Zabit Ibaeva",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108394",
+            "display_name": "Institute of Education of the Republic of Azerbaijan",
+            "ror": "https://ror.org/01ytcra85",
+            "country_code": "AZ",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210108394"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210115115",
+            "display_name": "Ministry of Science and Education Republic of Azerbaijan",
+            "ror": "https://ror.org/022arna15",
+            "country_code": "AZ",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210115115"
+            ]
+          }
+        ],
+        "countries": [
+          "AZ"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Raida Zabit Ibaeva",
+        "raw_affiliation_strings": [
+          "Institute of Physics, Ministry of Science and Education of the Republic of Azerbaijan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Physics, Ministry of Science and Education of the Republic of Azerbaijan",
+            "institution_ids": [
+              "https://openalex.org/I4210108394",
+              "https://openalex.org/I4210115115"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5026201822",
+          "display_name": "Cristian Vacacela Gómez",
+          "orcid": "https://orcid.org/0000-0002-9248-9944"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210141827",
+            "display_name": "Universidad Ecotec",
+            "ror": "https://ror.org/04pe1sa24",
+            "country_code": "EC",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210141827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210142660",
+            "display_name": "Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di Frascati",
+            "ror": "https://ror.org/049jf1a25",
+            "country_code": "IT",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I160013858",
+              "https://openalex.org/I4210142660"
+            ]
+          }
+        ],
+        "countries": [
+          "EC",
+          "IT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Cristian Vacacela Gomez",
+        "raw_affiliation_strings": [
+          "INFN-Laboratori Nazionali di Frascati",
+          "Universidad Ecotec"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "INFN-Laboratori Nazionali di Frascati",
+            "institution_ids": [
+              "https://openalex.org/I4210142660"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Universidad Ecotec",
+            "institution_ids": [
+              "https://openalex.org/I4210141827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3389/fchem.2026.1789689",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fchem.2026.1789689",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2026.1789689/pdf",
+      "source": {
+        "id": "https://openalex.org/S2764970645",
+        "display_name": "Frontiers in Chemistry",
+        "issn_l": "2296-2646",
+        "issn": [
+          "2296-2646"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Chemistry",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://public-pages-files-2025.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2026.1789689/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7155529894",
+      "doi": "https://doi.org/10.3389/fchem.2026.1789689",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/42109497"
+    },
+    "cited_by_count": 2
+  },
+  {
+    "id": "https://openalex.org/W4416297188",
+    "doi": "https://doi.org/10.20935/acadnano7993",
+    "title": "Advances in polymer nanocomposite coatings for pipeline corrosion mitigation and structural durability",
+    "display_name": "Advances in polymer nanocomposite coatings for pipeline corrosion mitigation and structural durability",
+    "publication_year": 2025,
+    "publication_date": "2025-11-17",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5084035717",
+          "display_name": "Leonard Chinedu Etonyeaku",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194028371",
+            "display_name": "University of Regina",
+            "ror": "https://ror.org/03dzc0485",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194028371"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Leonard Etonyeaku",
+        "raw_affiliation_strings": [
+          "Industrial Systems Engineering, University of Regina, Regina, Canada"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Industrial Systems Engineering, University of Regina, Regina, Canada",
+            "institution_ids": [
+              "https://openalex.org/I194028371"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066740587",
+          "display_name": "Jacob Muthu",
+          "orcid": "https://orcid.org/0000-0002-3359-092X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194028371",
+            "display_name": "University of Regina",
+            "ror": "https://ror.org/03dzc0485",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194028371"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jacob Muthu",
+        "raw_affiliation_strings": [
+          "Energy Systems Engineering, University of Regina, Regina, Canada"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Energy Systems Engineering, University of Regina, Regina, Canada",
+            "institution_ids": [
+              "https://openalex.org/I194028371"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021211163",
+          "display_name": "Golam Kabir",
+          "orcid": "https://orcid.org/0000-0001-9591-0629"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I134085113",
+            "display_name": "King Fahd University of Petroleum and Minerals",
+            "ror": "https://ror.org/03yez3163",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I134085113"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I194028371",
+            "display_name": "University of Regina",
+            "ror": "https://ror.org/03dzc0485",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194028371"
+            ]
+          }
+        ],
+        "countries": [
+          "CA",
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Golam Kabir",
+        "raw_affiliation_strings": [
+          "Industrial Systems Engineering, University of Regina, Regina, Canada",
+          "Industrial and Systems Engineering, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Industrial Systems Engineering, University of Regina, Regina, Canada",
+            "institution_ids": [
+              "https://openalex.org/I194028371"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Industrial and Systems Engineering, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I134085113"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.20935/acadnano7993",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.20935/acadnano7993",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S5407048709",
+        "display_name": "Academia Nano Science Materials Technology",
+        "issn_l": "3065-9736",
+        "issn": [
+          "3065-9736"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Academia Nano: Science, Materials, Technology",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://doi.org/10.20935/acadnano7993",
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4416297188",
+      "doi": "https://doi.org/10.20935/acadnano7993"
+    },
+    "cited_by_count": 1
+  },
+  {
+    "id": "https://openalex.org/W7141030868",
+    "doi": "https://doi.org/10.1002/pen.70491",
+    "title": "Tailoring Static and Dynamic Properties in Natural Rubber Nanocomposites via Bidisperse Filler Architecture",
+    "display_name": "Tailoring Static and Dynamic Properties in Natural Rubber Nanocomposites via Bidisperse Filler Architecture",
+    "publication_year": 2026,
+    "publication_date": "2026-03-27",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5126657480",
+          "display_name": "Tianzi Zhang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tianzi Zhang",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5125756738",
+          "display_name": "Fanlin Zeng",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Fanlin Zeng",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6914-231X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5130805952",
+          "display_name": "Qing Li",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Qing Li",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5130780734",
+          "display_name": "Hongyu Guo",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hongyu Guo",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics Harbin Institute of Technology  Harbin People’s Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1002/pen.70491",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/pen.70491",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S114499311",
+        "display_name": "Polymer Engineering and Science",
+        "issn_l": "0032-3888",
+        "issn": [
+          "0032-3888",
+          "0096-8129",
+          "1548-2634"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer Engineering &amp; Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7141030868",
+      "doi": "https://doi.org/10.1002/pen.70491"
+    },
+    "cited_by_count": 0
+  }
+]

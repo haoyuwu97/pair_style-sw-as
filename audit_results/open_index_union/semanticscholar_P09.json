@@ -1,0 +1,240 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "627bc9493f5b53a6877edd0ab8e4c89512f3100e",
+        "externalIds": {
+          "ArXiv": "2603.25198",
+          "DOI": "10.1063/5.0335731",
+          "CorpusId": 286789771,
+          "PubMed": "42200565"
+        },
+        "url": "https://www.semanticscholar.org/paper/627bc9493f5b53a6877edd0ab8e4c89512f3100e",
+        "title": "Classification of interfacial water governed by water-polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers.",
+        "venue": "Journal of Chemical Physics",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://arxiv.org/pdf/2603.25198",
+          "status": "GREEN",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-26",
+        "authors": [
+          {
+            "authorId": "2284655796",
+            "name": "Atsuki Hashimoto"
+          },
+          {
+            "authorId": "2210728514",
+            "name": "Kokoro Shikata"
+          },
+          {
+            "authorId": "2283968718",
+            "name": "Kang Kim"
+          },
+          {
+            "authorId": "2252355125",
+            "name": "Nobuyuki Matubayasi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "bf9296d09ca31bc7ecfe7bf0e80938423b3d178d",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2025.128176",
+          "CorpusId": 276491208
+        },
+        "url": "https://www.semanticscholar.org/paper/bf9296d09ca31bc7ecfe7bf0e80938423b3d178d",
+        "title": "Exploring glass transition and relaxation dynamics of rigid molecular brushes: Insights from molecular dynamic simulations",
+        "venue": "Polymer",
+        "year": 2025,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-01",
+        "authors": [
+          {
+            "authorId": "2282591917",
+            "name": "Ziliang Zhu"
+          },
+          {
+            "authorId": "50202899",
+            "name": "Juan Hao"
+          },
+          {
+            "authorId": "2157135742",
+            "name": "Zhijun Zhang"
+          },
+          {
+            "authorId": "2308229825",
+            "name": "Junsheng Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3974338d7c11e0942e19c9b0ac141a553f034b1b",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2025.128216",
+          "CorpusId": 276719563
+        },
+        "url": "https://www.semanticscholar.org/paper/3974338d7c11e0942e19c9b0ac141a553f034b1b",
+        "title": "Multiscale modeling of nanofiber-filled cross-linked natural rubber composites guided by molecular dynamics simulations",
+        "venue": "Polymer",
+        "year": 2025,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-01",
+        "authors": [
+          {
+            "authorId": "2152084080",
+            "name": "Jianzheng Cui"
+          },
+          {
+            "authorId": "2270084585",
+            "name": "Fanlin Zeng"
+          },
+          {
+            "authorId": "2271221778",
+            "name": "Dahai Wei"
+          },
+          {
+            "authorId": "2309099561",
+            "name": "Youshan Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "906a93823e77fb504d18f15a180fb254edd9525a",
+        "externalIds": {
+          "ArXiv": "2406.20018",
+          "DOI": "10.1063/5.0229161",
+          "CorpusId": 270845906,
+          "PubMed": "39513447"
+        },
+        "url": "https://www.semanticscholar.org/paper/906a93823e77fb504d18f15a180fb254edd9525a",
+        "title": "Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case.",
+        "venue": "Journal of Chemical Physics",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-28",
+        "authors": [
+          {
+            "authorId": "2309007222",
+            "name": "Artem Glova"
+          },
+          {
+            "authorId": "2275348739",
+            "name": "Mikko Karttunen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5db86fc89902ca8e6cf8fe4326120567b737840c",
+        "externalIds": {
+          "DOI": "10.1021/acs.jpcb.4c01286",
+          "CorpusId": 269645600,
+          "PubMed": "38728026"
+        },
+        "url": "https://www.semanticscholar.org/paper/5db86fc89902ca8e6cf8fe4326120567b737840c",
+        "title": "Dynamics and Internal Structure Evolution during the Glass Transition of the Ethylene-Cyclic Olefin Copolymers: A Molecular Dynamics Simulation.",
+        "venue": "Journal of Physical Chemistry B",
+        "year": 2024,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-10",
+        "authors": [
+          {
+            "authorId": "2300550640",
+            "name": "Fan Zhang"
+          },
+          {
+            "authorId": "2320553056",
+            "name": "Wenhui Wang"
+          },
+          {
+            "authorId": "2300452728",
+            "name": "Yangyang Zhao"
+          },
+          {
+            "authorId": "2240220549",
+            "name": "Xuelian He"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e87670059570c253f0fd24df03e0ec89d1f997fd",
+        "externalIds": {
+          "DOI": "10.1016/j.cplett.2023.140694",
+          "CorpusId": 259621218
+        },
+        "url": "https://www.semanticscholar.org/paper/e87670059570c253f0fd24df03e0ec89d1f997fd",
+        "title": "Structure of absorbed water in cis-1,4-polyisoprene rubber and its effect on properties of polymers",
+        "venue": "Chemical Physics Letters",
+        "year": 2023,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.cplett.2023.140694",
+          "status": "BRONZE",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-09-01",
+        "authors": [
+          {
+            "authorId": "2115367222",
+            "name": "Kazuaki Sato"
+          },
+          {
+            "authorId": "1402093803",
+            "name": "T. Ikeda-Fukazawa"
+          }
+        ]
+      }
+    }
+  ]
+}

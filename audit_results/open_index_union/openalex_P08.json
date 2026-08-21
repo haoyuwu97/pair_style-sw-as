@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "https://openalex.org/W4310790424",
+    "doi": "https://doi.org/10.1039/d2me00121g",
+    "title": "Structure and properties of polymer/two-dimensional nanomaterials studied via molecular dynamics simulation: a review",
+    "display_name": "Structure and properties of polymer/two-dimensional nanomaterials studied via molecular dynamics simulation: a review",
+    "publication_year": 2022,
+    "publication_date": "2022-10-31",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5010391021",
+          "display_name": "Meng Yu Zhou",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Meng Yu Zhou",
+        "raw_affiliation_strings": [
+          "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100361667",
+          "display_name": "Jun Liu",
+          "orcid": "https://orcid.org/0000-0001-7369-1875"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jun Liu",
+        "raw_affiliation_strings": [
+          "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Li Qun Zhang",
+          "orcid": "https://orcid.org/0000-0002-2103-6294"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Li Qun Zhang",
+        "raw_affiliation_strings": [
+          "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2103-6294",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1039/d2me00121g",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1039/d2me00121g",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210223080",
+        "display_name": "Molecular Systems Design & Engineering",
+        "issn_l": "2058-9689",
+        "issn": [
+          "2058-9689"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320556",
+        "host_organization_name": "Royal Society of Chemistry",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320556"
+        ],
+        "host_organization_lineage_names": [
+          "Royal Society of Chemistry"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Molecular Systems Design &amp; Engineering",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4310790424",
+      "doi": "https://doi.org/10.1039/d2me00121g"
+    },
+    "cited_by_count": 16
+  },
+  {
+    "id": "https://openalex.org/W7117657221",
+    "doi": "https://doi.org/10.3390/nano16010052",
+    "title": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+    "display_name": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+    "publication_year": 2025,
+    "publication_date": "2025-12-30",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5140122172",
+          "display_name": "chang xu",
+          "orcid": "https://orcid.org/0000-0003-4184-232X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210156189",
+            "display_name": "Shanghai Dianji University",
+            "ror": "https://ror.org/055fene14",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Chang Xu",
+        "raw_affiliation_strings": [
+          "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4184-232X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China",
+            "institution_ids": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101956087",
+          "display_name": "Yixuan Zhao",
+          "orcid": "https://orcid.org/0000-0002-9603-2263"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yixuan Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5121615685",
+          "display_name": "Hualong Zhang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210156189",
+            "display_name": "Shanghai Dianji University",
+            "ror": "https://ror.org/055fene14",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hualong Zhang",
+        "raw_affiliation_strings": [
+          "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Design and Art, Shanghai Dianji University, Shanghai 200240, China",
+            "institution_ids": [
+              "https://openalex.org/I4210156189"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3390/nano16010052",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/nano16010052",
+      "pdf_url": "https://www.mdpi.com/2079-4991/16/1/52/pdf",
+      "source": {
+        "id": "https://openalex.org/S2764646681",
+        "display_name": "Nanomaterials",
+        "issn_l": "2079-4991",
+        "issn": [
+          "2079-4991"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nanomaterials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2079-4991/16/1/52/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7117657221",
+      "doi": "https://doi.org/10.3390/nano16010052",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/41511248"
+    },
+    "cited_by_count": 4
+  },
+  {
+    "id": "https://openalex.org/W3155158923",
+    "doi": "https://doi.org/10.1021/acsanm.1c00365",
+    "title": "Boron Nitride Nanotubes for Heat Dissipation in Polycaprolactone Composites",
+    "display_name": "Boron Nitride Nanotubes for Heat Dissipation in Polycaprolactone Composites",
+    "publication_year": 2021,
+    "publication_date": "2021-04-16",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5056211691",
+          "display_name": "Thomas Pietri",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2738703131",
+            "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "ror": "https://ror.org/00jjx8s55",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2738703131"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I3019244752",
+            "display_name": "Laboratoire d’Innovation pour les Technologies des Énergies Nouvelles et les nanomatériaux",
+            "ror": "https://ror.org/01mbz8562",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I3019244752",
+              "https://openalex.org/I4210127723"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I899635006",
+            "display_name": "Université Grenoble Alpes",
+            "ror": "https://ror.org/02rx3b187",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I899635006"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Thomas Pietri",
+        "raw_affiliation_strings": [
+          "CEA, LITEN, DTNM, Université Grenoble Alpes, F-38000 Grenoble, France"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "CEA, LITEN, DTNM, Université Grenoble Alpes, F-38000 Grenoble, France",
+            "institution_ids": [
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I3019244752",
+              "https://openalex.org/I899635006"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5049472213",
+          "display_name": "Benjamin J. Wiley",
+          "orcid": "https://orcid.org/0000-0002-1314-6223"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I170897317",
+            "display_name": "Duke University",
+            "ror": "https://ror.org/00py81415",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I170897317"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Benjamin J. Wiley",
+        "raw_affiliation_strings": [
+          "Department of Chemistry, Duke University, Durham, North Carolina 27708, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1314-6223",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemistry, Duke University, Durham, North Carolina 27708, United States",
+            "institution_ids": [
+              "https://openalex.org/I170897317"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5031842784",
+          "display_name": "Jean‐Pierre Simonato",
+          "orcid": "https://orcid.org/0000-0002-0217-4237"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I170897317",
+            "display_name": "Duke University",
+            "ror": "https://ror.org/00py81415",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I170897317"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2738703131",
+            "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "ror": "https://ror.org/00jjx8s55",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2738703131"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I3019244752",
+            "display_name": "Laboratoire d’Innovation pour les Technologies des Énergies Nouvelles et les nanomatériaux",
+            "ror": "https://ror.org/01mbz8562",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I3019244752",
+              "https://openalex.org/I4210127723"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I899635006",
+            "display_name": "Université Grenoble Alpes",
+            "ror": "https://ror.org/02rx3b187",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I899635006"
+            ]
+          }
+        ],
+        "countries": [
+          "FR",
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jean-Pierre Simonato",
+        "raw_affiliation_strings": [
+          "CEA, LITEN, DTNM, Université Grenoble Alpes, F-38000 Grenoble, France",
+          "Department of Chemistry, Duke University, Durham, North Carolina 27708, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-0217-4237",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "CEA, LITEN, DTNM, Université Grenoble Alpes, F-38000 Grenoble, France",
+            "institution_ids": [
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I3019244752",
+              "https://openalex.org/I899635006"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemistry, Duke University, Durham, North Carolina 27708, United States",
+            "institution_ids": [
+              "https://openalex.org/I170897317"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acsanm.1c00365",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acsanm.1c00365",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210191493",
+        "display_name": "ACS Applied Nano Materials",
+        "issn_l": "2574-0970",
+        "issn": [
+          "2574-0970"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Applied Nano Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W3155158923",
+      "doi": "https://doi.org/10.1021/acsanm.1c00365",
+      "mag": "3155158923"
+    },
+    "cited_by_count": 18
+  },
+  {
+    "id": "https://openalex.org/W3169339161",
+    "doi": "https://doi.org/10.3390/ma14123301",
+    "title": "Percolated Network of Mixed Nanoparticles with Different Sizes in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Simulation",
+    "display_name": "Percolated Network of Mixed Nanoparticles with Different Sizes in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Simulation",
+    "publication_year": 2021,
+    "publication_date": "2021-06-15",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5012913564",
+          "display_name": "Xiuying Zhao",
+          "orcid": "https://orcid.org/0000-0002-5867-9736"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiuying Zhao",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5867-9736",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5042401982",
+          "display_name": "Yun Nie",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yun Nie",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Haoxiang Li",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haoxiang Li",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031978503",
+          "display_name": "Haoyu Wu",
+          "orcid": "https://orcid.org/0000-0002-2805-4911"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haoyu Wu",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031150737",
+          "display_name": "Yangyang Gao",
+          "orcid": "https://orcid.org/0000-0003-4503-3351"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yangyang Gao",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4503-3351",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100457313",
+          "display_name": "Liqun Zhang",
+          "orcid": "https://orcid.org/0000-0002-2103-6294"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Liqun Zhang",
+        "raw_affiliation_strings": [
+          "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing Engineering Research Center of Advanced Elastomers, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing 100029, China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3390/ma14123301",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/ma14123301",
+      "pdf_url": "https://www.mdpi.com/1996-1944/14/12/3301/pdf?version=1623852575",
+      "source": {
+        "id": "https://openalex.org/S18714766",
+        "display_name": "Materials",
+        "issn_l": "1996-1944",
+        "issn": [
+          "1996-1944"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/1996-1944/14/12/3301/pdf?version=1623852575",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W3169339161",
+      "doi": "https://doi.org/10.3390/ma14123301",
+      "mag": "3169339161",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/34203759"
+    },
+    "cited_by_count": 9
+  },
+  {
+    "id": "https://openalex.org/W3216024426",
+    "doi": "https://doi.org/10.1002/pol.20210729",
+    "title": "Conductivity of diblock copolymer system filled with conducting nano‐particles: Effect of copolymer morphology",
+    "display_name": "Conductivity of diblock copolymer system filled with conducting nano‐particles: Effect of copolymer morphology",
+    "publication_year": 2021,
+    "publication_date": "2021-11-18",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5060522721",
+          "display_name": "A. I. Chervanyov",
+          "orcid": "https://orcid.org/0000-0002-0928-8683"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I22465464",
+            "display_name": "University of Münster",
+            "ror": "https://ror.org/00pd74e08",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I22465464"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "A.I. Chervanyov",
+        "raw_affiliation_strings": [
+          "Institut für Theoretische Physik Westfälische Wilhelms‐Universität Münster  Münster Germany"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-0928-8683",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institut für Theoretische Physik Westfälische Wilhelms‐Universität Münster  Münster Germany",
+            "institution_ids": [
+              "https://openalex.org/I22465464"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1002/pol.20210729",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/pol.20210729",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210188590",
+        "display_name": "Journal of Polymer Science",
+        "issn_l": "2642-4150",
+        "issn": [
+          "2642-4150",
+          "2642-4169"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Polymer Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W3216024426",
+      "doi": "https://doi.org/10.1002/pol.20210729",
+      "mag": "3216024426"
+    },
+    "cited_by_count": 7
+  },
+  {
+    "id": "https://openalex.org/W4407740399",
+    "doi": "https://doi.org/10.1007/s10118-025-3295-9",
+    "title": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+    "display_name": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+    "publication_year": 2025,
+    "publication_date": "2025-02-18",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5083504924",
+          "display_name": "Shao-Long Liu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shao-Long Liu",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Tang Sui",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tang Sui",
+        "raw_affiliation_strings": [
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020085370",
+          "display_name": "Shuang Xu",
+          "orcid": "https://orcid.org/0000-0002-6248-3568"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shuang Xu",
+        "raw_affiliation_strings": [
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112582118",
+          "display_name": "Xiaoke Xu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I25254941",
+            "display_name": "Beijing Normal University",
+            "ror": "https://ror.org/022k4wk35",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I25254941"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiao-Ke Xu",
+        "raw_affiliation_strings": [
+          "School of Journalism and Communication, Beijing Normal University, Zhuhai, 519085, China",
+          "School of Journalism and Communication, Beijing Normal University, Zhuhai, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Journalism and Communication, Beijing Normal University, Zhuhai, 519085, China",
+            "institution_ids": [
+              "https://openalex.org/I25254941"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Journalism and Communication, Beijing Normal University, Zhuhai, China",
+            "institution_ids": [
+              "https://openalex.org/I25254941"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103258049",
+          "display_name": "Giuseppe Milano",
+          "orcid": "https://orcid.org/0000-0001-8818-7786"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I71267560",
+            "display_name": "University of Naples Federico II",
+            "ror": "https://ror.org/05290cv24",
+            "country_code": "IT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I71267560"
+            ]
+          }
+        ],
+        "countries": [
+          "IT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Giuseppe Milano",
+        "raw_affiliation_strings": [
+          "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Napoli, Italy",
+          "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Piazzale V. Tecchio, 80, 80125, Napoli, Italy"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Napoli, Italy",
+            "institution_ids": [
+              "https://openalex.org/I71267560"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Piazzale V. Tecchio, 80, 80125, Napoli, Italy",
+            "institution_ids": [
+              "https://openalex.org/I71267560"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100434217",
+          "display_name": "Ying Zhao",
+          "orcid": "https://orcid.org/0000-0002-7927-4906"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Zhao",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100346078",
+          "display_name": "You‐Liang Zhu",
+          "orcid": "https://orcid.org/0000-0002-9561-0770"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194450716",
+            "display_name": "Jilin University",
+            "ror": "https://ror.org/00js3aw79",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194450716"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768123",
+            "display_name": "State Key Laboratory of Supramolecular Structure and Materials",
+            "ror": "https://ror.org/02xf8rf51",
+            "country_code": null,
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "You-Liang Zhu",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, 130012, China",
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, 130012, China",
+            "institution_ids": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, China",
+            "institution_ids": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5041021210",
+          "display_name": "Baosheng Cao",
+          "orcid": "https://orcid.org/0000-0002-5172-9622"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Bao-Sheng Cao",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1007/s10118-025-3295-9",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s10118-025-3295-9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S11406725",
+        "display_name": "Chinese Journal of Polymer Science",
+        "issn_l": "0256-7679",
+        "issn": [
+          "0256-7679",
+          "1439-6203",
+          "1793-7043"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Chinese Journal of Polymer Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4407740399",
+      "doi": "https://doi.org/10.1007/s10118-025-3295-9"
+    },
+    "cited_by_count": 4
+  },
+  {
+    "id": "https://openalex.org/W4292685349",
+    "doi": "https://doi.org/10.1016/j.compscitech.2022.109694",
+    "title": "Manipulating the percolated network of nanorods in polymer matrix by adding non-conductive nanospheres: A molecular dynamics simulation",
+    "display_name": "Manipulating the percolated network of nanorods in polymer matrix by adding non-conductive nanospheres: A molecular dynamics simulation",
+    "publication_year": 2022,
+    "publication_date": "2022-08-22",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5031978503",
+          "display_name": "Haoyu Wu",
+          "orcid": "https://orcid.org/0000-0002-2805-4911"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haoyu Wu",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5082301736",
+          "display_name": "Ruibin Ma",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ruibin Ma",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100384226",
+          "display_name": "Yimin Wang",
+          "orcid": "https://orcid.org/0000-0002-2701-0714"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yimin Wang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5012913564",
+          "display_name": "Xiuying Zhao",
+          "orcid": "https://orcid.org/0000-0002-5867-9736"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Xiuying Zhao",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100457313",
+          "display_name": "Liqun Zhang",
+          "orcid": "https://orcid.org/0000-0002-2103-6294"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Liqun Zhang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5031150737",
+          "display_name": "Yangyang Gao",
+          "orcid": "https://orcid.org/0000-0003-4503-3351"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yangyang Gao",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4503-3351",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 10029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.compscitech.2022.109694",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.compscitech.2022.109694",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S52442148",
+        "display_name": "Composites Science and Technology",
+        "issn_l": "0266-3538",
+        "issn": [
+          "0266-3538",
+          "1879-1050"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Composites Science and Technology",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4292685349",
+      "doi": "https://doi.org/10.1016/j.compscitech.2022.109694"
+    },
+    "cited_by_count": 3
+  },
+  {
+    "id": "https://openalex.org/W3092720526",
+    "doi": "https://doi.org/10.1039/d0sm90256j",
+    "title": "Correction: Synergistic effect in improving the electrical conductivity in polymer nanocomposites by mixing spherical and rod-shaped fillers",
+    "display_name": "Correction: Synergistic effect in improving the electrical conductivity in polymer nanocomposites by mixing spherical and rod-shaped fillers",
+    "publication_year": 2021,
+    "publication_date": "2021-01-01",
+    "type": "erratum",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5003965948",
+          "display_name": "Fan Qu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fan Qu",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5081306801",
+          "display_name": "Wei Sun",
+          "orcid": "https://orcid.org/0000-0001-5032-0094"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wei Sun",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100365186",
+          "display_name": "Bin Li",
+          "orcid": "https://orcid.org/0000-0002-5103-0790"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I157773358",
+            "display_name": "Sun Yat-sen University",
+            "ror": "https://ror.org/0064kty71",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I157773358"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210105182",
+            "display_name": "Zhuhai People's Hospital",
+            "ror": "https://ror.org/01k1x3b35",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210105182"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bin Li",
+        "raw_affiliation_strings": [
+          "China",
+          "School of Chemical Engineering and Technology",
+          "Sun Yat-sen University",
+          "Zhuhai 519082",
+          "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai 519082, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "China",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Sun Yat-sen University",
+            "institution_ids": [
+              "https://openalex.org/I157773358"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhuhai 519082",
+            "institution_ids": [
+              "https://openalex.org/I4210105182"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai 519082, China",
+            "institution_ids": [
+              "https://openalex.org/I157773358"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063689514",
+          "display_name": "Fanzhu Li",
+          "orcid": "https://orcid.org/0000-0003-2417-3232"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fanzhu Li",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031150737",
+          "display_name": "Yangyang Gao",
+          "orcid": "https://orcid.org/0000-0003-4503-3351"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yangyang Gao",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5012913564",
+          "display_name": "Xiuying Zhao",
+          "orcid": "https://orcid.org/0000-0002-5867-9736"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Xiuying Zhao",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100457313",
+          "display_name": "Liqun Zhang",
+          "orcid": "https://orcid.org/0000-0002-2103-6294"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127390",
+            "display_name": "State Council of the People's Republic of China",
+            "ror": "https://ror.org/02fzqav45",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768155",
+            "display_name": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "ror": "https://ror.org/04t3b2655",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391768155",
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Liqun Zhang",
+        "raw_affiliation_strings": [
+          "Beijing University of Chemical Technology",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+          "People's Republic of China",
+          "State Key Laboratory of Organic–Inorganic Composites",
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Beijing University of Chemical Technology",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic–Inorganic Composites",
+            "institution_ids": [
+              "https://openalex.org/I4391768155"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1039/d0sm90256j",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1039/d0sm90256j",
+      "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2021/sm/d0sm90256j",
+      "source": {
+        "id": "https://openalex.org/S6377669",
+        "display_name": "Soft Matter",
+        "issn_l": "1744-683X",
+        "issn": [
+          "1744-683X",
+          "1744-6848"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320556",
+        "host_organization_name": "Royal Society of Chemistry",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320556"
+        ],
+        "host_organization_lineage_names": [
+          "Royal Society of Chemistry"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Soft Matter",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://pubs.rsc.org/en/content/articlepdf/2021/sm/d0sm90256j",
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W3092720526",
+      "doi": "https://doi.org/10.1039/d0sm90256j",
+      "mag": "3092720526",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/33399621"
+    },
+    "cited_by_count": 3
+  },
+  {
+    "id": "https://openalex.org/W7168455825",
+    "doi": "https://doi.org/10.1016/j.polymer.2026.130529",
+    "title": "Molecular dynamics study of local interfacial fusion and carbon black redistribution in CB/PCL/TPU composite material under image-shape laser sintering",
+    "display_name": "Molecular dynamics study of local interfacial fusion and carbon black redistribution in CB/PCL/TPU composite material under image-shape laser sintering",
+    "publication_year": 2026,
+    "publication_date": "2026-07-17",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5109739856",
+          "display_name": "Haoyu Zhang",
+          "orcid": "https://orcid.org/0009-0003-3694-6009"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I3129293551",
+            "display_name": "Tarim University",
+            "ror": "https://ror.org/05202v862",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I3129293551"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haoyu Zhang",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "College of Mechanical and Electrical Engineering, Tarim University, Alaer, Xinjiang,843300, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Tarim University, Alaer, Xinjiang,843300, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I3129293551"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5141036511",
+          "display_name": "Yanling Guo",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yanling Guo",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5141036511",
+          "display_name": "Yanling Guo",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yanling Guo",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066641747",
+          "display_name": "Wen Zhao",
+          "orcid": "https://orcid.org/0000-0001-6649-3926"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Wei Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7045-912X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5022393623",
+          "display_name": "Wei Zhao",
+          "orcid": "https://orcid.org/0000-0002-7045-912X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wei Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7045-912X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066641747",
+          "display_name": "Wen Zhao",
+          "orcid": "https://orcid.org/0000-0001-6649-3926"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Wen Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066641747",
+          "display_name": "Wen Zhao",
+          "orcid": "https://orcid.org/0000-0001-6649-3926"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wen Zhao",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Astronautical Science and Mechanics, Harbin Institute of Technology (HIT), Harbin, 150001, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5141019838",
+          "display_name": "Jian Li",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jian Li",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5009418271",
+          "display_name": "H. Zhang",
+          "orcid": "https://orcid.org/0000-0003-4269-8489"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I3129293551",
+            "display_name": "Tarim University",
+            "ror": "https://ror.org/05202v862",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I3129293551"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hong Zhang",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+          "College of Mechanical and Electrical Engineering, Tarim University, Alaer, Xinjiang,843300, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          },
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Tarim University, Alaer, Xinjiang,843300, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I3129293551"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5009399906",
+          "display_name": "Yifan Guo",
+          "orcid": "https://orcid.org/0000-0002-0398-6093"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yifan Guo",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5009399906",
+          "display_name": "Yifan Guo",
+          "orcid": "https://orcid.org/0000-0002-0398-6093"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yifan Guo",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5147054585",
+          "display_name": "Hangfei Cheng",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hangfei Cheng",
+        "raw_affiliation_strings": [
+          "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Mechanical and Electrical Engineering, Northeast Forestry University, Harbin, 150040, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2026.130529",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2026.130529",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7168455825",
+      "doi": "https://doi.org/10.1016/j.polymer.2026.130529"
+    },
+    "cited_by_count": 0
+  }
+]

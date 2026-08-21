@@ -1,0 +1,2587 @@
+[
+  {
+    "id": "https://openalex.org/W4414400118",
+    "doi": "https://doi.org/10.1016/j.progpolymsci.2025.102026",
+    "title": "Towards the next development of vitrimers: Recent key topics for the practical application and understanding of the fundamental physics",
+    "display_name": "Towards the next development of vitrimers: Recent key topics for the practical application and understanding of the fundamental physics",
+    "publication_year": 2025,
+    "publication_date": "2025-09-22",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5026476015",
+          "display_name": "Mikihiro Hayashi",
+          "orcid": "https://orcid.org/0000-0002-4592-0092"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197274945",
+            "display_name": "Nagoya Institute of Technology",
+            "ror": "https://ror.org/055yf1005",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197274945"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210086780",
+            "display_name": "Japan Science and Technology Agency",
+            "ror": "https://ror.org/00097mb19",
+            "country_code": "JP",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1319490839",
+              "https://openalex.org/I4210086780"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Mikihiro Hayashi",
+        "raw_affiliation_strings": [
+          "Department of Life Science and Applied Chemistry, Graduate School of Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa-ku Nagoya, 466-8555, Japan",
+          "PRESTO, Japan Science and Technology Agency, 4-1-8, Honcho, Kawaguchi, Saitama, 332-0012, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4592-0092",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Life Science and Applied Chemistry, Graduate School of Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa-ku Nagoya, 466-8555, Japan",
+            "institution_ids": [
+              "https://openalex.org/I197274945"
+            ]
+          },
+          {
+            "raw_affiliation_string": "PRESTO, Japan Science and Technology Agency, 4-1-8, Honcho, Kawaguchi, Saitama, 332-0012, Japan",
+            "institution_ids": [
+              "https://openalex.org/I4210086780"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5005718183",
+          "display_name": "Ralm G. Ricarte",
+          "orcid": "https://orcid.org/0000-0003-1018-6083"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1323276237",
+            "display_name": "Florida A&M University - Florida State University College of Engineering",
+            "ror": "https://ror.org/01v4tq883",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I103163165",
+              "https://openalex.org/I1323276237",
+              "https://openalex.org/I8248082"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ralm G. Ricarte",
+        "raw_affiliation_strings": [
+          "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Tallahassee, FL, 32310, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Tallahassee, FL, 32310, USA",
+            "institution_ids": [
+              "https://openalex.org/I1323276237"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.progpolymsci.2025.102026",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.progpolymsci.2025.102026",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S119685760",
+        "display_name": "Progress in Polymer Science",
+        "issn_l": "0079-6700",
+        "issn": [
+          "0079-6700",
+          "1873-1619"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Progress in Polymer Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.progpolymsci.2025.102026",
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4414400118",
+      "doi": "https://doi.org/10.1016/j.progpolymsci.2025.102026"
+    },
+    "cited_by_count": 36
+  },
+  {
+    "id": "https://openalex.org/W4406854054",
+    "doi": "https://doi.org/10.1021/acsmacrolett.4c00783",
+    "title": "Understanding the Topology Freezing Temperature of Vitrimer-Like Materials through Complementary Structural and Rheological Analyses for Phase-Separated Network",
+    "display_name": "Understanding the Topology Freezing Temperature of Vitrimer-Like Materials through Complementary Structural and Rheological Analyses for Phase-Separated Network",
+    "publication_year": 2025,
+    "publication_date": "2025-01-27",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5026476015",
+          "display_name": "Mikihiro Hayashi",
+          "orcid": "https://orcid.org/0000-0002-4592-0092"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197274945",
+            "display_name": "Nagoya Institute of Technology",
+            "ror": "https://ror.org/055yf1005",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197274945"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210086780",
+            "display_name": "Japan Science and Technology Agency",
+            "ror": "https://ror.org/00097mb19",
+            "country_code": "JP",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1319490839",
+              "https://openalex.org/I4210086780"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Mikihiro Hayashi",
+        "raw_affiliation_strings": [
+          "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan",
+          "PRESTO, Japan Science and Technology Agency, 4-1-8, Honcho, Kawaguchi, Saitama 332-0012, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4592-0092",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan",
+            "institution_ids": [
+              "https://openalex.org/I197274945"
+            ]
+          },
+          {
+            "raw_affiliation_string": "PRESTO, Japan Science and Technology Agency, 4-1-8, Honcho, Kawaguchi, Saitama 332-0012, Japan",
+            "institution_ids": [
+              "https://openalex.org/I4210086780"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5069884222",
+          "display_name": "Maho Suzuki",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197274945",
+            "display_name": "Nagoya Institute of Technology",
+            "ror": "https://ror.org/055yf1005",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197274945"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Maho Suzuki",
+        "raw_affiliation_strings": [
+          "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan",
+            "institution_ids": [
+              "https://openalex.org/I197274945"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5029547464",
+          "display_name": "Takumi Kito",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197274945",
+            "display_name": "Nagoya Institute of Technology",
+            "ror": "https://ror.org/055yf1005",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197274945"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Takumi Kito",
+        "raw_affiliation_strings": [
+          "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Life Science and Applied Chemistry, Graduated School of Engineering, Nagoya Institute of Technology, Gokiso-cho Showa-ku, Nagoya-city, Aichi 466-8555, Japan",
+            "institution_ids": [
+              "https://openalex.org/I197274945"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acsmacrolett.4c00783",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acsmacrolett.4c00783",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S75495113",
+        "display_name": "ACS Macro Letters",
+        "issn_l": "2161-1653",
+        "issn": [
+          "2161-1653"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Macro Letters",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4406854054",
+      "doi": "https://doi.org/10.1021/acsmacrolett.4c00783",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/39869918"
+    },
+    "cited_by_count": 18
+  },
+  {
+    "id": "https://openalex.org/W4416718898",
+    "doi": "https://doi.org/10.1080/19475411.2025.2582826",
+    "title": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+    "display_name": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+    "publication_year": 2025,
+    "publication_date": "2025-10-02",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101833712",
+          "display_name": "Zihan Tang",
+          "orcid": "https://orcid.org/0009-0006-9278-2493"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zihan Tang",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087977944",
+          "display_name": "Weikang Xian",
+          "orcid": "https://orcid.org/0000-0002-6802-651X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Weikang Xian",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100324415",
+          "display_name": "Jianxin He",
+          "orcid": "https://orcid.org/0000-0001-5704-5937"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianxin He",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5074530048",
+          "display_name": "Rong Long",
+          "orcid": "https://orcid.org/0000-0001-8992-2420"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I188538660",
+            "display_name": "University of Colorado Boulder",
+            "ror": "https://ror.org/02ttsq026",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I188538660"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2802236040",
+            "display_name": "University of Colorado System",
+            "ror": "https://ror.org/00jc20583",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2802236040"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rong Long",
+        "raw_affiliation_strings": [
+          "University of Colorado Boulder",
+          "Department of Mechanical Engineering, University of Colorado Boulder, Boulder, CO, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Colorado Boulder",
+            "institution_ids": [
+              "https://openalex.org/I188538660",
+              "https://openalex.org/I2802236040"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Colorado Boulder, Boulder, CO, USA",
+            "institution_ids": [
+              "https://openalex.org/I188538660"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100414156",
+          "display_name": "Ying Li",
+          "orcid": "https://orcid.org/0000-0002-1487-3350"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Li",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1080/19475411.2025.2582826",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/19475411.2025.2582826",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S93280953",
+        "display_name": "International Journal of Smart and Nano Materials",
+        "issn_l": "1947-5411",
+        "issn": [
+          "1947-5411",
+          "1947-542X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Smart and Nano Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1080/19475411.2025.2582826",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4416718898",
+      "doi": "https://doi.org/10.1080/19475411.2025.2582826"
+    },
+    "cited_by_count": 16
+  },
+  {
+    "id": "https://openalex.org/W4416335047",
+    "doi": "https://doi.org/10.1016/j.compositesb.2025.113184",
+    "title": "Damage and self-healing behaviors in aircraft-grade carbon fiber reinforced vitrimer unidirectional laminates containing exchangeable disulfide crosslinks",
+    "display_name": "Damage and self-healing behaviors in aircraft-grade carbon fiber reinforced vitrimer unidirectional laminates containing exchangeable disulfide crosslinks",
+    "publication_year": 2025,
+    "publication_date": "2025-11-10",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5023439720",
+          "display_name": "Ryo Higuchi",
+          "orcid": "https://orcid.org/0000-0003-2688-3334"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74801974",
+            "display_name": "The University of Tokyo",
+            "ror": "https://ror.org/057zh3y96",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ryo Higuchi",
+        "raw_affiliation_strings": [
+          "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2688-3334",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan",
+            "institution_ids": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075731610",
+          "display_name": "M. KUMADA",
+          "orcid": "https://orcid.org/0009-0003-3358-8971"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74801974",
+            "display_name": "The University of Tokyo",
+            "ror": "https://ror.org/057zh3y96",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Manato Kumada",
+        "raw_affiliation_strings": [
+          "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0003-3358-8971",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan",
+            "institution_ids": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5071095991",
+          "display_name": "Yu Zusho",
+          "orcid": "https://orcid.org/0000-0002-7103-7471"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74801974",
+            "display_name": "The University of Tokyo",
+            "ror": "https://ror.org/057zh3y96",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yu Zusho",
+        "raw_affiliation_strings": [
+          "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7103-7471",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan",
+            "institution_ids": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5059502977",
+          "display_name": "Tomohiro Yokozeki",
+          "orcid": "https://orcid.org/0000-0003-1252-9465"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74801974",
+            "display_name": "The University of Tokyo",
+            "ror": "https://ror.org/057zh3y96",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tomohiro Yokozeki",
+        "raw_affiliation_strings": [
+          "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1252-9465",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautics and Astronautics, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan",
+            "institution_ids": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5053830310",
+          "display_name": "Takaya SUZUKI",
+          "orcid": "https://orcid.org/0009-0003-2708-7556"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205823427",
+            "display_name": "Kyowa Kirin (Japan)",
+            "ror": "https://ror.org/000wej815",
+            "country_code": "JP",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I205823427"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Takaya Suzuki",
+        "raw_affiliation_strings": [
+          "Technical Development Department, Carbon Fiber Business Unit, Teijin Ltd., 234 Kamitogari, Nagaizumi-cho, Sunto-gun, Shizuoka, 411-8720, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0003-2708-7556",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Technical Development Department, Carbon Fiber Business Unit, Teijin Ltd., 234 Kamitogari, Nagaizumi-cho, Sunto-gun, Shizuoka, 411-8720, Japan",
+            "institution_ids": [
+              "https://openalex.org/I205823427"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.compositesb.2025.113184",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.compositesb.2025.113184",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S112674977",
+        "display_name": "Composites Part B Engineering",
+        "issn_l": "1359-8368",
+        "issn": [
+          "1359-8368",
+          "1879-1069"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Composites Part B: Engineering",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.compositesb.2025.113184",
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4416335047",
+      "doi": "https://doi.org/10.1016/j.compositesb.2025.113184"
+    },
+    "cited_by_count": 2
+  },
+  {
+    "id": "https://openalex.org/W4413389560",
+    "doi": "https://doi.org/10.1016/j.polymer.2025.128961",
+    "title": "High-performance bio-based epoxy vitrimers with tunable thermal, mechanical properties and recyclability",
+    "display_name": "High-performance bio-based epoxy vitrimers with tunable thermal, mechanical properties and recyclability",
+    "publication_year": 2025,
+    "publication_date": "2025-08-21",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5055921819",
+          "display_name": "Meihui Zhou",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I182083151",
+            "display_name": "Universidad Rey Juan Carlos",
+            "ror": "https://ror.org/01v5cv687",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I182083151"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210090776",
+            "display_name": "IMDEA Materials",
+            "ror": "https://ror.org/009s53a61",
+            "country_code": "ES",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I105140100",
+              "https://openalex.org/I4210090776"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mei-Hui Zhou",
+        "raw_affiliation_strings": [
+          "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+          "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0001-0206-1355",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I4210090776"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I182083151"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5033891968",
+          "display_name": "Javier Gómez Sánchez",
+          "orcid": "https://orcid.org/0000-0001-9579-6774"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I182083151",
+            "display_name": "Universidad Rey Juan Carlos",
+            "ror": "https://ror.org/01v5cv687",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I182083151"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Javier Gómez Sánchez",
+        "raw_affiliation_strings": [
+          "Instituto de Tecnologías para la Sostenibilidad, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+          "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Instituto de Tecnologías para la Sostenibilidad, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I182083151"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I182083151"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046015631",
+          "display_name": "Zongquan Zhao",
+          "orcid": "https://orcid.org/0009-0001-4806-7656"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I184681353",
+            "display_name": "Anhui University of Science and Technology",
+            "ror": "https://ror.org/00q9atg80",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I184681353"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210090776",
+            "display_name": "IMDEA Materials",
+            "ror": "https://ror.org/009s53a61",
+            "country_code": "ES",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I105140100",
+              "https://openalex.org/I4210090776"
+            ]
+          }
+        ],
+        "countries": [
+          "CN",
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zong-Quan Zhao",
+        "raw_affiliation_strings": [
+          "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+          "School of Safety Science and Engineering, Anhui University of Science and Technology, Huainan, Anhui, 232001, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I4210090776"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Safety Science and Engineering, Anhui University of Science and Technology, Huainan, Anhui, 232001, China",
+            "institution_ids": [
+              "https://openalex.org/I184681353"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113319621",
+          "display_name": "Wen Ye",
+          "orcid": "https://orcid.org/0000-0001-5233-0691"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210090776",
+            "display_name": "IMDEA Materials",
+            "ror": "https://ror.org/009s53a61",
+            "country_code": "ES",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I105140100",
+              "https://openalex.org/I4210090776"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210092350",
+            "display_name": "Shanghai Research Institute of Chemical Industry",
+            "ror": "https://ror.org/00ex3dr91",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210092350"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I88060688",
+            "display_name": "Universidad Politécnica de Madrid",
+            "ror": "https://ror.org/03n6nwv02",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I88060688"
+            ]
+          }
+        ],
+        "countries": [
+          "CN",
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wen Ye",
+        "raw_affiliation_strings": [
+          "E.T.S. de Ingenieros de Caminos, Universidad Politécnica de Madrid, Calle profesor Aranguren 3, 28040, Madrid, Spain",
+          "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+          "Sino-Spanish Joint Research Center for Advanced Materials Technology, Shanghai Research Institute of Chemical Industry Co., Ltd., Shanghai, 200062, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "E.T.S. de Ingenieros de Caminos, Universidad Politécnica de Madrid, Calle profesor Aranguren 3, 28040, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I88060688"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I4210090776"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Sino-Spanish Joint Research Center for Advanced Materials Technology, Shanghai Research Institute of Chemical Industry Co., Ltd., Shanghai, 200062, China",
+            "institution_ids": [
+              "https://openalex.org/I4210092350"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051508605",
+          "display_name": "Silvia G. Prolongo",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I182083151",
+            "display_name": "Universidad Rey Juan Carlos",
+            "ror": "https://ror.org/01v5cv687",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I182083151"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Silvia González Prolongo",
+        "raw_affiliation_strings": [
+          "Instituto de Tecnologías para la Sostenibilidad, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+          "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Instituto de Tecnologías para la Sostenibilidad, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I182083151"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Materials Science and Engineering Area, Universidad Rey Juan Carlos, Calle Tulipán s/n, 28933 Móstoles, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I182083151"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5085487864",
+          "display_name": "De‐Yi Wang",
+          "orcid": "https://orcid.org/0000-0002-0499-6138"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210090776",
+            "display_name": "IMDEA Materials",
+            "ror": "https://ror.org/009s53a61",
+            "country_code": "ES",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I105140100",
+              "https://openalex.org/I4210090776"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "De-Yi Wang",
+        "raw_affiliation_strings": [
+          "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-0499-6138",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "IMDEA Materials Institute, C/Eric Kandel, 2, 28906 Getafe, Madrid, Spain",
+            "institution_ids": [
+              "https://openalex.org/I4210090776"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2025.128961",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2025.128961",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4413389560",
+      "doi": "https://doi.org/10.1016/j.polymer.2025.128961"
+    },
+    "cited_by_count": 1
+  },
+  {
+    "id": "https://openalex.org/W7159874228",
+    "doi": "https://doi.org/10.1021/acsapm.6c00613",
+    "title": "Stress Relaxation Modulation via Functionalized Silica in Covalent Adaptable Networks",
+    "display_name": "Stress Relaxation Modulation via Functionalized Silica in Covalent Adaptable Networks",
+    "publication_year": 2026,
+    "publication_date": "2026-04-29",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5132776043",
+          "display_name": "Jaehyun Cho",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jaehyun Cho",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology",
+          "School of Chemical and Biomolecular Engineering"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical and Biomolecular Engineering",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5135001037",
+          "display_name": "Gabriel Joaquim Sampaio de Almeida",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Gabriel Joaquim Sampaio de Almeida",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology",
+          "School of Chemical and Biomolecular Engineering"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical and Biomolecular Engineering",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5008909485",
+          "display_name": "Mridula Nandi",
+          "orcid": "https://orcid.org/0000-0001-6417-4120"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mridula Nandi",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology",
+          "School of Chemistry and Biochemistry"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemistry and Biochemistry",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5032114980",
+          "display_name": "M. G. Finn",
+          "orcid": "https://orcid.org/0000-0001-8247-3108"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "M. G. Finn",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology",
+          "School of Chemistry and Biochemistry"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-8247-3108",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemistry and Biochemistry",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5065252309",
+          "display_name": "Blair Brettmann",
+          "orcid": "https://orcid.org/0000-0003-1335-2120"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Blair Brettmann",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology",
+          "School of Chemical and Biomolecular Engineering",
+          "School of Materials Science and Engineering"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1335-2120",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical and Biomolecular Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acsapm.6c00613",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1021/acsapm.6c00613",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210221646",
+        "display_name": "ACS Applied Polymer Materials",
+        "issn_l": "2637-6105",
+        "issn": [
+          "2637-6105"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Applied Polymer Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1021/acsapm.6c00613",
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7159874228",
+      "doi": "https://doi.org/10.1021/acsapm.6c00613"
+    },
+    "cited_by_count": 1
+  },
+  {
+    "id": "https://openalex.org/W7133331188",
+    "doi": "https://doi.org/10.1039/d5nr05073a",
+    "title": "Molecular mechanism of the fracture properties of slide-ring crosslinked elastomers",
+    "display_name": "Molecular mechanism of the fracture properties of slide-ring crosslinked elastomers",
+    "publication_year": 2026,
+    "publication_date": "2026-01-01",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5128012271",
+          "display_name": "Ruibin Ma",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ruibin Ma",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5127895506",
+          "display_name": "Yang Zhang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yang Zhang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5128008973",
+          "display_name": "Xiangbao Wang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiangbao Wang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5127979000",
+          "display_name": "Xiuying Zhao",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiuying Zhao",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5127933361",
+          "display_name": "Xiaolin Li",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiaolin Li",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5127952380",
+          "display_name": "Liqun Zhang",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Liqun Zhang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2103-6294",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5031150737",
+          "display_name": "Yangyang Gao",
+          "orcid": "https://orcid.org/0000-0003-4503-3351"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75390827",
+            "display_name": "Beijing University of Chemical Technology",
+            "ror": "https://ror.org/00df5yc52",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yangyang Gao",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+          "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4503-3351",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Beijing City on Preparation and Processing of Novel Polymer Materials, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, 100029, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I75390827"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1039/d5nr05073a",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1039/d5nr05073a",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S23181512",
+        "display_name": "Nanoscale",
+        "issn_l": "2040-3364",
+        "issn": [
+          "2040-3364",
+          "2040-3372"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320556",
+        "host_organization_name": "Royal Society of Chemistry",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320556"
+        ],
+        "host_organization_lineage_names": [
+          "Royal Society of Chemistry"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nanoscale",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7133331188",
+      "doi": "https://doi.org/10.1039/d5nr05073a",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/41823732"
+    },
+    "cited_by_count": 0
+  },
+  {
+    "id": "https://openalex.org/W7153027066",
+    "doi": "https://doi.org/10.1021/acs.macromol.5c03283",
+    "title": "Multiscale Simulation of Multicomponent Polyurethane Elastomers: Unraveling Composition-Dependent Microphase Separation Dynamics and Mechanical Properties",
+    "display_name": "Multiscale Simulation of Multicomponent Polyurethane Elastomers: Unraveling Composition-Dependent Microphase Separation Dynamics and Mechanical Properties",
+    "publication_year": 2026,
+    "publication_date": "2026-04-10",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5060823695",
+          "display_name": "Yujiang Meng",
+          "orcid": "https://orcid.org/0009-0007-8969-1336"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yujiang Meng",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "South China University of Technology"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0007-8969-1336",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "South China University of Technology",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5060267715",
+          "display_name": "Xionghui Wu",
+          "orcid": "https://orcid.org/0000-0001-6422-0625"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xionghui Wu",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "South China University of Technology"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "South China University of Technology",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5071582909",
+          "display_name": "Anqiang Zhang",
+          "orcid": "https://orcid.org/0000-0001-7499-8406"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Anqiang Zhang",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "South China University of Technology"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-7499-8406",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "South China University of Technology",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5048110340",
+          "display_name": "Yaling Lin",
+          "orcid": "https://orcid.org/0000-0002-5289-4304"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I101479585",
+            "display_name": "South China Agricultural University",
+            "ror": "https://ror.org/05v9jqt67",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I101479585"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yaling Lin",
+        "raw_affiliation_strings": [
+          "College of Materials and Chemical Engineering",
+          "South China Agricultural University"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5289-4304",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Materials and Chemical Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "South China Agricultural University",
+            "institution_ids": [
+              "https://openalex.org/I101479585"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acs.macromol.5c03283",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acs.macromol.5c03283",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S177196338",
+        "display_name": "Macromolecules",
+        "issn_l": "0024-9297",
+        "issn": [
+          "0024-9297",
+          "1520-5835"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Macromolecules",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7153027066",
+      "doi": "https://doi.org/10.1021/acs.macromol.5c03283"
+    },
+    "cited_by_count": 0
+  },
+  {
+    "id": "https://openalex.org/W7164347121",
+    "doi": "https://doi.org/10.1021/acsami.6c02746",
+    "title": "In Situ Decoding of Vitrimer Topological Evolution: A Non-Invasive, External Stress-Free Approach via Hierarchical CNT Sensing Networks",
+    "display_name": "In Situ Decoding of Vitrimer Topological Evolution: A Non-Invasive, External Stress-Free Approach via Hierarchical CNT Sensing Networks",
+    "publication_year": 2026,
+    "publication_date": "2026-06-11",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5080163438",
+          "display_name": "Hongbo Dai",
+          "orcid": "https://orcid.org/0000-0002-8224-082X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hongbo Dai",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8224-082X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087608226",
+          "display_name": "Baoyu Du",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Baoyu Du",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5138451733",
+          "display_name": "Yubo Zhao",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yubo Zhao",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5136443276",
+          "display_name": "Jieyang Qiu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jieyang Qiu",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5138400718",
+          "display_name": "Jianpeng Mou",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianpeng Mou",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087325760",
+          "display_name": "Kun Peng",
+          "orcid": "https://orcid.org/0009-0001-1306-018X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kun Peng",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0001-1306-018X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5138395718",
+          "display_name": "Shuai Liu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163700",
+            "display_name": "Zhejiang Institute of Modern Textile Industry",
+            "ror": "https://ror.org/053zgay46",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210163700"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shuai Liu",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Provincial Innovation Center of Advanced Textile Technology",
+            "institution_ids": [
+              "https://openalex.org/I4210163700"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5019844212",
+          "display_name": "Yunsheng Xu",
+          "orcid": "https://orcid.org/0000-0002-4342-7739"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1328775524",
+            "display_name": "Zhejiang Sci-Tech University",
+            "ror": "https://ror.org/03893we55",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yunsheng Xu",
+        "raw_affiliation_strings": [
+          "School of Materials Science and Engineering",
+          "Zhejiang Sci-Tech University"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4342-7739",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Materials Science and Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Zhejiang Sci-Tech University",
+            "institution_ids": [
+              "https://openalex.org/I1328775524"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acsami.6c02746",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acsami.6c02746",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S164001016",
+        "display_name": "ACS Applied Materials & Interfaces",
+        "issn_l": "1944-8244",
+        "issn": [
+          "1944-8244",
+          "1944-8252"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Applied Materials &amp; Interfaces",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7164347121",
+      "doi": "https://doi.org/10.1021/acsami.6c02746",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/42276735"
+    },
+    "cited_by_count": 0
+  }
+]

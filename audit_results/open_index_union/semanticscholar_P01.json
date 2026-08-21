@@ -1,0 +1,6865 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "1775c323cae9fdd9b127de539e2c7edd77fea702",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2026.180434",
+          "CorpusId": 290878255
+        },
+        "url": "https://www.semanticscholar.org/paper/1775c323cae9fdd9b127de539e2c7edd77fea702",
+        "title": "Body-coupled self-powered piezoresistive sensing for human-machine interaction",
+        "venue": "Chemical Engineering Journal",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-08-01",
+        "authors": [
+          {
+            "authorId": "2147432112",
+            "name": "Guoliang Ma"
+          },
+          {
+            "authorId": "2456365141",
+            "name": "Tianshuo Zhang"
+          },
+          {
+            "authorId": "2399962431",
+            "name": "Kun Ma"
+          },
+          {
+            "authorId": "2386796613",
+            "name": "Shenao Xiong"
+          },
+          {
+            "authorId": "2318387935",
+            "name": "Mengze Zhang"
+          },
+          {
+            "authorId": "2318212616",
+            "name": "Congtian Gu"
+          },
+          {
+            "authorId": "5613217",
+            "name": "Kai-xian Ba"
+          },
+          {
+            "authorId": "2278909325",
+            "name": "Jianhao Li"
+          },
+          {
+            "authorId": "2190715305",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e85d957e6e3fb385411a98d4c0142df8bbb91a6c",
+        "externalIds": {
+          "DOI": "10.1007/s42765-026-00747-6",
+          "CorpusId": 290528816
+        },
+        "url": "https://www.semanticscholar.org/paper/e85d957e6e3fb385411a98d4c0142df8bbb91a6c",
+        "title": "Bioinspired Permeable Soft Electronics for Advanced Healthcare Monitoring",
+        "venue": "Advanced Fiber Materials",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-07-23",
+        "authors": [
+          {
+            "authorId": "2290966536",
+            "name": "Ming Yuan"
+          },
+          {
+            "authorId": "2453294308",
+            "name": "Zhen Zeng"
+          },
+          {
+            "authorId": "2323095662",
+            "name": "Jia Zhao"
+          },
+          {
+            "authorId": "2357721579",
+            "name": "Junru Ji"
+          },
+          {
+            "authorId": "2290838714",
+            "name": "Junduo Liu"
+          },
+          {
+            "authorId": "2358605278",
+            "name": "Yuyang Sun"
+          },
+          {
+            "authorId": "2325208532",
+            "name": "Ting Lin"
+          },
+          {
+            "authorId": "47527225",
+            "name": "Shaohua Dong"
+          },
+          {
+            "authorId": "2188922869",
+            "name": "Yunshen Fang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d7e311964dd1c56b7bae556ead625d98308b527f",
+        "externalIds": {
+          "DOI": "10.1002/adfm.77096",
+          "CorpusId": 290544365
+        },
+        "url": "https://www.semanticscholar.org/paper/d7e311964dd1c56b7bae556ead625d98308b527f",
+        "title": "Ultra‐Sensitive, Ultra‐Linear, Temperature‐Robust Yarn Sensor for Intelligent Monitoring Under Harsh Thermal Condition",
+        "venue": "Advanced Functional Materials",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-07-23",
+        "authors": [
+          {
+            "authorId": "48144964",
+            "name": "Wenjing Fan"
+          },
+          {
+            "authorId": "2360654328",
+            "name": "Bingping Yu"
+          },
+          {
+            "authorId": "2319859542",
+            "name": "Jiajun Li"
+          },
+          {
+            "authorId": "2316667896",
+            "name": "Yuqi Chen"
+          },
+          {
+            "authorId": "2307189098",
+            "name": "Pei Li"
+          },
+          {
+            "authorId": "2453395918",
+            "name": "Wei Fan"
+          },
+          {
+            "authorId": "2383386286",
+            "name": "Wentao Wang"
+          },
+          {
+            "authorId": "2390652807",
+            "name": "Xinqing Wang"
+          },
+          {
+            "authorId": "2275674367",
+            "name": "Keyu Meng"
+          },
+          {
+            "authorId": "2269686470",
+            "name": "Jun Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "9c9b8ed243bd4e01613efa0c199d728175bdb9c8",
+        "externalIds": {
+          "DOI": "10.1002/adfm.76816",
+          "CorpusId": 289963385
+        },
+        "url": "https://www.semanticscholar.org/paper/9c9b8ed243bd4e01613efa0c199d728175bdb9c8",
+        "title": "In‐Situ Polymerization MXene@PAF‐1 for Triboelectric Nanogenerators With High Surface Charge Density Toward Self‐Powered Cardiovascular Assessment",
+        "venue": "Advanced Functional Materials",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-07-06",
+        "authors": [
+          {
+            "authorId": "2207279628",
+            "name": "Zhaofu Zhang"
+          },
+          {
+            "authorId": "2208269386",
+            "name": "Mengxiao Sun"
+          },
+          {
+            "authorId": "2297329542",
+            "name": "Rumeng Yang"
+          },
+          {
+            "authorId": "2108751890",
+            "name": "Weiyan Li"
+          },
+          {
+            "authorId": "2384160940",
+            "name": "Cuiyu Liu"
+          },
+          {
+            "authorId": "2349068489",
+            "name": "Zhongqian Song"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d3976d3794557734e16495f95e51e10ed798a99a",
+        "externalIds": {
+          "DOI": "10.1016/j.polymertesting.2026.109316",
+          "CorpusId": 290832119
+        },
+        "url": "https://www.semanticscholar.org/paper/d3976d3794557734e16495f95e51e10ed798a99a",
+        "title": "Flexible tactile sensors enabled by biomimetic microstructures: From transduction mechanisms to human-integrated applications",
+        "venue": "Polymer testing",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0142941826002333/pdf",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-07-01",
+        "authors": [
+          {
+            "authorId": "2455483071",
+            "name": "Chao Wei"
+          },
+          {
+            "authorId": "2453832972",
+            "name": "Jingyuan Shi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "ccc6fffa48fe5d61a2f542f0e3df5fc96c4ff46d",
+        "externalIds": {
+          "PubMedCentral": "13336898",
+          "DOI": "10.1002/advs.76197",
+          "CorpusId": 289486096,
+          "PubMed": "42335390"
+        },
+        "url": "https://www.semanticscholar.org/paper/ccc6fffa48fe5d61a2f542f0e3df5fc96c4ff46d",
+        "title": "Synergistic Effect of Gradient Conductivity and Gradient Microstructures Enabled Ultrasensitive and Ultrabroad Linear Flexible Tactile Sensors",
+        "venue": "Advancement of science",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/advs.76197",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-23",
+        "authors": [
+          {
+            "authorId": "144233432",
+            "name": "Yao Fang"
+          },
+          {
+            "authorId": "2281904135",
+            "name": "Yiwei Wang"
+          },
+          {
+            "authorId": "2321045742",
+            "name": "Bing Zheng"
+          },
+          {
+            "authorId": "2385652042",
+            "name": "Liu Yang"
+          },
+          {
+            "authorId": "2330386429",
+            "name": "Jingyi Yue"
+          },
+          {
+            "authorId": "2116762396",
+            "name": "Qian Zhou"
+          },
+          {
+            "authorId": "47513587",
+            "name": "Jinrong Huang"
+          },
+          {
+            "authorId": "2238910796",
+            "name": "Yongyun Mao"
+          },
+          {
+            "authorId": "2316672925",
+            "name": "Qian Li"
+          },
+          {
+            "authorId": "2125638301",
+            "name": "Jifei Wang"
+          },
+          {
+            "authorId": "2257921069",
+            "name": "Dongsheng Tang"
+          },
+          {
+            "authorId": "2152992965",
+            "name": "Yuxin Tang"
+          },
+          {
+            "authorId": "2237142741",
+            "name": "Bingpu Zhou"
+          },
+          {
+            "authorId": "2260982577",
+            "name": "Bing Ji"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3fec279e21aff7cf0e150dc5c9138734e45aa696",
+        "externalIds": {
+          "DOI": "10.20517/ss.2026.77",
+          "CorpusId": 289427529
+        },
+        "url": "https://www.semanticscholar.org/paper/3fec279e21aff7cf0e150dc5c9138734e45aa696",
+        "title": "High-resolution flexible tactile sensors",
+        "venue": "Soft Science",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.20517/ss.2026.77",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-06-18",
+        "authors": [
+          {
+            "authorId": "2125118551",
+            "name": "Zicheng Shen"
+          },
+          {
+            "authorId": "2404221037",
+            "name": "Hui Wu"
+          },
+          {
+            "authorId": "2185186782",
+            "name": "Yuyu Hou"
+          },
+          {
+            "authorId": "2265723935",
+            "name": "Geng Yang"
+          },
+          {
+            "authorId": "2265721577",
+            "name": "Huayong Yang"
+          },
+          {
+            "authorId": "2140062147",
+            "name": "Kaichen Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "4e406fb027ab7f05f78965ec84048e6f57fccc04",
+        "externalIds": {
+          "DOI": "10.1016/j.apmt.2026.103230",
+          "CorpusId": 287706709
+        },
+        "url": "https://www.semanticscholar.org/paper/4e406fb027ab7f05f78965ec84048e6f57fccc04",
+        "title": "Machine learning for enhanced performance of flexible sensors: A review",
+        "venue": "Applied Materials Today",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.apmt.2026.103230",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2292178873",
+            "name": "Fan Yang"
+          },
+          {
+            "authorId": "2110926582",
+            "name": "Chao Huang"
+          },
+          {
+            "authorId": "1573994247",
+            "name": "Wanlin Li"
+          },
+          {
+            "authorId": "2308552207",
+            "name": "Ke Li"
+          },
+          {
+            "authorId": "2146510540",
+            "name": "Suwei Ding"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "80892755d7a15999f00ac8e0a417c97ba0d80aa2",
+        "externalIds": {
+          "DOI": "10.1109/JSEN.2026.3683061",
+          "CorpusId": 287599306
+        },
+        "url": "https://www.semanticscholar.org/paper/80892755d7a15999f00ac8e0a417c97ba0d80aa2",
+        "title": "Study on Pulse-Taking Pressure Sensor Based on Surface Acoustic Wave",
+        "venue": "IEEE Sensors Journal",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2115389377",
+            "name": "Yang Feng"
+          },
+          {
+            "authorId": "2266704101",
+            "name": "Haoda Yu"
+          },
+          {
+            "authorId": "2378800258",
+            "name": "Xulehan Yu"
+          },
+          {
+            "authorId": "112857424",
+            "name": "Beng-Wern Wang"
+          },
+          {
+            "authorId": "2378074362",
+            "name": "Bingkun Zhang"
+          },
+          {
+            "authorId": "2377989973",
+            "name": "Hua Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "91cc9eb657eedc49e3071e5cc5c0cd44142640e4",
+        "externalIds": {
+          "DOI": "10.1016/j.dcmed.2026.05.001",
+          "CorpusId": 289241545
+        },
+        "url": "https://www.semanticscholar.org/paper/91cc9eb657eedc49e3071e5cc5c0cd44142640e4",
+        "title": "From pulse to pixel: artificial intelligence-enhanced pulse diagnosis for cardiovascular diseases",
+        "venue": "Digital Chinese Medicine",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.dcmed.2026.05.001",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2266705920",
+            "name": "Xilong Zheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b0a3ddfda5c7121dc242509a92985d1ea1f13d5d",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2026.178500",
+          "CorpusId": 289423788
+        },
+        "url": "https://www.semanticscholar.org/paper/b0a3ddfda5c7121dc242509a92985d1ea1f13d5d",
+        "title": "Bioinspired static-dynamic fusion sensing for robotic pulse palpation and continuous blood pressure monitoring",
+        "venue": "Chemical Engineering Journal",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2296331450",
+            "name": "Guoxu Wu"
+          },
+          {
+            "authorId": "2118792379",
+            "name": "Andeng Liu"
+          },
+          {
+            "authorId": "2358302189",
+            "name": "Yixin Dong"
+          },
+          {
+            "authorId": "2296063254",
+            "name": "Yingjin Luo"
+          },
+          {
+            "authorId": "2154407129",
+            "name": "C. Han"
+          },
+          {
+            "authorId": "2153911429",
+            "name": "Yi Zhang"
+          },
+          {
+            "authorId": "2280302816",
+            "name": "Meidan Ye"
+          },
+          {
+            "authorId": "2272494683",
+            "name": "Yuanyuan Liu"
+          },
+          {
+            "authorId": "2343073863",
+            "name": "Wenxi Guo"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "115db166f89ea4ebacd66d4ef7f1ec4358ffa48a",
+        "externalIds": {
+          "DOI": "10.1007/s11432-025-4675-6",
+          "CorpusId": 288331180
+        },
+        "url": "https://www.semanticscholar.org/paper/115db166f89ea4ebacd66d4ef7f1ec4358ffa48a",
+        "title": "A flexible ion-electronic sensor device with thermal drift suppression for decoupled pressure-temperature sensing",
+        "venue": "Science China Information Sciences",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-05-08",
+        "authors": [
+          {
+            "authorId": "2248727327",
+            "name": "Guirong Wu"
+          },
+          {
+            "authorId": "2281447963",
+            "name": "Hao Su"
+          },
+          {
+            "authorId": "2378908804",
+            "name": "Yihang Wang"
+          },
+          {
+            "authorId": "2281264317",
+            "name": "Zhixuan Su"
+          },
+          {
+            "authorId": "2435345284",
+            "name": "Jingda Xu"
+          },
+          {
+            "authorId": "2426348701",
+            "name": "Ruisi Shang"
+          },
+          {
+            "authorId": "2211296576",
+            "name": "Ran Wang"
+          },
+          {
+            "authorId": "2379174807",
+            "name": "Mengju Zhu"
+          },
+          {
+            "authorId": "2303065073",
+            "name": "Zekai Huang"
+          },
+          {
+            "authorId": "2280403420",
+            "name": "Chenyang Xue"
+          },
+          {
+            "authorId": "2307732070",
+            "name": "Yong Wang"
+          },
+          {
+            "authorId": "2333421078",
+            "name": "Libo Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "46e201ece19b629835d8664f5e1ce8c00a84c095",
+        "externalIds": {
+          "DOI": "10.1007/s42765-026-00722-1",
+          "CorpusId": 288023895
+        },
+        "url": "https://www.semanticscholar.org/paper/46e201ece19b629835d8664f5e1ce8c00a84c095",
+        "title": "Ion Coordination–Reduction Synergy Constructs CNFene/Cu Nanoparticles to Regenerate Silk Fibroin Fibers for Reliable and Precise Smart Pulse Diagnosis",
+        "venue": "Advanced Fiber Materials",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-05-04",
+        "authors": [
+          {
+            "authorId": "2211022073",
+            "name": "Shiting Ruan"
+          },
+          {
+            "authorId": "2433538289",
+            "name": "Shuobin Zhu"
+          },
+          {
+            "authorId": "51235278",
+            "name": "Ya-Jie Dong"
+          },
+          {
+            "authorId": "2296047488",
+            "name": "Ruixin Gong"
+          },
+          {
+            "authorId": "2257123529",
+            "name": "Houyong Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f6727534a7c396a8556a6352d076b95da70f9b82",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2026.177234",
+          "CorpusId": 288203930
+        },
+        "url": "https://www.semanticscholar.org/paper/f6727534a7c396a8556a6352d076b95da70f9b82",
+        "title": "A flexible piezoresistive pressure sensor with an interlocking microstructure based on modulated corona electric field",
+        "venue": "Chemical Engineering Journal",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-05-01",
+        "authors": [
+          {
+            "authorId": "2353311838",
+            "name": "Chenghang Yu"
+          },
+          {
+            "authorId": "2339427571",
+            "name": "Jian Xu"
+          },
+          {
+            "authorId": "2335636456",
+            "name": "Fu Lv"
+          },
+          {
+            "authorId": "2364947999",
+            "name": "Bing Liu"
+          },
+          {
+            "authorId": "2339427782",
+            "name": "Juan Li"
+          },
+          {
+            "authorId": "2343509120",
+            "name": "Xin Li"
+          },
+          {
+            "authorId": "2300045828",
+            "name": "Zijian Hong"
+          },
+          {
+            "authorId": "2331300282",
+            "name": "Yongjun Wu"
+          },
+          {
+            "authorId": "2108724431",
+            "name": "Yuhui Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0957d6a3e7b2c7eee42dd7ef8a01a51adb412708",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.5c04432",
+          "CorpusId": 287188281,
+          "PubMed": "41925006"
+        },
+        "url": "https://www.semanticscholar.org/paper/0957d6a3e7b2c7eee42dd7ef8a01a51adb412708",
+        "title": "A Temperature-Pressure Dual-Mode Flexible Patch Sensor with Temperature Compensation and Pressure Decoupling Functions for Pulse Detection and Recognition.",
+        "venue": "ACS Sensors",
+        "year": 2026,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-02",
+        "authors": [
+          {
+            "authorId": "2370453898",
+            "name": "Yuechao Ma"
+          },
+          {
+            "authorId": "2118224885",
+            "name": "W. Zhao"
+          },
+          {
+            "authorId": "2160404050",
+            "name": "Ruitian Yan"
+          },
+          {
+            "authorId": "2244319308",
+            "name": "Xiaoyang Duan"
+          },
+          {
+            "authorId": "2319394863",
+            "name": "Haonan Cheng"
+          },
+          {
+            "authorId": "2295842925",
+            "name": "Jialin Zhang"
+          },
+          {
+            "authorId": "2337387801",
+            "name": "Hongquan Guo"
+          },
+          {
+            "authorId": "2392256746",
+            "name": "Yang Xiao"
+          },
+          {
+            "authorId": "11616772",
+            "name": "Dongmeng Su"
+          },
+          {
+            "authorId": "7377501",
+            "name": "Yinsheng Chen"
+          },
+          {
+            "authorId": "2181385652",
+            "name": "Dan Xu"
+          },
+          {
+            "authorId": "2336757420",
+            "name": "Minghua Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a3e880e3f6b0334ca4f74adafa6cbf3fa8914650",
+        "externalIds": {
+          "DOI": "10.1002/adfm.75219",
+          "CorpusId": 287084353
+        },
+        "url": "https://www.semanticscholar.org/paper/a3e880e3f6b0334ca4f74adafa6cbf3fa8914650",
+        "title": "Multimodal Electronic Skin Integrating Discrete Wavelet Transform and Deep Learning for Accurate Tactile Perception",
+        "venue": "Advanced Functional Materials",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-01",
+        "authors": [
+          {
+            "authorId": "2298587224",
+            "name": "Hui Kong"
+          },
+          {
+            "authorId": "2382816805",
+            "name": "Xingguang Chen"
+          },
+          {
+            "authorId": "2186758787",
+            "name": "Guanghao Huang"
+          },
+          {
+            "authorId": "2278323142",
+            "name": "Yunze Long"
+          },
+          {
+            "authorId": "2298574809",
+            "name": "Lianqun Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5b2e6ac7e72e92a1930107f6384b620d252f9291",
+        "externalIds": {
+          "DOI": "10.1016/j.sna.2026.117830",
+          "CorpusId": 287227771
+        },
+        "url": "https://www.semanticscholar.org/paper/5b2e6ac7e72e92a1930107f6384b620d252f9291",
+        "title": "A Tunable-Performance Capacitive Pressure Sensor Based on the Pneumatically Reconfigurable Porous-Core for Human-Computer Interaction",
+        "venue": "Sensors and Actuators A: Physical",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-01",
+        "authors": [
+          {
+            "authorId": "2362969829",
+            "name": "Jun Li"
+          },
+          {
+            "authorId": "2363285027",
+            "name": "Shuang Li"
+          },
+          {
+            "authorId": "2347608305",
+            "name": "Bingchao Wu"
+          },
+          {
+            "authorId": "2145128581",
+            "name": "Yun Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "98426576e7228188c18eb342daf52e1ce5a97fad",
+        "externalIds": {
+          "DOI": "10.1002/adma.202523029",
+          "CorpusId": 286459687,
+          "PubMed": "41811061"
+        },
+        "url": "https://www.semanticscholar.org/paper/98426576e7228188c18eb342daf52e1ce5a97fad",
+        "title": "Continuous Monitoring of Body Fluid by Flexible Bio‐Integrated Flow Sensors",
+        "venue": "Advances in Materials",
+        "year": 2026,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-11",
+        "authors": [
+          {
+            "authorId": "144495277",
+            "name": "Zhiqiang Ma"
+          },
+          {
+            "authorId": "2292435514",
+            "name": "Deyuan Zhang"
+          },
+          {
+            "authorId": "2300601998",
+            "name": "Mohd Faizul Mohd Sabri"
+          },
+          {
+            "authorId": "2300332728",
+            "name": "Yonggang Jiang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "9bffc46ebaee45dea3cf6f5065c1bffec74e8d6b",
+        "externalIds": {
+          "DOI": "10.1016/j.sna.2025.117398",
+          "CorpusId": 284202103
+        },
+        "url": "https://www.semanticscholar.org/paper/9bffc46ebaee45dea3cf6f5065c1bffec74e8d6b",
+        "title": "Quasi static pressure tolerant triboelectric textile sensor array for intelligent pulse diagnosis in traditional Chinese medicine",
+        "venue": "Sensors and Actuators A-Physical",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-01",
+        "authors": [
+          {
+            "authorId": "2240844123",
+            "name": "Xinyu Wang"
+          },
+          {
+            "authorId": "2243434360",
+            "name": "Wenxuan Guo"
+          },
+          {
+            "authorId": "2066341434",
+            "name": "Xiaodong Jiao"
+          },
+          {
+            "authorId": "2313314758",
+            "name": "Zhengxiang Jin"
+          },
+          {
+            "authorId": "2386367083",
+            "name": "Ce Chuai"
+          },
+          {
+            "authorId": "2304136928",
+            "name": "Junjun Pan"
+          },
+          {
+            "authorId": "2261574380",
+            "name": "Hao Sun"
+          },
+          {
+            "authorId": "2140407825",
+            "name": "Qinglin Sun"
+          },
+          {
+            "authorId": "2116421438",
+            "name": "Siyuan Wang"
+          },
+          {
+            "authorId": "2243629142",
+            "name": "Peng Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3b9198a34d3c48432df1fd034b522c596b5d4b92",
+        "externalIds": {
+          "DOI": "10.1016/j.mattod.2026.103211",
+          "CorpusId": 285438675
+        },
+        "url": "https://www.semanticscholar.org/paper/3b9198a34d3c48432df1fd034b522c596b5d4b92",
+        "title": "Advanced intelligent E-Skin: Multimodal sensing to AI-Driven clinical monitoring",
+        "venue": "Materials Today",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-01",
+        "authors": [
+          {
+            "authorId": "2302903062",
+            "name": "Zhenbo Yu"
+          },
+          {
+            "authorId": "2296219413",
+            "name": "Jian Feng"
+          },
+          {
+            "authorId": "67339475",
+            "name": "W. Dou"
+          },
+          {
+            "authorId": "2344142509",
+            "name": "X. Ge"
+          },
+          {
+            "authorId": "2365419866",
+            "name": "Dixin He"
+          },
+          {
+            "authorId": "2297687999",
+            "name": "Meng Zhang"
+          },
+          {
+            "authorId": "10401101",
+            "name": "Hanchi Wang"
+          },
+          {
+            "authorId": "2266234880",
+            "name": "Yanmin Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b1b15df84d70c18da455b0420abdc3274d7d56cb",
+        "externalIds": {
+          "DOI": "10.1016/j.eng.2026.02.018",
+          "CorpusId": 286292642
+        },
+        "url": "https://www.semanticscholar.org/paper/b1b15df84d70c18da455b0420abdc3274d7d56cb",
+        "title": "XiangShu Omics: A Framework Based on the Spatio–Temporal Field Rhythms of Human Life and Systems Intelligence Methodology",
+        "venue": "Engineering",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.eng.2026.02.018",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-01",
+        "authors": [
+          {
+            "authorId": "2244250036",
+            "name": "Hong-yan Wang"
+          },
+          {
+            "authorId": "2192762983",
+            "name": "Chunchun Yuan"
+          },
+          {
+            "authorId": "2271434462",
+            "name": "Haitao Zhang"
+          },
+          {
+            "authorId": "2118776305",
+            "name": "Xiaoyun Wang"
+          },
+          {
+            "authorId": "2226755840",
+            "name": "Haifeng Jia"
+          },
+          {
+            "authorId": "2272002559",
+            "name": "Furui Fu"
+          },
+          {
+            "authorId": "2320438033",
+            "name": "Xichen Tang"
+          },
+          {
+            "authorId": "2268029623",
+            "name": "Jiarui Cui"
+          },
+          {
+            "authorId": "2278222402",
+            "name": "Jiangxun Ji"
+          },
+          {
+            "authorId": "2421097491",
+            "name": "Senjie Shi"
+          },
+          {
+            "authorId": "2291350416",
+            "name": "Hongbin Xu"
+          },
+          {
+            "authorId": "51153224",
+            "name": "Jinni Hong"
+          },
+          {
+            "authorId": "50021791",
+            "name": "Tianpeng Liu"
+          },
+          {
+            "authorId": "2317906712",
+            "name": "Junhao Liang"
+          },
+          {
+            "authorId": "2394243187",
+            "name": "M. Yuan"
+          },
+          {
+            "authorId": "2307402257",
+            "name": "Xiaomei Liu"
+          },
+          {
+            "authorId": "2290988739",
+            "name": "Qianqian Liang"
+          },
+          {
+            "authorId": "2271926155",
+            "name": "Dezhi Tang"
+          },
+          {
+            "authorId": "2326919916",
+            "name": "Qi Shi"
+          },
+          {
+            "authorId": "2271898156",
+            "name": "Yongjun Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "44971758ca12352bb60cdc0711775cd27ef7d719",
+        "externalIds": {
+          "DOI": "10.1007/s42765-025-00670-2",
+          "CorpusId": 286032546
+        },
+        "url": "https://www.semanticscholar.org/paper/44971758ca12352bb60cdc0711775cd27ef7d719",
+        "title": "All-in-One Leather-Based Flexible Capacitive Pressure Sensor for Human Monitoring and Wearable Comfort",
+        "venue": "Advanced Fiber Materials",
+        "year": 2026,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-23",
+        "authors": [
+          {
+            "authorId": "2298021143",
+            "name": "Ken Chen"
+          },
+          {
+            "authorId": "49290240",
+            "name": "Bin Lyu"
+          },
+          {
+            "authorId": "7642734",
+            "name": "D. Gao"
+          },
+          {
+            "authorId": "2303332003",
+            "name": "Zhihui Yi"
+          },
+          {
+            "authorId": "9946215",
+            "name": "Yunchuang Wang"
+          },
+          {
+            "authorId": "2264366463",
+            "name": "Chi Zheng"
+          },
+          {
+            "authorId": "2244611931",
+            "name": "Yingying Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "2eca0f9a0f2d1f8de268a3afcb0b5863aedb2bdc",
+        "externalIds": {
+          "DOI": "10.1002/admt.202502287",
+          "CorpusId": 285993594
+        },
+        "url": "https://www.semanticscholar.org/paper/2eca0f9a0f2d1f8de268a3afcb0b5863aedb2bdc",
+        "title": "Research and Commercialization Progress of Wearable Multiphysiological Parameter Sensors",
+        "venue": "Advanced Materials & Technologies",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/admt.202502287",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-02-22",
+        "authors": [
+          {
+            "authorId": "2284694627",
+            "name": "Pengrui Zhu"
+          },
+          {
+            "authorId": "2296223154",
+            "name": "Yifan Liu"
+          },
+          {
+            "authorId": "2241938976",
+            "name": "Hongjun Zheng"
+          },
+          {
+            "authorId": "6773778",
+            "name": "Bojing Shi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0672a28c3c39cbb74768053baa3ef1d5dadc51a3",
+        "externalIds": {
+          "DOI": "10.1021/acsnano.5c21609",
+          "CorpusId": 285814663,
+          "PubMed": "41717965"
+        },
+        "url": "https://www.semanticscholar.org/paper/0672a28c3c39cbb74768053baa3ef1d5dadc51a3",
+        "title": "Manipulating 2D Nanomaterials: Shaping the Future of Intelligent Wearable Health Monitoring Devices.",
+        "venue": "ACS Nano",
+        "year": 2026,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-20",
+        "authors": [
+          {
+            "authorId": "2364564145",
+            "name": "Shengxi Yuan"
+          },
+          {
+            "authorId": "2268726330",
+            "name": "Jinxiang Deng"
+          },
+          {
+            "authorId": "2352881310",
+            "name": "Lihong Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c003df0f8539b819ecd21ebe4feeaf6f0e8882e9",
+        "externalIds": {
+          "DOI": "10.1016/j.sna.2025.117329",
+          "CorpusId": 283377810
+        },
+        "url": "https://www.semanticscholar.org/paper/c003df0f8539b819ecd21ebe4feeaf6f0e8882e9",
+        "title": "Piezoresistive pressure sensors in pulse waveform monitoring: A review of biomechanics, related technologies, and machine learning perspectives",
+        "venue": "Sensors and Actuators A: Physical",
+        "year": 2026,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-02-01",
+        "authors": [
+          {
+            "authorId": "2034277749",
+            "name": "Borzooye Jafarizadeh"
+          },
+          {
+            "authorId": "2034277010",
+            "name": "A. Chowdhury"
+          },
+          {
+            "authorId": "2362914734",
+            "name": "Rafita Haque"
+          },
+          {
+            "authorId": "2395355329",
+            "name": "Yuelin Wang"
+          },
+          {
+            "authorId": "2244398138",
+            "name": "Nezih Pala"
+          },
+          {
+            "authorId": "2363130194",
+            "name": "Chunlei Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5b5e45144f4941aa91bb0f8c8046360e1c38646d",
+        "externalIds": {
+          "DOI": "10.1109/JSEN.2025.3559555",
+          "CorpusId": 278175458
+        },
+        "url": "https://www.semanticscholar.org/paper/5b5e45144f4941aa91bb0f8c8046360e1c38646d",
+        "title": "Wrist Pulse Acquisition System Based on MEMS Piezoresistive Sensor Array for Health Information Monitoring",
+        "venue": "IEEE Sensors Journal",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-01",
+        "authors": [
+          {
+            "authorId": "2306821742",
+            "name": "Lin Huang"
+          },
+          {
+            "authorId": "2306370111",
+            "name": "Xingchen Zhai"
+          },
+          {
+            "authorId": "2295372863",
+            "name": "Peng Tian"
+          },
+          {
+            "authorId": "2075326004",
+            "name": "Zhiwei Dai"
+          },
+          {
+            "authorId": "2294271395",
+            "name": "Yunfeng Wang"
+          },
+          {
+            "authorId": "2108900907",
+            "name": "Haiying Zhang"
+          },
+          {
+            "authorId": "2295426850",
+            "name": "Jun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b6e3c0595691cd04eed08831e85da4bfee9d07f9",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2026.173685",
+          "CorpusId": 285330740
+        },
+        "url": "https://www.semanticscholar.org/paper/b6e3c0595691cd04eed08831e85da4bfee9d07f9",
+        "title": "Bridging sensation and actuation: From fundamental architectures to adaptive systems",
+        "venue": "Chemical Engineering Journal",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-01",
+        "authors": [
+          {
+            "authorId": "2409056864",
+            "name": "Yue Huang"
+          },
+          {
+            "authorId": "152732669",
+            "name": "Wei Zhu"
+          },
+          {
+            "authorId": "2411397468",
+            "name": "Chang Yin"
+          },
+          {
+            "authorId": "2122824541",
+            "name": "Shaoxiong Hu"
+          },
+          {
+            "authorId": "2141009422",
+            "name": "Jie Zhou"
+          },
+          {
+            "authorId": "1806480551",
+            "name": "Zhanpeng Guo"
+          },
+          {
+            "authorId": "2145004206",
+            "name": "Qingqing Zhang"
+          },
+          {
+            "authorId": "2297064576",
+            "name": "Guangya Zhang"
+          },
+          {
+            "authorId": "2303727488",
+            "name": "Yuan Deng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6690f2cf555178805904ccc3de742f313e6896a2",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202530875",
+          "CorpusId": 285214944
+        },
+        "url": "https://www.semanticscholar.org/paper/6690f2cf555178805904ccc3de742f313e6896a2",
+        "title": "A Dual‐Modal Programmable E‐Skin with Tunable In‐Sensor Touch Computing",
+        "venue": "Advanced Functional Materials",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-01-29",
+        "authors": [
+          {
+            "authorId": "2319660391",
+            "name": "Y. Hu"
+          },
+          {
+            "authorId": "2229351664",
+            "name": "Zijian Huang"
+          },
+          {
+            "authorId": "2321058195",
+            "name": "Yanhao Luo"
+          },
+          {
+            "authorId": "2267401500",
+            "name": "Shifan Yu"
+          },
+          {
+            "authorId": "2350685963",
+            "name": "Hongyu Chen"
+          },
+          {
+            "authorId": "2319674242",
+            "name": "Lei Liu"
+          },
+          {
+            "authorId": "1820922054",
+            "name": "Wansheng Lin"
+          },
+          {
+            "authorId": "2314522178",
+            "name": "Yuchen Lin"
+          },
+          {
+            "authorId": "2309893081",
+            "name": "Ziquan Guo"
+          },
+          {
+            "authorId": "2350819135",
+            "name": "Jianghui Zheng"
+          },
+          {
+            "authorId": "2267465853",
+            "name": "Yuanjin Zheng"
+          },
+          {
+            "authorId": "2274653371",
+            "name": "Zhong Chen"
+          },
+          {
+            "authorId": "2075369872",
+            "name": "Xinqin Liao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "af2d813c37352f724de3686215110b6140004a99",
+        "externalIds": {
+          "PubMedCentral": "12802842",
+          "DOI": "10.1126/sciadv.aea5803",
+          "CorpusId": 284736488,
+          "PubMed": "41533790"
+        },
+        "url": "https://www.semanticscholar.org/paper/af2d813c37352f724de3686215110b6140004a99",
+        "title": "Flexible thermal array sensor for imperceptible monitoring of multidimensional vascular dynamics",
+        "venue": "Science Advances",
+        "year": 2026,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-01-14",
+        "authors": [
+          {
+            "authorId": "2242941140",
+            "name": "Shuo Tian"
+          },
+          {
+            "authorId": "2007664194",
+            "name": "Shiqiang Liu"
+          },
+          {
+            "authorId": "150287766",
+            "name": "Ronglin Zhu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "73f4e30f027eb212dde700521d880e2c79fe6608",
+        "externalIds": {
+          "DOI": "10.1002/inf2.70116",
+          "CorpusId": 284747251
+        },
+        "url": "https://www.semanticscholar.org/paper/73f4e30f027eb212dde700521d880e2c79fe6608",
+        "title": "Flexible ionic pressure sensors: From migration‐electronic mechanisms to emerging iontronic paradigms",
+        "venue": "InfoMat",
+        "year": 2026,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/inf2.70116",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-01-13",
+        "authors": [
+          {
+            "authorId": "2302837695",
+            "name": "Mengjie Wang"
+          },
+          {
+            "authorId": "2288667598",
+            "name": "Yanan Ma"
+          },
+          {
+            "authorId": "2374424663",
+            "name": "Jia Liu"
+          },
+          {
+            "authorId": "2364562953",
+            "name": "Li Xu"
+          },
+          {
+            "authorId": "2379192342",
+            "name": "Li Wen"
+          },
+          {
+            "authorId": "2378214330",
+            "name": "Ranyun Wu"
+          },
+          {
+            "authorId": "2300042454",
+            "name": "Yongfa Cheng"
+          },
+          {
+            "authorId": "2297739237",
+            "name": "Liang Li"
+          },
+          {
+            "authorId": "2326770548",
+            "name": "Siliang Wang"
+          },
+          {
+            "authorId": "2266736496",
+            "name": "Yang Yue"
+          },
+          {
+            "authorId": "2283310315",
+            "name": "Zhixiang Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "41763bd1c58316960422cc9bafc8c8b75a687456",
+        "externalIds": {
+          "DOI": "10.1155/adv/7999020",
+          "CorpusId": 289038626
+        },
+        "url": "https://www.semanticscholar.org/paper/41763bd1c58316960422cc9bafc8c8b75a687456",
+        "title": "A High‐Stability Hydrogel Sensor for Pulse Monitoring",
+        "venue": "Advances in Polymer Technology",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1155/adv/7999020",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-01-01",
+        "authors": [
+          {
+            "authorId": "2261943875",
+            "name": "Jinli Zhou"
+          },
+          {
+            "authorId": "2282903201",
+            "name": "Chenxiao Wang"
+          },
+          {
+            "authorId": "2402448050",
+            "name": "Saiya Wang"
+          },
+          {
+            "authorId": "2423961047",
+            "name": "Erwei Yuan"
+          },
+          {
+            "authorId": "2282591048",
+            "name": "Fan Xiong"
+          },
+          {
+            "authorId": "2441015576",
+            "name": "TianXiao Pan"
+          },
+          {
+            "authorId": "2427179623",
+            "name": "Shulei Guo"
+          },
+          {
+            "authorId": "2441015878",
+            "name": "Huizeng Xia"
+          },
+          {
+            "authorId": "2331153052",
+            "name": "Gaoqiang Feng"
+          },
+          {
+            "authorId": "2283174151",
+            "name": "Hongying Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "86f7a9a958b5a1e2c35a3bcd9cfb0db1ad1b5837",
+        "externalIds": {
+          "DOI": "10.1021/acsami.5c19862",
+          "CorpusId": 284348610,
+          "PubMed": "41468920"
+        },
+        "url": "https://www.semanticscholar.org/paper/86f7a9a958b5a1e2c35a3bcd9cfb0db1ad1b5837",
+        "title": "Ultra-Sensitive, Broad-Range Flexible Piezoresistive Sensor via Synergistic Porous and Step-Like Structures for Human-Computer Interaction.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2025,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-30",
+        "authors": [
+          {
+            "authorId": "2363285027",
+            "name": "Shuang Li"
+          },
+          {
+            "authorId": "2362969829",
+            "name": "Jun Li"
+          },
+          {
+            "authorId": "2347608305",
+            "name": "Bingchao Wu"
+          },
+          {
+            "authorId": "2145128581",
+            "name": "Yun Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7671ac721722ab290495ed805c6ee25ed8bd4eae",
+        "externalIds": {
+          "PubMedCentral": "12816610",
+          "DOI": "10.1038/s41467-025-67413-0",
+          "CorpusId": 283769700,
+          "PubMed": "41387461"
+        },
+        "url": "https://www.semanticscholar.org/paper/7671ac721722ab290495ed805c6ee25ed8bd4eae",
+        "title": "Wireless battery-free ultrathin lithium-niobate resonator as wearable and implantable electronics for continuous monitoring of mechanical vital signs",
+        "venue": "Nature Communications",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "https://www.nature.com/articles/s41467-025-67413-0_reference.pdf",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-12",
+        "authors": [
+          {
+            "authorId": "2274500114",
+            "name": "Lianjie Zhou"
+          },
+          {
+            "authorId": "2325691410",
+            "name": "Pengchuan Liu"
+          },
+          {
+            "authorId": "2315628464",
+            "name": "Junhan Liu"
+          },
+          {
+            "authorId": "2322360887",
+            "name": "Wenlou Yuan"
+          },
+          {
+            "authorId": "2274584348",
+            "name": "Zhongyuan Wu"
+          },
+          {
+            "authorId": "2398085988",
+            "name": "Dian Xu"
+          },
+          {
+            "authorId": "2322094339",
+            "name": "Bofan Hu"
+          },
+          {
+            "authorId": "2325241983",
+            "name": "Yuting Shao"
+          },
+          {
+            "authorId": "2213607919",
+            "name": "Yifei Lu"
+          },
+          {
+            "authorId": "2204160064",
+            "name": "Ningge Huang"
+          },
+          {
+            "authorId": "2324058558",
+            "name": "Jiahao Li"
+          },
+          {
+            "authorId": "2332528753",
+            "name": "Zhongzheng Li"
+          },
+          {
+            "authorId": "2362415932",
+            "name": "Fuying Liang"
+          },
+          {
+            "authorId": "2332526840",
+            "name": "Xiaojun Wu"
+          },
+          {
+            "authorId": "2321879767",
+            "name": "Lichao Ma"
+          },
+          {
+            "authorId": "2257343238",
+            "name": "Ming Wang"
+          },
+          {
+            "authorId": "2261853002",
+            "name": "Zengfeng Di"
+          },
+          {
+            "authorId": "2263748841",
+            "name": "Rui Li"
+          },
+          {
+            "authorId": "2324881842",
+            "name": "Yanlong Bi"
+          },
+          {
+            "authorId": "2143944009",
+            "name": "Fan Xu"
+          },
+          {
+            "authorId": "2274596293",
+            "name": "Yongfeng Mei"
+          },
+          {
+            "authorId": "2291393118",
+            "name": "Enming Song"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "701e242f6cb6027fb94f3f411bda37f9f497380a",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.5c04791",
+          "CorpusId": 283772997,
+          "PubMed": "41384719"
+        },
+        "url": "https://www.semanticscholar.org/paper/701e242f6cb6027fb94f3f411bda37f9f497380a",
+        "title": "Flexible Piezoresistive Sensors Based on PPy Particles Encapsulating Natural Flat Silkworm Cocoons.",
+        "venue": "Langmuir",
+        "year": 2025,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-12",
+        "authors": [
+          {
+            "authorId": "2312860936",
+            "name": "Shengnan Wang"
+          },
+          {
+            "authorId": "2362640425",
+            "name": "Yujia Wang"
+          },
+          {
+            "authorId": "2398306304",
+            "name": "Yanling Yang"
+          },
+          {
+            "authorId": "2377255027",
+            "name": "Jielong Luo"
+          },
+          {
+            "authorId": "2307828386",
+            "name": "Shuangyun Li"
+          },
+          {
+            "authorId": "2312414665",
+            "name": "Jiaqi Liu"
+          },
+          {
+            "authorId": "2267013160",
+            "name": "Yan Ma"
+          },
+          {
+            "authorId": "2204959982",
+            "name": "Shu Wang"
+          },
+          {
+            "authorId": "2312676242",
+            "name": "Zhi Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "05e23b54c9b92ac90e5dd13cf2a43abe46e44e92",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.5c03297",
+          "CorpusId": 283249792,
+          "PubMed": "41284818"
+        },
+        "url": "https://www.semanticscholar.org/paper/05e23b54c9b92ac90e5dd13cf2a43abe46e44e92",
+        "title": "Strain-Insensitive Iontronic Tactile Sensor with Rigid-Soft Hybrid Architecture for Cardiovascular Assessment.",
+        "venue": "ACS Sensors",
+        "year": 2025,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-11-24",
+        "authors": [
+          {
+            "authorId": "2108751890",
+            "name": "Weiyan Li"
+          },
+          {
+            "authorId": "2298218509",
+            "name": "Yiyun Fan"
+          },
+          {
+            "authorId": "2384160940",
+            "name": "Cuiyu Liu"
+          },
+          {
+            "authorId": "2290710740",
+            "name": "Huijun Kong"
+          },
+          {
+            "authorId": "2152970959",
+            "name": "Meixi Liu"
+          },
+          {
+            "authorId": "2162784004",
+            "name": "Shengjie Liu"
+          },
+          {
+            "authorId": "2278194918",
+            "name": "Xiangqing Li"
+          },
+          {
+            "authorId": "2161748171",
+            "name": "Li Niu"
+          },
+          {
+            "authorId": "2349068489",
+            "name": "Zhongqian Song"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0cab19e285723ef90628b6a78c84b9585925b1ff",
+        "externalIds": {
+          "DOI": "10.1021/acsami.5c13759",
+          "CorpusId": 283107144,
+          "PubMed": "41260199"
+        },
+        "url": "https://www.semanticscholar.org/paper/0cab19e285723ef90628b6a78c84b9585925b1ff",
+        "title": "Skin-Inspired Piezoresistive Sensor Based on Hierarchical Structures and Lignocellulosic Bioplastic Electrodes with Ultrahigh Sensitivity.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-11-19",
+        "authors": [
+          {
+            "authorId": "2269085542",
+            "name": "Wei Chen"
+          },
+          {
+            "authorId": "2269085862",
+            "name": "Jing Ma"
+          },
+          {
+            "authorId": "2237260551",
+            "name": "Bin Li"
+          },
+          {
+            "authorId": "2156144073",
+            "name": "Lianxiang Feng"
+          },
+          {
+            "authorId": "2239057928",
+            "name": "Xingxiang Ji"
+          },
+          {
+            "authorId": "1410135505",
+            "name": "Nan Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7647ade05a15241cba13bfbb5db97722f877e627",
+        "externalIds": {
+          "DOI": "10.1109/JSEN.2025.3618897",
+          "CorpusId": 282114648
+        },
+        "url": "https://www.semanticscholar.org/paper/7647ade05a15241cba13bfbb5db97722f877e627",
+        "title": "Recent Advances of Flexible Pressure Sensors: A Review",
+        "venue": "IEEE Sensors Journal",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-11-15",
+        "authors": [
+          {
+            "authorId": "2326692592",
+            "name": "Yumeng Zheng"
+          },
+          {
+            "authorId": "2355276048",
+            "name": "Yang Xiao"
+          },
+          {
+            "authorId": "2222771563",
+            "name": "Hongyu Zhou"
+          },
+          {
+            "authorId": "2304223469",
+            "name": "Hengchang Nong"
+          },
+          {
+            "authorId": "2305503488",
+            "name": "Chao Zhang"
+          },
+          {
+            "authorId": "2313182556",
+            "name": "Xinyu Yang"
+          },
+          {
+            "authorId": "2355078417",
+            "name": "Jinlong Lu"
+          },
+          {
+            "authorId": "2354887276",
+            "name": "Jie Li"
+          },
+          {
+            "authorId": "2355394746",
+            "name": "QingQuan Liang"
+          },
+          {
+            "authorId": "2370181749",
+            "name": "Ruiyun Tang"
+          },
+          {
+            "authorId": "2343100156",
+            "name": "Xin Chen"
+          },
+          {
+            "authorId": "2391945374",
+            "name": "Li Tao"
+          },
+          {
+            "authorId": "2287818546",
+            "name": "Yang Yu"
+          },
+          {
+            "authorId": "2144391898",
+            "name": "Zhenrong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6e034df5bfda5495a844011127a4f9598cc3cead",
+        "externalIds": {
+          "DOI": "10.1002/admt.202501463",
+          "CorpusId": 282630245
+        },
+        "url": "https://www.semanticscholar.org/paper/6e034df5bfda5495a844011127a4f9598cc3cead",
+        "title": "A High‐Linearity Flexible Pressure Sensor for Pulse Physiological Signal Monitoring Enabled by Machine Learning",
+        "venue": "Advanced Materials & Technologies",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-10-30",
+        "authors": [
+          {
+            "authorId": "2312359775",
+            "name": "Yihui Lan"
+          },
+          {
+            "authorId": "2248727327",
+            "name": "Guirong Wu"
+          },
+          {
+            "authorId": "2280478992",
+            "name": "Haiyan Zhang"
+          },
+          {
+            "authorId": "2379174807",
+            "name": "Mengju Zhu"
+          },
+          {
+            "authorId": "2220503513",
+            "name": "Yunlong Zhao"
+          },
+          {
+            "authorId": "2303065073",
+            "name": "Zekai Huang"
+          },
+          {
+            "authorId": "2389518264",
+            "name": "Ruocheng Qi"
+          },
+          {
+            "authorId": "2390163075",
+            "name": "Jin Tang"
+          },
+          {
+            "authorId": "2280403420",
+            "name": "Chenyang Xue"
+          },
+          {
+            "authorId": "2362146043",
+            "name": "Yongjun Wang"
+          },
+          {
+            "authorId": "2389608197",
+            "name": "Zhendong Zhao"
+          },
+          {
+            "authorId": "2378879473",
+            "name": "Xiang Guo"
+          },
+          {
+            "authorId": "2303456323",
+            "name": "Libo Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3f562a2024b7838153049007b0914aade2749f4a",
+        "externalIds": {
+          "DOI": "10.1002/aidi.202500112",
+          "CorpusId": 282285486
+        },
+        "url": "https://www.semanticscholar.org/paper/3f562a2024b7838153049007b0914aade2749f4a",
+        "title": "Smart Flexible Tactile Sensors: Recent Progress in Device Designs, Intelligent Algorithms, and Multidisciplinary Applications",
+        "venue": "Advanced Intelligent Discovery",
+        "year": 2025,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/aidi.202500112",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-10-20",
+        "authors": [
+          {
+            "authorId": "2333082045",
+            "name": "Siyuan Wang"
+          },
+          {
+            "authorId": "2356002993",
+            "name": "Ming Dong"
+          },
+          {
+            "authorId": "6336286",
+            "name": "Rongrong Bao"
+          },
+          {
+            "authorId": "2237764157",
+            "name": "Caofeng Pan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0c1cb58b6b6908fda5a024d8fd58e82ae185e718",
+        "externalIds": {
+          "DOI": "10.1360/csb-2025-5240",
+          "CorpusId": 283628963
+        },
+        "url": "https://www.semanticscholar.org/paper/0c1cb58b6b6908fda5a024d8fd58e82ae185e718",
+        "title": "Research progress in materials, structures, and multimodal sensing applications of flexible electronic skins",
+        "venue": "Chinese Science Bulletin",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-10-01",
+        "authors": [
+          {
+            "authorId": "2333764029",
+            "name": "Pan Li"
+          },
+          {
+            "authorId": "2268382543",
+            "name": "Zhipeng Gao"
+          },
+          {
+            "authorId": "2283514973",
+            "name": "Cunman Liang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b809bb25aa94567922d17abba5a32137185261d2",
+        "externalIds": {
+          "DOI": "10.1038/s41528-025-00469-6",
+          "CorpusId": 281640722
+        },
+        "url": "https://www.semanticscholar.org/paper/b809bb25aa94567922d17abba5a32137185261d2",
+        "title": "Flexible and sensitive pressure sensor with enhanced breathability for advanced wearable health monitoring",
+        "venue": "npj Flexible Electronics",
+        "year": 2025,
+        "citationCount": 35,
+        "openAccessPdf": {
+          "url": "https://www.nature.com/articles/s41528-025-00469-6.pdf",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-09-26",
+        "authors": [
+          {
+            "authorId": "2382816805",
+            "name": "Xingguang Chen"
+          },
+          {
+            "authorId": "2298574311",
+            "name": "Chenhao Wang"
+          },
+          {
+            "authorId": "2298827112",
+            "name": "Wei Wei"
+          },
+          {
+            "authorId": "2360587765",
+            "name": "Yinhua Liu"
+          },
+          {
+            "authorId": "2313838969",
+            "name": "Shuzhi Sam Ge"
+          },
+          {
+            "authorId": "2298574809",
+            "name": "Lianqun Zhou"
+          },
+          {
+            "authorId": "2298587224",
+            "name": "Hui Kong"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f0fb2d0aa19a3ef83b5ef043dcca0b1ec45f6749",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.5c01945",
+          "CorpusId": 281084157,
+          "PubMed": "40897469"
+        },
+        "url": "https://www.semanticscholar.org/paper/f0fb2d0aa19a3ef83b5ef043dcca0b1ec45f6749",
+        "title": "Based on In Situ Electrode Corespun Yarn Ion Sensor and Its Arrayed Fabric for Electrical Impedance Tomography.",
+        "venue": "ACS Sensors",
+        "year": 2025,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-09-02",
+        "authors": [
+          {
+            "authorId": "2237483922",
+            "name": "Yin He"
+          },
+          {
+            "authorId": "2379552854",
+            "name": "Jianjun Su"
+          },
+          {
+            "authorId": "2075393408",
+            "name": "Xin Niu"
+          },
+          {
+            "authorId": "2378764661",
+            "name": "Tianheng Jia"
+          },
+          {
+            "authorId": "2298331029",
+            "name": "Xiaoxuan Xu"
+          },
+          {
+            "authorId": "2265618454",
+            "name": "Wenjin Liang"
+          },
+          {
+            "authorId": "2303645260",
+            "name": "Qi Wang"
+          },
+          {
+            "authorId": "2237083497",
+            "name": "Hao Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b78c4170c1c5d7c8304d1776888601f2ea6ffad7",
+        "externalIds": {
+          "DOI": "10.1016/j.mtphys.2025.101793",
+          "CorpusId": 280266533
+        },
+        "url": "https://www.semanticscholar.org/paper/b78c4170c1c5d7c8304d1776888601f2ea6ffad7",
+        "title": "Recent progress on flexible tactile sensors: From microstructural design to intelligent sensing applications",
+        "venue": "Materials today physics",
+        "year": 2025,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-09-01",
+        "authors": [
+          {
+            "authorId": "2302817269",
+            "name": "Tong Li"
+          },
+          {
+            "authorId": "2302994595",
+            "name": "Ling-Feng Liu"
+          },
+          {
+            "authorId": "2255878674",
+            "name": "Dan Zhang"
+          },
+          {
+            "authorId": "2278871937",
+            "name": "Xin-Gui Tang"
+          },
+          {
+            "authorId": "2374019057",
+            "name": "Qi‐Jun Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b78c4438e0fe00fd2a36ca26892a500de6c05152",
+        "externalIds": {
+          "DOI": "10.1021/acsaelm.5c01173",
+          "CorpusId": 280531497
+        },
+        "url": "https://www.semanticscholar.org/paper/b78c4438e0fe00fd2a36ca26892a500de6c05152",
+        "title": "Fabrication of rGO/PDMS Flexible Piezoresistive Sensors and Their Application in Oral Occlusal Force Detection",
+        "venue": "ACS Applied Electronic Materials",
+        "year": 2025,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-08-03",
+        "authors": [
+          {
+            "authorId": "2375236345",
+            "name": "Shengxi Liu"
+          },
+          {
+            "authorId": "2251954121",
+            "name": "Lei Gao"
+          },
+          {
+            "authorId": "2314014634",
+            "name": "Bin Liu"
+          },
+          {
+            "authorId": "2326556659",
+            "name": "Yiyun Li"
+          },
+          {
+            "authorId": "92425485",
+            "name": "Gaochuang Yang"
+          },
+          {
+            "authorId": "2262202735",
+            "name": "Jinqing Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f41f225000dff2bbc995b459d7b072543a8d63b5",
+        "externalIds": {
+          "DOI": "10.1002/adhm.202502901",
+          "CorpusId": 279966852,
+          "PubMed": "40619754"
+        },
+        "url": "https://www.semanticscholar.org/paper/f41f225000dff2bbc995b459d7b072543a8d63b5",
+        "title": "Multi‐Receptor Skin with Highly Sensitive Tele‐Perception Somatosensory Flexible Electronics in Healthcare: Multimodal Sensing and AI‐Powered Diagnostics",
+        "venue": "Advanced Healthcare Materials",
+        "year": 2025,
+        "citationCount": 15,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-07-06",
+        "authors": [
+          {
+            "authorId": "2336539313",
+            "name": "Yusen Guo"
+          },
+          {
+            "authorId": "2345016981",
+            "name": "Pengyu Huo"
+          },
+          {
+            "authorId": "2336533068",
+            "name": "SI Huang"
+          },
+          {
+            "authorId": "7401577",
+            "name": "Guangyang Gou"
+          },
+          {
+            "authorId": "2345127983",
+            "name": "Qiliang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e787626b93ede4f7e358d6978a37c43c780576c0",
+        "externalIds": {
+          "PubMedCentral": "12278252",
+          "DOI": "10.1021/acsami.5c10061",
+          "CorpusId": 279966250,
+          "PubMed": "40619670"
+        },
+        "url": "https://www.semanticscholar.org/paper/e787626b93ede4f7e358d6978a37c43c780576c0",
+        "title": "Piezo-ionic Materials and Structures for Complex Shear Field Monitoring",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-07-06",
+        "authors": [
+          {
+            "authorId": "2370758138",
+            "name": "Dong-hee Kang"
+          },
+          {
+            "authorId": "2284403095",
+            "name": "Jinyoung Kim"
+          },
+          {
+            "authorId": "2370583869",
+            "name": "S. Gonzalez Munoz"
+          },
+          {
+            "authorId": "2284347729",
+            "name": "Jisoo Jeon"
+          },
+          {
+            "authorId": "2319167421",
+            "name": "Sehyun Park"
+          },
+          {
+            "authorId": "4032245",
+            "name": "V. Tsukruk"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7caaea4236cd18bd81734850959191ea6dd77ca0",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2025.166454",
+          "CorpusId": 280372836
+        },
+        "url": "https://www.semanticscholar.org/paper/7caaea4236cd18bd81734850959191ea6dd77ca0",
+        "title": "Single channel tactile sensor array for detection of pressure and position with two electrodes",
+        "venue": "Chemical Engineering Journal",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-07-01",
+        "authors": [
+          {
+            "authorId": "2350547548",
+            "name": "Jingwen Xing"
+          },
+          {
+            "authorId": "2269030870",
+            "name": "Tingkang Yuan"
+          },
+          {
+            "authorId": "2330178053",
+            "name": "Shenqi Yang"
+          },
+          {
+            "authorId": "2393669725",
+            "name": "Chengwei Li"
+          },
+          {
+            "authorId": "2238902979",
+            "name": "Zeng Fan"
+          },
+          {
+            "authorId": "2347572712",
+            "name": "Lujun Pan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e8812e75361e8ea956ab001f42f98368fdffaa15",
+        "externalIds": {
+          "PubMedCentral": "12208289",
+          "DOI": "10.1039/d5ra02594j",
+          "CorpusId": 279717270,
+          "PubMed": "40599562"
+        },
+        "url": "https://www.semanticscholar.org/paper/e8812e75361e8ea956ab001f42f98368fdffaa15",
+        "title": "Applications of flexible materials in health management assisted by machine learning",
+        "venue": "RSC Advances",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": "CCBYNC"
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-06-30",
+        "authors": [
+          {
+            "authorId": "2301107762",
+            "name": "Song Zhou"
+          },
+          {
+            "authorId": "2305043260",
+            "name": "Jiayu Li"
+          },
+          {
+            "authorId": "2305028155",
+            "name": "Fanlun Meng"
+          },
+          {
+            "authorId": "2349089775",
+            "name": "Mengqin Chen"
+          },
+          {
+            "authorId": "2305447053",
+            "name": "Jing Cao"
+          },
+          {
+            "authorId": "2292639348",
+            "name": "Xusheng Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8fe25b423ad87f76fbacbc3196397e7a3f2370d3",
+        "externalIds": {
+          "DOI": "10.20517/ss.2025.11",
+          "CorpusId": 279705088
+        },
+        "url": "https://www.semanticscholar.org/paper/8fe25b423ad87f76fbacbc3196397e7a3f2370d3",
+        "title": "Advances in micro/nano-engineered flexible sensor arrays for intelligent human-machine interaction",
+        "venue": "Soft Science",
+        "year": 2025,
+        "citationCount": 15,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.20517/ss.2025.11",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-06-26",
+        "authors": [
+          {
+            "authorId": "2245148945",
+            "name": "Shiyi Wang"
+          },
+          {
+            "authorId": "2260596972",
+            "name": "Xiaoliang Chen"
+          },
+          {
+            "authorId": "2153699736",
+            "name": "Sheng Li"
+          },
+          {
+            "authorId": "2169882445",
+            "name": "Bai Sun"
+          },
+          {
+            "authorId": "2144209438",
+            "name": "Xiaoming Chen"
+          },
+          {
+            "authorId": "8665210",
+            "name": "Hongmiao Tian"
+          },
+          {
+            "authorId": "121900647",
+            "name": "Chunhui Wang"
+          },
+          {
+            "authorId": "2210835723",
+            "name": "Xiangming Li"
+          },
+          {
+            "authorId": "2324774024",
+            "name": "Jinyou Shao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "ecdf02c5416f268cbfa38fa0ba47621ec63c60e9",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202505543",
+          "CorpusId": 279851628
+        },
+        "url": "https://www.semanticscholar.org/paper/ecdf02c5416f268cbfa38fa0ba47621ec63c60e9",
+        "title": "Self‐Powered Multi‐Functional Sensor System Based on Pomegranate‐Inspired Composites for Advanced Cardiovascular Disease Prediction and Diagnosis Within an Integrated Traditional Chinese and Western Medicine Framework",
+        "venue": "Advanced Functional Materials",
+        "year": 2025,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-06-23",
+        "authors": [
+          {
+            "authorId": "7637857",
+            "name": "Youwei Zhao"
+          },
+          {
+            "authorId": "2206517310",
+            "name": "Qingzheng Jia"
+          },
+          {
+            "authorId": "2303233171",
+            "name": "Yuxuan Zhang"
+          },
+          {
+            "authorId": "2108263368",
+            "name": "Xinyuan Zhang"
+          },
+          {
+            "authorId": "2303253188",
+            "name": "Ling Li"
+          },
+          {
+            "authorId": "2342632232",
+            "name": "Yucang Zhang"
+          },
+          {
+            "authorId": "2300248916",
+            "name": "Wenming Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "cc8da82a8e35b11f4ce00ab4a2ee3bea31fd5974",
+        "externalIds": {
+          "DOI": "10.1109/TED.2025.3558495",
+          "CorpusId": 277902560
+        },
+        "url": "https://www.semanticscholar.org/paper/cc8da82a8e35b11f4ce00ab4a2ee3bea31fd5974",
+        "title": "High-Density Sensor Array Based on a-IGZO TFT for Pressure and Light Response",
+        "venue": "IEEE Transactions on Electron Devices",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-06-01",
+        "authors": [
+          {
+            "authorId": "2265116079",
+            "name": "Jianhua Zhang"
+          },
+          {
+            "authorId": "2277994890",
+            "name": "Jixing Zhou"
+          },
+          {
+            "authorId": "2277893349",
+            "name": "Longwei Xue"
+          },
+          {
+            "authorId": "2265123372",
+            "name": "Junshuai Dai"
+          },
+          {
+            "authorId": "2340164255",
+            "name": "Xudong Zhang"
+          },
+          {
+            "authorId": "2155522900",
+            "name": "Hai Liu"
+          },
+          {
+            "authorId": "2345673932",
+            "name": "Longlong Chen"
+          },
+          {
+            "authorId": "2114773839",
+            "name": "T. Zhao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "743cc8b091f4ec34859355f19725599bba6d3e21",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.5c01404",
+          "CorpusId": 278662843,
+          "PubMed": "40375571"
+        },
+        "url": "https://www.semanticscholar.org/paper/743cc8b091f4ec34859355f19725599bba6d3e21",
+        "title": "ZnO Nanostructure-Based Flexible Pressure Sensors Deposited on Filter Paper for Wearable Application.",
+        "venue": "Langmuir",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-15",
+        "authors": [
+          {
+            "authorId": "13158406",
+            "name": "Jijun Ding"
+          },
+          {
+            "authorId": "2300249175",
+            "name": "Pengfei Zhao"
+          },
+          {
+            "authorId": "2118439914",
+            "name": "Haixia Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0279818aae3c42a3b9008a2af373af97990cf4c1",
+        "externalIds": {
+          "DOI": "10.1016/j.sna.2025.116736",
+          "CorpusId": 278954771
+        },
+        "url": "https://www.semanticscholar.org/paper/0279818aae3c42a3b9008a2af373af97990cf4c1",
+        "title": "Multi-performance co-optimization of flexible piezoresistive sensors based on bionic strategies",
+        "venue": "Sensors and Actuators A-Physical",
+        "year": 2025,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-01",
+        "authors": [
+          {
+            "authorId": "2237737694",
+            "name": "Jianhua Fan"
+          },
+          {
+            "authorId": "2314811768",
+            "name": "Jiaze Ding"
+          },
+          {
+            "authorId": "2266177043",
+            "name": "Cheng Ma"
+          },
+          {
+            "authorId": "2237433295",
+            "name": "Lu Wang"
+          },
+          {
+            "authorId": "2237411042",
+            "name": "Zhiwu Han"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e4af3103ecb07b439a5393c249e704cd44a2c8d0",
+        "externalIds": {
+          "PubMedCentral": "11991214",
+          "DOI": "10.3390/s25072280",
+          "CorpusId": 277588483,
+          "PubMed": "40218790"
+        },
+        "url": "https://www.semanticscholar.org/paper/e4af3103ecb07b439a5393c249e704cd44a2c8d0",
+        "title": "Nonlinear Decoupling Study of Six-Axis Acceleration Sensor Based on Improved BP Neural Network",
+        "venue": "Italian National Conference on Sensors",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/1424-8220/25/7/2280/pdf?version=1743689292",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-04-01",
+        "authors": [
+          {
+            "authorId": "2144163535",
+            "name": "Jialin Zhang"
+          },
+          {
+            "authorId": "8632879",
+            "name": "Chunzhan Yu"
+          },
+          {
+            "authorId": "2378109264",
+            "name": "Chengxin Du"
+          },
+          {
+            "authorId": "2220782025",
+            "name": "Zheyi Hao"
+          },
+          {
+            "authorId": "2118866109",
+            "name": "Zhibo Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e4b3ae992fe86e0ef2a7e425367f75f440ad725b",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2025.111035",
+          "CorpusId": 278096861
+        },
+        "url": "https://www.semanticscholar.org/paper/e4b3ae992fe86e0ef2a7e425367f75f440ad725b",
+        "title": "Deep Learning-Assisted Piezoresistive Pressure Sensors with Broad-Range Ultrasensitivity for Wearable Motion Monitoring",
+        "venue": "Nano Energy",
+        "year": 2025,
+        "citationCount": 24,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-04-01",
+        "authors": [
+          {
+            "authorId": "2269515045",
+            "name": "Chao Zhang"
+          },
+          {
+            "authorId": "2343878225",
+            "name": "Shipan Lang"
+          },
+          {
+            "authorId": "2308598730",
+            "name": "Meng Tao"
+          },
+          {
+            "authorId": "2307765852",
+            "name": "Pei Li"
+          },
+          {
+            "authorId": "2357527046",
+            "name": "Taotao Liang"
+          },
+          {
+            "authorId": "2120793742",
+            "name": "Xiaodong Zhao"
+          },
+          {
+            "authorId": "2269537254",
+            "name": "Xin Gou"
+          },
+          {
+            "authorId": "2308668401",
+            "name": "Xinyuan Zhao"
+          },
+          {
+            "authorId": "2357530666",
+            "name": "Shouze Xiong"
+          },
+          {
+            "authorId": "2368716585",
+            "name": "Liqi Zheng"
+          },
+          {
+            "authorId": "2267376185",
+            "name": "Hanshen Xin"
+          },
+          {
+            "authorId": "2340093267",
+            "name": "Hong Hu"
+          },
+          {
+            "authorId": "2357523223",
+            "name": "Lin Guo"
+          },
+          {
+            "authorId": "2269686470",
+            "name": "Jun Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "af9102fcf8680dca7c14e93c9154df4645dd3332",
+        "externalIds": {
+          "DOI": "10.1021/acsaelm.5c00067",
+          "CorpusId": 277376112
+        },
+        "url": "https://www.semanticscholar.org/paper/af9102fcf8680dca7c14e93c9154df4645dd3332",
+        "title": "Facile Strategy for Preparing Crosstalk-Free and Stabilized Flexible Pressure Sensing Array with Inverted Micropyramids on a Substrate",
+        "venue": "ACS Applied Electronic Materials",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-26",
+        "authors": [
+          {
+            "authorId": "2267705624",
+            "name": "Feng-Chun Su"
+          },
+          {
+            "authorId": "2267878118",
+            "name": "Han-Xiong Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "ac66b2a59948aee16631d2f8d2a9b4a8ac77e090",
+        "externalIds": {
+          "DOI": "10.1021/acsaelm.5c00221",
+          "CorpusId": 277329820
+        },
+        "url": "https://www.semanticscholar.org/paper/ac66b2a59948aee16631d2f8d2a9b4a8ac77e090",
+        "title": "High-Performance Flexible Piezoresistive Sensor with Egg-Carton-Like Surface Microstructure for Health Monitoring",
+        "venue": "ACS Applied Electronic Materials",
+        "year": 2025,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-24",
+        "authors": [
+          {
+            "authorId": "2353311838",
+            "name": "Chenghang Yu"
+          },
+          {
+            "authorId": "2128382793",
+            "name": "Fu Lv"
+          },
+          {
+            "authorId": "2294747242",
+            "name": "Bing Liu"
+          },
+          {
+            "authorId": "2274509949",
+            "name": "Zijian Hong"
+          },
+          {
+            "authorId": "2244461720",
+            "name": "Yongjun Wu"
+          },
+          {
+            "authorId": "2339427782",
+            "name": "Juan Li"
+          },
+          {
+            "authorId": "2335803400",
+            "name": "Yuhui Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "cd9b25180feba3e86b580d02ec745f1f443d2797",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2025.110678",
+          "CorpusId": 275648169
+        },
+        "url": "https://www.semanticscholar.org/paper/cd9b25180feba3e86b580d02ec745f1f443d2797",
+        "title": "Differential-deformation structured pressure sensor for stable measurement of superficial temporal artery pulse",
+        "venue": "Nano Energy",
+        "year": 2025,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-01",
+        "authors": [
+          {
+            "authorId": "2144705654",
+            "name": "Xue Wang"
+          },
+          {
+            "authorId": "2229257095",
+            "name": "Jingjing Li"
+          },
+          {
+            "authorId": "22663592",
+            "name": "Keyu Meng"
+          },
+          {
+            "authorId": "2336741161",
+            "name": "Haijun Luo"
+          },
+          {
+            "authorId": "2340835645",
+            "name": "Feihong Ran"
+          },
+          {
+            "authorId": "12116782",
+            "name": "Yufen Wu"
+          },
+          {
+            "authorId": "2340852323",
+            "name": "Ke Wei"
+          },
+          {
+            "authorId": "2335428630",
+            "name": "Jin Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "64555a3e1a7ffffbafee1c2ad455f34a2373dbd7",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2025.161618",
+          "CorpusId": 277046608
+        },
+        "url": "https://www.semanticscholar.org/paper/64555a3e1a7ffffbafee1c2ad455f34a2373dbd7",
+        "title": "A Dual-Mode Transparent Flexible Pressure Sensor Array for Tactile Sensing Visualization",
+        "venue": "Chemical Engineering Journal",
+        "year": 2025,
+        "citationCount": 34,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-01",
+        "authors": [
+          {
+            "authorId": "2272563039",
+            "name": "Chenyu Fang"
+          },
+          {
+            "authorId": "2221741188",
+            "name": "Leilei Zhao"
+          },
+          {
+            "authorId": "2293314727",
+            "name": "Wenwen Su"
+          },
+          {
+            "authorId": "2221594018",
+            "name": "Binyu Qin"
+          },
+          {
+            "authorId": "2273238861",
+            "name": "Peter Poechmueller"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6cb16f524371a568653d81e2936c07387ae6b2fa",
+        "externalIds": {
+          "PubMedCentral": "12005763",
+          "DOI": "10.1002/advs.202414425",
+          "CorpusId": 276557187,
+          "PubMed": "39985252"
+        },
+        "url": "https://www.semanticscholar.org/paper/6cb16f524371a568653d81e2936c07387ae6b2fa",
+        "title": "Anti‐Motion Artifacts Iontronic Sensor for Long‐Term Accurate Fingertip Pulse Monitoring",
+        "venue": "Advancement of science",
+        "year": 2025,
+        "citationCount": 33,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/advs.202414425",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-22",
+        "authors": [
+          {
+            "authorId": "2302290225",
+            "name": "Jia You"
+          },
+          {
+            "authorId": "2327724789",
+            "name": "Mingyang Lu"
+          },
+          {
+            "authorId": "2346821940",
+            "name": "Lamu Dazhen"
+          },
+          {
+            "authorId": "2327870667",
+            "name": "Mengjie Gao"
+          },
+          {
+            "authorId": "2328020204",
+            "name": "Ruiyan Zhang"
+          },
+          {
+            "authorId": "2302088167",
+            "name": "Wendong Li"
+          },
+          {
+            "authorId": "2311775584",
+            "name": "Fan Lei"
+          },
+          {
+            "authorId": "2327599301",
+            "name": "Wei Ren"
+          },
+          {
+            "authorId": "2327923100",
+            "name": "Guangxian Li"
+          },
+          {
+            "authorId": "2109779014",
+            "name": "Junlong Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "ab955c91e525417d88a253c0a0aaf7e6d9cfddac",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.4c03495",
+          "CorpusId": 276342767,
+          "PubMed": "39946650"
+        },
+        "url": "https://www.semanticscholar.org/paper/ab955c91e525417d88a253c0a0aaf7e6d9cfddac",
+        "title": "High-Performance Flexible Capacitive Pressure Sensor Based on a Spiked Nickel/Polyimide Composite Nanofiber Membrane.",
+        "venue": "ACS Sensors",
+        "year": 2025,
+        "citationCount": 32,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-13",
+        "authors": [
+          {
+            "authorId": "2348340299",
+            "name": "Luntao Xia"
+          },
+          {
+            "authorId": "2337790792",
+            "name": "Wei Xiao"
+          },
+          {
+            "authorId": "2345443476",
+            "name": "Luoxin Li"
+          },
+          {
+            "authorId": "2224080255",
+            "name": "Xin Liu"
+          },
+          {
+            "authorId": "2258329506",
+            "name": "Qibin Zhuang"
+          },
+          {
+            "authorId": "2266716274",
+            "name": "Yong Huang"
+          },
+          {
+            "authorId": "2266525358",
+            "name": "Tianhao Lan"
+          },
+          {
+            "authorId": "2320818777",
+            "name": "Xiaohui Du"
+          },
+          {
+            "authorId": "2345443741",
+            "name": "Yang Zhao"
+          },
+          {
+            "authorId": "2161857477",
+            "name": "Dezhi Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "354f603762b023133ab325a831efdb68c3689ec4",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2025.110747",
+          "CorpusId": 276143980
+        },
+        "url": "https://www.semanticscholar.org/paper/354f603762b023133ab325a831efdb68c3689ec4",
+        "title": "Constructing a high-power self-powered electrochemical pressure sensor for multimode pressure detections",
+        "venue": "Nano Energy",
+        "year": 2025,
+        "citationCount": 61,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-01",
+        "authors": [
+          {
+            "authorId": "2260597396",
+            "name": "Mingxiang Zhang"
+          },
+          {
+            "authorId": "95712952",
+            "name": "Zaihua Duan"
+          },
+          {
+            "authorId": "2325562307",
+            "name": "Zekai Huang"
+          },
+          {
+            "authorId": "2344243148",
+            "name": "Haichao Yu"
+          },
+          {
+            "authorId": "2344075945",
+            "name": "Changhong Wang"
+          },
+          {
+            "authorId": "2287882276",
+            "name": "Hangxi Zhang"
+          },
+          {
+            "authorId": "2308225138",
+            "name": "Teng Li"
+          },
+          {
+            "authorId": "2111041144",
+            "name": "Qi Huang"
+          },
+          {
+            "authorId": "5980111",
+            "name": "Zhentao Yuan"
+          },
+          {
+            "authorId": "2028206360",
+            "name": "Yadong Jiang"
+          },
+          {
+            "authorId": "39861826",
+            "name": "H. Tai"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e09ed5be906b90693f4000c2fac82ae06133f4ca",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.4c02395",
+          "CorpusId": 275352516,
+          "PubMed": "39757849"
+        },
+        "url": "https://www.semanticscholar.org/paper/e09ed5be906b90693f4000c2fac82ae06133f4ca",
+        "title": "Artificial Intelligence-Enabled Novel Atrial Fibrillation Diagnosis System Using 3D Pulse Perception Flexible Pressure Sensor Array.",
+        "venue": "ACS Sensors",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-01-06",
+        "authors": [
+          {
+            "authorId": "2295912756",
+            "name": "Yujie Cao"
+          },
+          {
+            "authorId": "2345871487",
+            "name": "Ping Li"
+          },
+          {
+            "authorId": "2155874329",
+            "name": "Yirun Zhu"
+          },
+          {
+            "authorId": "2349864852",
+            "name": "Zheng Wang"
+          },
+          {
+            "authorId": "11884848",
+            "name": "Nuo Tang"
+          },
+          {
+            "authorId": "2337576861",
+            "name": "Zhibin Li"
+          },
+          {
+            "authorId": "2338947576",
+            "name": "Bin Cheng"
+          },
+          {
+            "authorId": "2112597522",
+            "name": "Feng-xia Wang"
+          },
+          {
+            "authorId": "2339060488",
+            "name": "Tao Chen"
+          },
+          {
+            "authorId": "2275537160",
+            "name": "Lining Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5887adba1a41b2873543521b9dbd3315767a2ba4",
+        "externalIds": {
+          "DOI": "10.1016/j.jallcom.2024.177930",
+          "CorpusId": 274649594
+        },
+        "url": "https://www.semanticscholar.org/paper/5887adba1a41b2873543521b9dbd3315767a2ba4",
+        "title": "Ultra-large springback bending strain and its atomistic mechanism in Ni nanowires",
+        "venue": "Journal of Alloys and Compounds",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-01-01",
+        "authors": [
+          {
+            "authorId": "2252889773",
+            "name": "Yu-Feng Zhao"
+          },
+          {
+            "authorId": "2241685596",
+            "name": "Zhanxin Wang"
+          },
+          {
+            "authorId": "2348119715",
+            "name": "Chengxiong Yang"
+          },
+          {
+            "authorId": "51456460",
+            "name": "Yadi Zhai"
+          },
+          {
+            "authorId": "2398147096",
+            "name": "Shengcheng Mao"
+          },
+          {
+            "authorId": "2262444315",
+            "name": "Yan Ma"
+          },
+          {
+            "authorId": "2334807290",
+            "name": "Haibo Long"
+          },
+          {
+            "authorId": "2307734837",
+            "name": "Ang Li"
+          },
+          {
+            "authorId": "2334842999",
+            "name": "Lihua Wang"
+          },
+          {
+            "authorId": "2335136536",
+            "name": "Xiaodong Han"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "979ccba1c60515a3cffab5b1c83fb8d566258819",
+        "externalIds": {
+          "DOI": "10.1016/j.nantod.2024.102544",
+          "CorpusId": 273928959
+        },
+        "url": "https://www.semanticscholar.org/paper/979ccba1c60515a3cffab5b1c83fb8d566258819",
+        "title": "Emerging intelligent wearable devices for cardiovascular health monitoring",
+        "venue": "Nano Today",
+        "year": 2024,
+        "citationCount": 32,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-12-01",
+        "authors": [
+          {
+            "authorId": "2162460534",
+            "name": "Yiqian Wang"
+          },
+          {
+            "authorId": "2320101761",
+            "name": "Yang Zou"
+          },
+          {
+            "authorId": "2330396128",
+            "name": "Zhou Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e3fdc4786441bd37d3dfa73ce9f940a88ff763fb",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202418706",
+          "CorpusId": 274477621
+        },
+        "url": "https://www.semanticscholar.org/paper/e3fdc4786441bd37d3dfa73ce9f940a88ff763fb",
+        "title": "All‐Carbon Piezoresistive Sensor: Enhanced Sensitivity and Wide Linear Range via Multiscale Design for Wearable Applications",
+        "venue": "Advanced Functional Materials",
+        "year": 2024,
+        "citationCount": 28,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-12-01",
+        "authors": [
+          {
+            "authorId": "94988819",
+            "name": "Qixuan Xiang"
+          },
+          {
+            "authorId": "2333879584",
+            "name": "Guanjie Zhao"
+          },
+          {
+            "authorId": "2153444152",
+            "name": "Tao Tang"
+          },
+          {
+            "authorId": "2275055748",
+            "name": "Hao Zhang"
+          },
+          {
+            "authorId": "2146374900",
+            "name": "Zhiyuan Liu"
+          },
+          {
+            "authorId": "2274991967",
+            "name": "Xianglong Zhang"
+          },
+          {
+            "authorId": "2270690768",
+            "name": "Yaping Zhao"
+          },
+          {
+            "authorId": "25114015",
+            "name": "Huijun Tan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3dcdedd5dd3b9d1e0d3acd713df1074e0753aef3",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2024.158879",
+          "CorpusId": 275010256
+        },
+        "url": "https://www.semanticscholar.org/paper/3dcdedd5dd3b9d1e0d3acd713df1074e0753aef3",
+        "title": "An E-skin for handwriting input at human-machine interface",
+        "venue": "Chemical Engineering Journal",
+        "year": 2024,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-12-01",
+        "authors": [
+          {
+            "authorId": "2014638027",
+            "name": "H. Xiang"
+          },
+          {
+            "authorId": "2262174400",
+            "name": "Zhijian Li"
+          },
+          {
+            "authorId": "2290713602",
+            "name": "Zhou Bai"
+          },
+          {
+            "authorId": "2149165037",
+            "name": "Haiwei Wu"
+          },
+          {
+            "authorId": "2198037665",
+            "name": "Guodong Liu"
+          },
+          {
+            "authorId": "2233749613",
+            "name": "Hongwei Zhou"
+          },
+          {
+            "authorId": "2266144546",
+            "name": "Hanbin Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "87f167325288ba08f1a4afae1a0990b20d74fcfe",
+        "externalIds": {
+          "PubMedCentral": "11744520",
+          "DOI": "10.1002/advs.202408313",
+          "CorpusId": 274230547,
+          "PubMed": "39584792"
+        },
+        "url": "https://www.semanticscholar.org/paper/87f167325288ba08f1a4afae1a0990b20d74fcfe",
+        "title": "Smart Driving Hardware Augmentation by Flexible Piezoresistive Sensor Matrices with Grafted‐on Anticreep Composites",
+        "venue": "Advancement of science",
+        "year": 2024,
+        "citationCount": 19,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/advs.202408313",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-25",
+        "authors": [
+          {
+            "authorId": "2220595498",
+            "name": "Kaifeng Chen"
+          },
+          {
+            "authorId": "2220428643",
+            "name": "Hua Yang"
+          },
+          {
+            "authorId": "2280813582",
+            "name": "Ang Wang"
+          },
+          {
+            "authorId": "2332702082",
+            "name": "Linsen Tang"
+          },
+          {
+            "authorId": "2332050751",
+            "name": "Xin Zha"
+          },
+          {
+            "authorId": "2332050403",
+            "name": "Ndeutala Selma Iita"
+          },
+          {
+            "authorId": "2146243336",
+            "name": "Hong Zhang"
+          },
+          {
+            "authorId": "2310928440",
+            "name": "Zhuoxuan Li"
+          },
+          {
+            "authorId": "2292504911",
+            "name": "Xinyu Wang"
+          },
+          {
+            "authorId": "2292694757",
+            "name": "Wei Yang"
+          },
+          {
+            "authorId": "2292519883",
+            "name": "Shaoxing Qu"
+          },
+          {
+            "authorId": "2220374804",
+            "name": "Zongrong Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "4690a690fa81ea2d9f88a64ff9d9a0c2f8afbd63",
+        "externalIds": {
+          "PubMedCentral": "11570575",
+          "DOI": "10.1007/s40820-024-01571-6",
+          "CorpusId": 274128345,
+          "PubMed": "39551898"
+        },
+        "url": "https://www.semanticscholar.org/paper/4690a690fa81ea2d9f88a64ff9d9a0c2f8afbd63",
+        "title": "Flexible Strain Sensors with Ultra-High Sensitivity and Wide Range Enabled by Crack-Modulated Electrical Pathways",
+        "venue": "Nano-Micro Letters",
+        "year": 2024,
+        "citationCount": 89,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1007/s40820-024-01571-6",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-18",
+        "authors": [
+          {
+            "authorId": "2214207515",
+            "name": "Yunzhao Bai"
+          },
+          {
+            "authorId": "2331366317",
+            "name": "Yunlei Zhou"
+          },
+          {
+            "authorId": "2305156374",
+            "name": "Xuanyu Wu"
+          },
+          {
+            "authorId": "2322706304",
+            "name": "Mengfei Yin"
+          },
+          {
+            "authorId": "2153260748",
+            "name": "Liting Yin"
+          },
+          {
+            "authorId": "2300395350",
+            "name": "Shiyuan Qu"
+          },
+          {
+            "authorId": "2272064729",
+            "name": "Fan Zhang"
+          },
+          {
+            "authorId": "2158260948",
+            "name": "Kan Li"
+          },
+          {
+            "authorId": "2322720458",
+            "name": "YongAn Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f4770e426009f4628fe571d3af7cce4d0a79390e",
+        "externalIds": {
+          "DOI": "10.1021/acsami.4c15137",
+          "CorpusId": 274093092,
+          "PubMed": "39545818"
+        },
+        "url": "https://www.semanticscholar.org/paper/f4770e426009f4628fe571d3af7cce4d0a79390e",
+        "title": "Scale Production of a Stretchable Fiber Triboelectric Nanogenerator in Customizable Textile for Human Motion Recognition.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2024,
+        "citationCount": 17,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-15",
+        "authors": [
+          {
+            "authorId": "2331012674",
+            "name": "Yifan Zu"
+          },
+          {
+            "authorId": "2111046349",
+            "name": "Shuai Xu"
+          },
+          {
+            "authorId": "2307998646",
+            "name": "Pengfei Sun"
+          },
+          {
+            "authorId": "2331020378",
+            "name": "Chenlong Wang"
+          },
+          {
+            "authorId": "94075731",
+            "name": "Qiaole Hu"
+          },
+          {
+            "authorId": "2267052907",
+            "name": "Hao Jia"
+          },
+          {
+            "authorId": "2124891861",
+            "name": "Na Cheng"
+          },
+          {
+            "authorId": "2267009232",
+            "name": "Lianmei Liu"
+          },
+          {
+            "authorId": "2307827840",
+            "name": "Yanyan Sun"
+          },
+          {
+            "authorId": "40835181",
+            "name": "Wenqi Nie"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "58a4b7e9cf6dfc9acadd75663d7e986290fa0b1f",
+        "externalIds": {
+          "DOI": "10.1021/acsnano.4c10117",
+          "CorpusId": 273849234,
+          "PubMed": "39499810"
+        },
+        "url": "https://www.semanticscholar.org/paper/58a4b7e9cf6dfc9acadd75663d7e986290fa0b1f",
+        "title": "A Proprioceptive Janus Fiber with Controllable Multistage Segments for Bionic Soft Robots.",
+        "venue": "ACS Nano",
+        "year": 2024,
+        "citationCount": 13,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-05",
+        "authors": [
+          {
+            "authorId": "2261484634",
+            "name": "Hao Zhu"
+          },
+          {
+            "authorId": "2265951341",
+            "name": "Tie Li"
+          },
+          {
+            "authorId": "2219599789",
+            "name": "Lei Fu"
+          },
+          {
+            "authorId": "2209983862",
+            "name": "Ju Bai"
+          },
+          {
+            "authorId": "2261629771",
+            "name": "Shengzhao Li"
+          },
+          {
+            "authorId": "2115834437",
+            "name": "Yuanyuan Bai"
+          },
+          {
+            "authorId": "2222544759",
+            "name": "Shihao Deng"
+          },
+          {
+            "authorId": "2261456010",
+            "name": "Shen Yuan"
+          },
+          {
+            "authorId": "2303474805",
+            "name": "Qianzuo Liu"
+          },
+          {
+            "authorId": "2329511394",
+            "name": "Yunping Ma"
+          },
+          {
+            "authorId": "2292667097",
+            "name": "Lu Peng"
+          },
+          {
+            "authorId": "2292556518",
+            "name": "Jingyi Xu"
+          },
+          {
+            "authorId": "2261435434",
+            "name": "Nan Ma"
+          },
+          {
+            "authorId": "2244296355",
+            "name": "Guanggui Cheng"
+          },
+          {
+            "authorId": "2267227661",
+            "name": "Jianning Ding"
+          },
+          {
+            "authorId": "2244579291",
+            "name": "Ting Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3a6fc9488a8b240f609daf229062992fa1e55cd9",
+        "externalIds": {
+          "DOI": "10.1021/acsami.4c16505",
+          "CorpusId": 273775980,
+          "PubMed": "39486041"
+        },
+        "url": "https://www.semanticscholar.org/paper/3a6fc9488a8b240f609daf229062992fa1e55cd9",
+        "title": "Leather-Based Shoe Soles for Real-Time Gait Recognition and Automatic Remote Assistance Using Machine Learning.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2024,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-01",
+        "authors": [
+          {
+            "authorId": "2346325835",
+            "name": "Peng Zhang"
+          },
+          {
+            "authorId": "2307186078",
+            "name": "Xiaomeng Zhang"
+          },
+          {
+            "authorId": "2307166793",
+            "name": "Ming Teng"
+          },
+          {
+            "authorId": "2307403763",
+            "name": "Liuying Li"
+          },
+          {
+            "authorId": "2307402695",
+            "name": "Xudan Liu"
+          },
+          {
+            "authorId": "27811486",
+            "name": "Jianyan Feng"
+          },
+          {
+            "authorId": "2317378727",
+            "name": "Wenjing Wang"
+          },
+          {
+            "authorId": "2048449315",
+            "name": "Xuechuan Wang"
+          },
+          {
+            "authorId": "2281275959",
+            "name": "Xiaomin Luo"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "2d2c5198b3833e8d965b3c6d722affa40e821442",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2024.110524",
+          "CorpusId": 274344002
+        },
+        "url": "https://www.semanticscholar.org/paper/2d2c5198b3833e8d965b3c6d722affa40e821442",
+        "title": "Synergistic fusion of mechanotransduction and power supplying functions towards highly compact and fully self-powered smart wearables",
+        "venue": "Nano Energy",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-01",
+        "authors": [
+          {
+            "authorId": "2258411103",
+            "name": "Yangyang Song"
+          },
+          {
+            "authorId": "2309654641",
+            "name": "Yiqun Zhang"
+          },
+          {
+            "authorId": "2267688087",
+            "name": "Sijian Lin"
+          },
+          {
+            "authorId": "2182626597",
+            "name": "Zhiming Long"
+          },
+          {
+            "authorId": "2301351158",
+            "name": "Sitong Chen"
+          },
+          {
+            "authorId": "2341911343",
+            "name": "Haoyu Tan"
+          },
+          {
+            "authorId": "2182662359",
+            "name": "Zhuqing Wang"
+          },
+          {
+            "authorId": "2274547368",
+            "name": "Xiaodong Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "aa6f06db914e7a362c47699b04571aba6555638c",
+        "externalIds": {
+          "PubMedCentral": "11505155",
+          "DOI": "10.3390/biomedicines12102307",
+          "CorpusId": 273300956,
+          "PubMed": "39457619"
+        },
+        "url": "https://www.semanticscholar.org/paper/aa6f06db914e7a362c47699b04571aba6555638c",
+        "title": "E-Skin and Its Advanced Applications in Ubiquitous Health Monitoring",
+        "venue": "Biomedicines",
+        "year": 2024,
+        "citationCount": 28,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/biomedicines12102307",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-10-01",
+        "authors": [
+          {
+            "authorId": "121090237",
+            "name": "Xidi Sun"
+          },
+          {
+            "authorId": "2282109561",
+            "name": "Xin Guo"
+          },
+          {
+            "authorId": "2261531919",
+            "name": "Jiansong Gao"
+          },
+          {
+            "authorId": "2149267890",
+            "name": "Jing Wu"
+          },
+          {
+            "authorId": "2332979776",
+            "name": "Fengchang Huang"
+          },
+          {
+            "authorId": "2108293879",
+            "name": "Jia‐Han Zhang"
+          },
+          {
+            "authorId": "2303227195",
+            "name": "Fuhua Huang"
+          },
+          {
+            "authorId": "2246555258",
+            "name": "Xiao Lu"
+          },
+          {
+            "authorId": "2297017747",
+            "name": "Yi Shi"
+          },
+          {
+            "authorId": "152792470",
+            "name": "Lijia Pan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "23064d9431b2f377a1871501b639197d513b4876",
+        "externalIds": {
+          "DOI": "10.1002/adma.202410312",
+          "CorpusId": 272979821,
+          "PubMed": "39344553"
+        },
+        "url": "https://www.semanticscholar.org/paper/23064d9431b2f377a1871501b639197d513b4876",
+        "title": "Traditional Chinese Medicine (TCM)‐Inspired Fully Printed Soft Pressure Sensor Array with Self‐Adaptive Pressurization for Highly Reliable Individualized Long‐Term Pulse Diagnostics",
+        "venue": "Advances in Materials",
+        "year": 2024,
+        "citationCount": 120,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-09-30",
+        "authors": [
+          {
+            "authorId": "2153690472",
+            "name": "Xin Wang"
+          },
+          {
+            "authorId": "2248727327",
+            "name": "Guirong Wu"
+          },
+          {
+            "authorId": "2293350052",
+            "name": "Xikuan Zhang"
+          },
+          {
+            "authorId": "2303001857",
+            "name": "Fei Lv"
+          },
+          {
+            "authorId": "2220506218",
+            "name": "Zekun Yang"
+          },
+          {
+            "authorId": "2067123664",
+            "name": "Xueli Nan"
+          },
+          {
+            "authorId": "2269689340",
+            "name": "Zengxing Zhang"
+          },
+          {
+            "authorId": "2280403420",
+            "name": "Chenyang Xue"
+          },
+          {
+            "authorId": "2241937758",
+            "name": "Huanyu Cheng"
+          },
+          {
+            "authorId": "2303456323",
+            "name": "Libo Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "df9fbb3f848c37f750668f305378cb38220a70cc",
+        "externalIds": {
+          "DOI": "10.1021/acsaelm.4c01090",
+          "CorpusId": 272634938
+        },
+        "url": "https://www.semanticscholar.org/paper/df9fbb3f848c37f750668f305378cb38220a70cc",
+        "title": "Flexible Sphere Elastomer Structural Pressure Sensor for Non-invasive Pulse Wave Monitoring",
+        "venue": "ACS Applied Electronic Materials",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-09-11",
+        "authors": [
+          {
+            "authorId": "2274892309",
+            "name": "Wei Zhang"
+          },
+          {
+            "authorId": "2320880392",
+            "name": "Mingjun Zou"
+          },
+          {
+            "authorId": "2257346857",
+            "name": "Yiming Wang"
+          },
+          {
+            "authorId": "2257124750",
+            "name": "Xiaoke Wang"
+          },
+          {
+            "authorId": "2117693854",
+            "name": "He Zhu"
+          },
+          {
+            "authorId": "2263573783",
+            "name": "Junfeng Hu"
+          },
+          {
+            "authorId": "2321347540",
+            "name": "Yanpeng Lu"
+          },
+          {
+            "authorId": "2263900227",
+            "name": "Zhiming Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "132486e5adc115da9b67ed5aaca67af80abcf579",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2024.154083",
+          "CorpusId": 271285484
+        },
+        "url": "https://www.semanticscholar.org/paper/132486e5adc115da9b67ed5aaca67af80abcf579",
+        "title": "Skin-inspired interlocked microstructures with soft-hard synergistic effect for high-sensitivity and wide-linear-range pressure sensing",
+        "venue": "Chemical Engineering Journal",
+        "year": 2024,
+        "citationCount": 77,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-09-01",
+        "authors": [
+          {
+            "authorId": "2293207096",
+            "name": "Shiwen Tu"
+          },
+          {
+            "authorId": "2293197670",
+            "name": "Yangbin Xi"
+          },
+          {
+            "authorId": "94138701",
+            "name": "Xihua Cui"
+          },
+          {
+            "authorId": "2248932596",
+            "name": "Zhiguang Xu"
+          },
+          {
+            "authorId": "2191506602",
+            "name": "Zunfeng Liu"
+          },
+          {
+            "authorId": "2288135610",
+            "name": "Yutian Zhu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c89ac5256f885a2a0ff0c41493d93d2ae4ab954b",
+        "externalIds": {
+          "DOI": "10.1016/j.cej.2024.155590",
+          "CorpusId": 272516388
+        },
+        "url": "https://www.semanticscholar.org/paper/c89ac5256f885a2a0ff0c41493d93d2ae4ab954b",
+        "title": "Geometrically asymmetric pressure sensor with precious few electrodes achieves precise detection of both position and strength by machine learning",
+        "venue": "Chemical Engineering Journal",
+        "year": 2024,
+        "citationCount": 11,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-09-01",
+        "authors": [
+          {
+            "authorId": "2269030870",
+            "name": "Tingkang Yuan"
+          },
+          {
+            "authorId": "2291595537",
+            "name": "Ruilin Yin"
+          },
+          {
+            "authorId": "2393669725",
+            "name": "Chengwei Li"
+          },
+          {
+            "authorId": "2238902979",
+            "name": "Zeng Fan"
+          },
+          {
+            "authorId": "10695762",
+            "name": "L. Pan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "90327b6e1f2bdfe22aae3d38157116ac20369e20",
+        "externalIds": {
+          "DOI": "10.1039/d3cs00941f",
+          "CorpusId": 271968063,
+          "PubMed": "39192761"
+        },
+        "url": "https://www.semanticscholar.org/paper/90327b6e1f2bdfe22aae3d38157116ac20369e20",
+        "title": "Nanoplasmonic biosensors for environmental sustainability and human health.",
+        "venue": "Chemical Society Reviews",
+        "year": 2024,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-28",
+        "authors": [
+          {
+            "authorId": "2143453794",
+            "name": "Wenpeng Liu"
+          },
+          {
+            "authorId": "2308260003",
+            "name": "Kyungwha Chung"
+          },
+          {
+            "authorId": "96772564",
+            "name": "Subin Yu"
+          },
+          {
+            "authorId": "2110026598",
+            "name": "Luke P. Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d515251c92d01e7074e583639598cbab49e035c9",
+        "externalIds": {
+          "PubMedCentral": "11397144",
+          "DOI": "10.1021/acs.chemrev.4c00049",
+          "CorpusId": 272249996,
+          "PubMed": "39198214"
+        },
+        "url": "https://www.semanticscholar.org/paper/d515251c92d01e7074e583639598cbab49e035c9",
+        "title": "Toward an AI Era: Advances in Electronic Skins",
+        "venue": "Chemical Reviews",
+        "year": 2024,
+        "citationCount": 139,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-28",
+        "authors": [
+          {
+            "authorId": "2301022483",
+            "name": "Xuemei Fu"
+          },
+          {
+            "authorId": "2089784203",
+            "name": "Wen Cheng"
+          },
+          {
+            "authorId": "151358834",
+            "name": "Guanxiang Wan"
+          },
+          {
+            "authorId": "2111905465",
+            "name": "Zijie Yang"
+          },
+          {
+            "authorId": "2265396852",
+            "name": "Benjamin C. K. Tee"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b4e8a84553ffbd72801fca2c55f6914bd6c10f3c",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202403788",
+          "CorpusId": 271787192
+        },
+        "url": "https://www.semanticscholar.org/paper/b4e8a84553ffbd72801fca2c55f6914bd6c10f3c",
+        "title": "An All‐in‐One Wearable Device Integrating a Solid‐State Zinc‐Ion Battery and a Capacitive Pressure Sensor for Intelligent Health Monitoring",
+        "venue": "Advanced Functional Materials",
+        "year": 2024,
+        "citationCount": 32,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-07",
+        "authors": [
+          {
+            "authorId": "2238138965",
+            "name": "Junxian Li"
+          },
+          {
+            "authorId": "2268435129",
+            "name": "Ke Ma"
+          },
+          {
+            "authorId": "2237962490",
+            "name": "Bolong Qin"
+          },
+          {
+            "authorId": "97012705",
+            "name": "Gengzhe Shen"
+          },
+          {
+            "authorId": "2290446670",
+            "name": "Chi Zhang"
+          },
+          {
+            "authorId": "2144830798",
+            "name": "Weijia Yang"
+          },
+          {
+            "authorId": "2315982583",
+            "name": "Zijun Pan"
+          },
+          {
+            "authorId": "2315643813",
+            "name": "Senrong Ye"
+          },
+          {
+            "authorId": "2147223532",
+            "name": "Yue Xin"
+          },
+          {
+            "authorId": "2154166333",
+            "name": "Xin He"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "981968ea16dbe167a99f9110b36935fddb8c0038",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2024.110188",
+          "CorpusId": 272241744
+        },
+        "url": "https://www.semanticscholar.org/paper/981968ea16dbe167a99f9110b36935fddb8c0038",
+        "title": "Thin, Flexible Hybrid-Structured Piezoelectric Sensor Array with Enhanced Resolution and Sensitivity",
+        "venue": "Nano Energy",
+        "year": 2024,
+        "citationCount": 80,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-01",
+        "authors": [
+          {
+            "authorId": "2059086220",
+            "name": "Liyun Zhen"
+          },
+          {
+            "authorId": "2311234402",
+            "name": "Meng Cui"
+          },
+          {
+            "authorId": "2287784516",
+            "name": "Xingyu Bai"
+          },
+          {
+            "authorId": "2318720192",
+            "name": "Jia Jiang"
+          },
+          {
+            "authorId": "2309207284",
+            "name": "Xin Ma"
+          },
+          {
+            "authorId": "2386633614",
+            "name": "Meng Wang"
+          },
+          {
+            "authorId": "2290514357",
+            "name": "Jingquan Liu"
+          },
+          {
+            "authorId": "2292115262",
+            "name": "Bin Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f7cda25cdc707313671ace9425390ad036c51c44",
+        "externalIds": {
+          "DOI": "10.1021/acssensors.4c01171",
+          "CorpusId": 270970824,
+          "PubMed": "38967386"
+        },
+        "url": "https://www.semanticscholar.org/paper/f7cda25cdc707313671ace9425390ad036c51c44",
+        "title": "Nanoengineering Ultrathin Flexible Pressure Sensors with Superior Sensitivity and Wide Range via Nanocomposite Structures.",
+        "venue": "ACS Sensors",
+        "year": 2024,
+        "citationCount": 22,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-07-05",
+        "authors": [
+          {
+            "authorId": "2309967914",
+            "name": "Yike Zhu"
+          },
+          {
+            "authorId": "1471331360",
+            "name": "Xiaoguang Hu"
+          },
+          {
+            "authorId": "2375856854",
+            "name": "Xinran Yan"
+          },
+          {
+            "authorId": "2309808581",
+            "name": "Weiyao Ni"
+          },
+          {
+            "authorId": "2267888598",
+            "name": "Mengxi Wu"
+          },
+          {
+            "authorId": "2144169323",
+            "name": "Junshan Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "67422e3452cab4ca72da63574849458dd1a93be3",
+        "externalIds": {
+          "DOI": "10.1109/LED.2024.3394855",
+          "CorpusId": 269557309
+        },
+        "url": "https://www.semanticscholar.org/paper/67422e3452cab4ca72da63574849458dd1a93be3",
+        "title": "Dual-Parameter and High-Density Sensor Array Based on a-IGZO Thin Film Transistors",
+        "venue": "IEEE Electron Device Letters",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-07-01",
+        "authors": [
+          {
+            "authorId": "2265116079",
+            "name": "Jianhua Zhang"
+          },
+          {
+            "authorId": "2277984907",
+            "name": "Congcong Cheng"
+          },
+          {
+            "authorId": "2265389094",
+            "name": "Hao Zhang"
+          },
+          {
+            "authorId": "2277994890",
+            "name": "Jixing Zhou"
+          },
+          {
+            "authorId": "2155522900",
+            "name": "Hai Liu"
+          },
+          {
+            "authorId": "2233476001",
+            "name": "Han Zhang"
+          },
+          {
+            "authorId": "49330175",
+            "name": "Longlong Chen"
+          },
+          {
+            "authorId": "2114773839",
+            "name": "T. Zhao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1b8470560d7380cb53b9cbde7941a4e6ebfd5f1f",
+        "externalIds": {
+          "PubMedCentral": "11280503",
+          "DBLP": "journals/sensors/WangWWLLDLL24",
+          "DOI": "10.3390/s24144698",
+          "CorpusId": 271394371,
+          "PubMed": "39066095"
+        },
+        "url": "https://www.semanticscholar.org/paper/1b8470560d7380cb53b9cbde7941a4e6ebfd5f1f",
+        "title": "Pollen-Modified Flat Silk Cocoon Pressure Sensors for Wearable Applications",
+        "venue": "Italian National Conference on Sensors",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/s24144698",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-07-01",
+        "authors": [
+          {
+            "authorId": "2312860936",
+            "name": "Shengnan Wang"
+          },
+          {
+            "authorId": "2311517312",
+            "name": "Yujia Wang"
+          },
+          {
+            "authorId": "2196682404",
+            "name": "Yi Wang"
+          },
+          {
+            "authorId": "2312414665",
+            "name": "Jiaqi Liu"
+          },
+          {
+            "authorId": "2405464535",
+            "name": "Fan Liu"
+          },
+          {
+            "authorId": "2148940098",
+            "name": "Fangyin Dai"
+          },
+          {
+            "authorId": "2312654651",
+            "name": "Jiashen Li"
+          },
+          {
+            "authorId": "2312676242",
+            "name": "Zhi Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f52f2bb23c68170d72b2fc3b7e4f92508a66503e",
+        "externalIds": {
+          "DOI": "10.1021/acsanm.4c02631",
+          "CorpusId": 270841649
+        },
+        "url": "https://www.semanticscholar.org/paper/f52f2bb23c68170d72b2fc3b7e4f92508a66503e",
+        "title": "Bioinspired Low Hysteresis Flexible Pressure Sensor Using Nanocomposites of Multiwalled Carbon Nanotubes, Silicone Rubber, and Carbon Nanofiber for Human–Computer Interaction",
+        "venue": "ACS Applied Nano Materials",
+        "year": 2024,
+        "citationCount": 42,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-28",
+        "authors": [
+          {
+            "authorId": "2260915636",
+            "name": "Xiaohui Guo"
+          },
+          {
+            "authorId": "2249489241",
+            "name": "Tiancheng Liu"
+          },
+          {
+            "authorId": "2308923270",
+            "name": "Yongming Tang"
+          },
+          {
+            "authorId": "2277913111",
+            "name": "Wei Li"
+          },
+          {
+            "authorId": "2277994073",
+            "name": "Long Liu"
+          },
+          {
+            "authorId": "2278220054",
+            "name": "Di Wang"
+          },
+          {
+            "authorId": "2256913633",
+            "name": "Yifan Zhang"
+          },
+          {
+            "authorId": "2244125026",
+            "name": "Tianxu Zhang"
+          },
+          {
+            "authorId": "2281253238",
+            "name": "Xiaowen Zhu"
+          },
+          {
+            "authorId": "2243930144",
+            "name": "Yuxin Guan"
+          },
+          {
+            "authorId": "2243917777",
+            "name": "Xianghui Li"
+          },
+          {
+            "authorId": "2299106139",
+            "name": "Yinuo Chen"
+          },
+          {
+            "authorId": "2308885825",
+            "name": "Xinyu Wu"
+          },
+          {
+            "authorId": "2110597035",
+            "name": "Guangyu Xiao"
+          },
+          {
+            "authorId": "2308988730",
+            "name": "Xinchen Wang"
+          },
+          {
+            "authorId": "2301502806",
+            "name": "Renkai Zhang"
+          },
+          {
+            "authorId": "2176384702",
+            "name": "Dandan Wang"
+          },
+          {
+            "authorId": "2268552562",
+            "name": "Z. Mai"
+          },
+          {
+            "authorId": "2114947741",
+            "name": "W.-L. Hong"
+          },
+          {
+            "authorId": "2159785260",
+            "name": "Qi Hong"
+          },
+          {
+            "authorId": "2237944824",
+            "name": "Yunong Zhao"
+          },
+          {
+            "authorId": "2165302534",
+            "name": "Yongjun Zhang"
+          },
+          {
+            "authorId": "2191232704",
+            "name": "Ming Wang"
+          },
+          {
+            "authorId": "2294926340",
+            "name": "Feng Yan"
+          },
+          {
+            "authorId": "123427141",
+            "name": "Guozhong Xing"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "fcaa62ecaa753fb1ee871f1d61f4cbd80c7fea04",
+        "externalIds": {
+          "PubMedCentral": "11200319",
+          "DOI": "10.1038/s41467-024-49787-9",
+          "CorpusId": 270737109,
+          "PubMed": "38918424"
+        },
+        "url": "https://www.semanticscholar.org/paper/fcaa62ecaa753fb1ee871f1d61f4cbd80c7fea04",
+        "title": "Ag–thiolate interactions to enable an ultrasensitive and stretchable MXene strain sensor with high temporospatial resolution",
+        "venue": "Nature Communications",
+        "year": 2024,
+        "citationCount": 90,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1038/s41467-024-49787-9",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-25",
+        "authors": [
+          {
+            "authorId": "2260822030",
+            "name": "Yang Liu"
+          },
+          {
+            "authorId": "2290816276",
+            "name": "Zijun Xu"
+          },
+          {
+            "authorId": "2117710175",
+            "name": "Xinyi Ji"
+          },
+          {
+            "authorId": "2274748507",
+            "name": "Xin Xu"
+          },
+          {
+            "authorId": "2308407894",
+            "name": "Fei Chen"
+          },
+          {
+            "authorId": "2188373827",
+            "name": "Xiaosen Pan"
+          },
+          {
+            "authorId": "2384407346",
+            "name": "Zhiqiang Fu"
+          },
+          {
+            "authorId": "2268204688",
+            "name": "Yunzhi Chen"
+          },
+          {
+            "authorId": "2238946884",
+            "name": "Zhengjian Zhang"
+          },
+          {
+            "authorId": "2236551301",
+            "name": "Hongbin Liu"
+          },
+          {
+            "authorId": "2203914284",
+            "name": "Bowen Cheng"
+          },
+          {
+            "authorId": "2279173973",
+            "name": "Jiajie Liang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "21c8a26167818bd4f50b511e2555257c2ee98682",
+        "externalIds": {
+          "DOI": "10.1021/acsami.4c06546",
+          "CorpusId": 270489246,
+          "PubMed": "38870411"
+        },
+        "url": "https://www.semanticscholar.org/paper/21c8a26167818bd4f50b511e2555257c2ee98682",
+        "title": "High-Performance Graphene Flexible Sensors for Pulse Monitoring and Human-Machine Interaction.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2024,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-13",
+        "authors": [
+          {
+            "authorId": "2295490588",
+            "name": "Weiqi Xiao"
+          },
+          {
+            "authorId": "50321012",
+            "name": "Xiaoming Cai"
+          },
+          {
+            "authorId": "2128631027",
+            "name": "Aniqa Jadoon"
+          },
+          {
+            "authorId": "2432438785",
+            "name": "Yan Zhou"
+          },
+          {
+            "authorId": "14541821",
+            "name": "Quan Gou"
+          },
+          {
+            "authorId": "2294908482",
+            "name": "Junwen Tang"
+          },
+          {
+            "authorId": "2306839841",
+            "name": "Xiaolong Ma"
+          },
+          {
+            "authorId": "2279661714",
+            "name": "Weiyao Wang"
+          },
+          {
+            "authorId": "2279791995",
+            "name": "Jinming Cai"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b0d68b564387f8e9af228a63e110da2512b577b6",
+        "externalIds": {
+          "PubMedCentral": "11166975",
+          "DOI": "10.1038/s41378-024-00703-7",
+          "CorpusId": 270369861,
+          "PubMed": "38867942"
+        },
+        "url": "https://www.semanticscholar.org/paper/b0d68b564387f8e9af228a63e110da2512b577b6",
+        "title": "Wearable multichannel-active pressurized pulse sensing platform",
+        "venue": "Microsystems & Nanoengineering",
+        "year": 2024,
+        "citationCount": 33,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1038/s41378-024-00703-7",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-11",
+        "authors": [
+          {
+            "authorId": "2160552274",
+            "name": "Yunlong Zhao"
+          },
+          {
+            "authorId": "2401059604",
+            "name": "Qing Sun"
+          },
+          {
+            "authorId": "2218209412",
+            "name": "Shixuan Mei"
+          },
+          {
+            "authorId": "2303456323",
+            "name": "Libo Gao"
+          },
+          {
+            "authorId": "2293350052",
+            "name": "Xikuan Zhang"
+          },
+          {
+            "authorId": "2220506218",
+            "name": "Zekun Yang"
+          },
+          {
+            "authorId": "2067123664",
+            "name": "Xueli Nan"
+          },
+          {
+            "authorId": "2280478992",
+            "name": "Haiyan Zhang"
+          },
+          {
+            "authorId": "2280403420",
+            "name": "Chenyang Xue"
+          },
+          {
+            "authorId": "49298759",
+            "name": "Junyang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6e1b9b5c03e00421405be5b5243c08fadf22243f",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202406022",
+          "CorpusId": 270413871
+        },
+        "url": "https://www.semanticscholar.org/paper/6e1b9b5c03e00421405be5b5243c08fadf22243f",
+        "title": "High‐Resolution Carbon‐Based Tactile Sensor Array for Dynamic Pulse Imaging",
+        "venue": "Advanced Functional Materials",
+        "year": 2024,
+        "citationCount": 46,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-10",
+        "authors": [
+          {
+            "authorId": "2298737125",
+            "name": "Xin Tian"
+          },
+          {
+            "authorId": "2162206606",
+            "name": "Guanyin Cheng"
+          },
+          {
+            "authorId": "2283192909",
+            "name": "Zhonghuai Wu"
+          },
+          {
+            "authorId": "2153735254",
+            "name": "Xudong Wen"
+          },
+          {
+            "authorId": "2221248225",
+            "name": "Yongkang Kong"
+          },
+          {
+            "authorId": "2164603386",
+            "name": "Pan Long"
+          },
+          {
+            "authorId": "2298840486",
+            "name": "Fubang Zhao"
+          },
+          {
+            "authorId": "2306135306",
+            "name": "Zhongxiang Li"
+          },
+          {
+            "authorId": "2298861108",
+            "name": "Dong Zhang"
+          },
+          {
+            "authorId": "2238130287",
+            "name": "Yonghe Hu"
+          },
+          {
+            "authorId": "2298580948",
+            "name": "Dapeng Wei"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b828d574aa79f43581cdf604004cf4df67e08e75",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2024.109878",
+          "CorpusId": 270497571
+        },
+        "url": "https://www.semanticscholar.org/paper/b828d574aa79f43581cdf604004cf4df67e08e75",
+        "title": "Intelligent Cardiovascular Disease Diagnosis System Combined Piezoelectric Nanogenerator based on 2D Bi2O2Se with Deep Learning Technique",
+        "venue": "Nano Energy",
+        "year": 2024,
+        "citationCount": 29,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.nanoen.2024.109878",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-06-01",
+        "authors": [
+          {
+            "authorId": "2306464161",
+            "name": "Yuanhu Sun"
+          },
+          {
+            "authorId": "2211965928",
+            "name": "Junqi Mao"
+          },
+          {
+            "authorId": "2328683639",
+            "name": "Liangzhi Cao"
+          },
+          {
+            "authorId": "2380150873",
+            "name": "Xianjie Zheng"
+          },
+          {
+            "authorId": "2306615307",
+            "name": "Qingjiang Meng"
+          },
+          {
+            "authorId": "2306498452",
+            "name": "Song Zhao"
+          },
+          {
+            "authorId": "2237953744",
+            "name": "Z. Wang"
+          },
+          {
+            "authorId": "1953202136",
+            "name": "Yuanzheng Zhang"
+          },
+          {
+            "authorId": "2306367500",
+            "name": "Daxiang Cui"
+          },
+          {
+            "authorId": "2237957449",
+            "name": "Haiwu Zheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b4878a414889e28baab0ad0d02674fa4cff75734",
+        "externalIds": {
+          "DOI": "10.1002/adfm.202405099",
+          "CorpusId": 269811769
+        },
+        "url": "https://www.semanticscholar.org/paper/b4878a414889e28baab0ad0d02674fa4cff75734",
+        "title": "Low Modulus Coupling Circuits: A Feasible Strategy for Achieving Highly Sensitive Linear Pressure Sensing in Fiber Crossbars",
+        "venue": "Advanced Functional Materials",
+        "year": 2024,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-14",
+        "authors": [
+          {
+            "authorId": "96127687",
+            "name": "X. Qu"
+          },
+          {
+            "authorId": "2259658566",
+            "name": "Shengming Zhang"
+          },
+          {
+            "authorId": "2301756501",
+            "name": "Zixuan Zhu"
+          },
+          {
+            "authorId": "2044481077",
+            "name": "Zhiliang Han"
+          },
+          {
+            "authorId": "2152914692",
+            "name": "Jing Li"
+          },
+          {
+            "authorId": "2202663656",
+            "name": "Lili Deng"
+          },
+          {
+            "authorId": "2225663008",
+            "name": "Zhou Zhou"
+          },
+          {
+            "authorId": "2266166547",
+            "name": "Tao Zhang"
+          },
+          {
+            "authorId": "2266157769",
+            "name": "Mengyao Guan"
+          },
+          {
+            "authorId": "46506964",
+            "name": "Huaping Wang"
+          },
+          {
+            "authorId": "2107958175",
+            "name": "Shiyan Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "bb9b960916d02ce3379d6b1ca03c1f76f07f3511",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.4c00057",
+          "CorpusId": 269722941
+        },
+        "url": "https://www.semanticscholar.org/paper/bb9b960916d02ce3379d6b1ca03c1f76f07f3511",
+        "title": "Soluble Polyimides Containing Benzocyclobutene Moieties: Synthesis, Cross-Linking Behavior, and Physical and Gas Transport Properties",
+        "venue": "Macromolecules",
+        "year": 2024,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-10",
+        "authors": [
+          {
+            "authorId": "2300913464",
+            "name": "Kai Geng"
+          },
+          {
+            "authorId": "2300913561",
+            "name": "Tengyao Xue"
+          },
+          {
+            "authorId": "2249068036",
+            "name": "Xiaodan Li"
+          },
+          {
+            "authorId": "2222651918",
+            "name": "Haoqi Sang"
+          },
+          {
+            "authorId": "2301137805",
+            "name": "Shichao Feng"
+          },
+          {
+            "authorId": "2241937076",
+            "name": "Chenyi Wang"
+          },
+          {
+            "authorId": "2301012853",
+            "name": "Hanli Wang"
+          },
+          {
+            "authorId": "13861580",
+            "name": "Yongbing Zhuang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7e9e79a19cbc0215f599104f1c46863bca176cc5",
+        "externalIds": {
+          "DOI": "10.1016/j.measurement.2024.114874",
+          "CorpusId": 269708685
+        },
+        "url": "https://www.semanticscholar.org/paper/7e9e79a19cbc0215f599104f1c46863bca176cc5",
+        "title": "Bio-inspired flexible optical micro/nano fibers sensor with nanohemisphere array microstructure for ultra-sensitive detection of skin signals",
+        "venue": "Measurement",
+        "year": 2024,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-01",
+        "authors": [
+          {
+            "authorId": "2253644234",
+            "name": "Penghui Dai"
+          },
+          {
+            "authorId": "2181341533",
+            "name": "Zhicheng Cong"
+          },
+          {
+            "authorId": "2163054316",
+            "name": "Yu Sun"
+          },
+          {
+            "authorId": "2117116466",
+            "name": "Wendi Yan"
+          },
+          {
+            "authorId": "2255339739",
+            "name": "Peng Chen"
+          },
+          {
+            "authorId": "2118418347",
+            "name": "Xiufang Wang"
+          },
+          {
+            "authorId": "2115485736",
+            "name": "Chunlei Jiang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7f9dd091de0d2df32e197d428474abcdaec7129d",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2024.109750",
+          "CorpusId": 269910860
+        },
+        "url": "https://www.semanticscholar.org/paper/7f9dd091de0d2df32e197d428474abcdaec7129d",
+        "title": "Degradable, biocompatible, and flexible capacitive pressure sensor for intelligent gait recognition and rehabilitation training",
+        "venue": "Nano Energy",
+        "year": 2024,
+        "citationCount": 68,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-01",
+        "authors": [
+          {
+            "authorId": "2181694103",
+            "name": "Dedong Guo"
+          },
+          {
+            "authorId": "2110480581",
+            "name": "Yuanlong Li"
+          },
+          {
+            "authorId": "2266512645",
+            "name": "Qihui Zhou"
+          },
+          {
+            "authorId": "2281716969",
+            "name": "Zhongxiang Yu"
+          },
+          {
+            "authorId": "2279218921",
+            "name": "Xueqian Liu"
+          },
+          {
+            "authorId": "2182108398",
+            "name": "Shuheng Dong"
+          },
+          {
+            "authorId": "2415932621",
+            "name": "Shipeng Zhang"
+          },
+          {
+            "authorId": "2244014402",
+            "name": "Ho‐Kun Sung"
+          },
+          {
+            "authorId": "2263889886",
+            "name": "Zhao Yao"
+          },
+          {
+            "authorId": "2301086818",
+            "name": "Yang Li"
+          },
+          {
+            "authorId": "2244610395",
+            "name": "Yuanyue Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "731df328686f8d16237c2ea656da144b27fbe642",
+        "externalIds": {
+          "DOI": "10.1016/j.snb.2024.136005",
+          "CorpusId": 269999310
+        },
+        "url": "https://www.semanticscholar.org/paper/731df328686f8d16237c2ea656da144b27fbe642",
+        "title": "Ultrasensitive flexible pressure sensor for soft contraction detection",
+        "venue": "Sensors and actuators. B, Chemical",
+        "year": 2024,
+        "citationCount": 9,
+        "openAccessPdf": {
+          "url": "https://upcommons.upc.edu/bitstreams/67f04254-fb06-42a4-8f7c-f1f51b00bea2/download",
+          "status": "GREEN",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-01",
+        "authors": [
+          {
+            "authorId": "66750011",
+            "name": "Brenda G. Molina"
+          },
+          {
+            "authorId": "2302944874",
+            "name": "Júlia Sanz-Farnós"
+          },
+          {
+            "authorId": "2283849145",
+            "name": "Samuel Sánchez"
+          },
+          {
+            "authorId": "2283608572",
+            "name": "Carlos Alemán"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6deeb3f768353ed5988fc9339bec940305f7db05",
+        "externalIds": {
+          "DOI": "10.1021/acsnano.3c13221",
+          "CorpusId": 269031854,
+          "PubMed": "38597459"
+        },
+        "url": "https://www.semanticscholar.org/paper/6deeb3f768353ed5988fc9339bec940305f7db05",
+        "title": "Underwater Gesture Recognition Meta-Gloves for Marine Immersive Communication.",
+        "venue": "ACS Nano",
+        "year": 2024,
+        "citationCount": 49,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-04-10",
+        "authors": [
+          {
+            "authorId": "2181134339",
+            "name": "Jiaxu Liu"
+          },
+          {
+            "authorId": "2108741095",
+            "name": "Lihong Wang"
+          },
+          {
+            "authorId": "2153550038",
+            "name": "Ruidong Xu"
+          },
+          {
+            "authorId": "2295947197",
+            "name": "Xinwei Zhang"
+          },
+          {
+            "authorId": "2214822702",
+            "name": "Jisheng Zhao"
+          },
+          {
+            "authorId": "2244299836",
+            "name": "Hong Liu"
+          },
+          {
+            "authorId": "2172467676",
+            "name": "Fuxing Chen"
+          },
+          {
+            "authorId": "1753445",
+            "name": "Lijun Qu"
+          },
+          {
+            "authorId": "2292803735",
+            "name": "Mingwei Tian"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d254e4b17e9036cecd5ed164f4df7c877a889747",
+        "externalIds": {
+          "DOI": "10.3390/chemosensors12040057",
+          "CorpusId": 269028961
+        },
+        "url": "https://www.semanticscholar.org/paper/d254e4b17e9036cecd5ed164f4df7c877a889747",
+        "title": "Application of Sensing Devices in the Detection of Oral, Pulmonary, and Gastrointestinal Diseases",
+        "venue": "Chemosensors",
+        "year": 2024,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2227-9040/12/4/57/pdf?version=1712566138",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2024-04-08",
+        "authors": [
+          {
+            "authorId": "2245341477",
+            "name": "Weijie Yu"
+          },
+          {
+            "authorId": "2140615375",
+            "name": "Shimeng Mou"
+          },
+          {
+            "authorId": "2108198634",
+            "name": "Xiaojing Zhang"
+          },
+          {
+            "authorId": "2169884293",
+            "name": "Jiaying Sun"
+          },
+          {
+            "authorId": "1509720570",
+            "name": "Yingying Xue"
+          },
+          {
+            "authorId": "2152081373",
+            "name": "Hangming Xiong"
+          },
+          {
+            "authorId": "2270512746",
+            "name": "K. Hsia"
+          },
+          {
+            "authorId": "2253214724",
+            "name": "Hao Wan"
+          },
+          {
+            "authorId": "2275791818",
+            "name": "Ping Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "68dc55cf2e6c9ed52981c942c0278e5a53932e94",
+        "externalIds": {
+          "DOI": "10.1039/d3dt04192a",
+          "CorpusId": 267769395,
+          "PubMed": "38381054"
+        },
+        "url": "https://www.semanticscholar.org/paper/68dc55cf2e6c9ed52981c942c0278e5a53932e94",
+        "title": "Methanol as an anti-solvent to improve the low open-circuit voltage of CsPbBr3 perovskite solar cells prepared with water.",
+        "venue": "Dalton Transactions",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-02-21",
+        "authors": [
+          {
+            "authorId": "2211399344",
+            "name": "Jiajie Cheng"
+          },
+          {
+            "authorId": "2149686360",
+            "name": "Zhisheng Gui"
+          },
+          {
+            "authorId": "2284929419",
+            "name": "Yufan Jiang"
+          },
+          {
+            "authorId": "2229329156",
+            "name": "Jiaming Wang"
+          },
+          {
+            "authorId": "2238392527",
+            "name": "Jingjing Dong"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8f51dcce70373c542920f94cf0d45c7b3ceddb90",
+        "externalIds": {
+          "DOI": "10.1021/acs.chemrev.3c00507",
+          "CorpusId": 267758910,
+          "PubMed": "38373392"
+        },
+        "url": "https://www.semanticscholar.org/paper/8f51dcce70373c542920f94cf0d45c7b3ceddb90",
+        "title": "Porous Conductive Textiles for Wearable Electronics.",
+        "venue": "Chemical Reviews",
+        "year": 2024,
+        "citationCount": 214,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-02-19",
+        "authors": [
+          {
+            "authorId": "2237742775",
+            "name": "Yichun Ding"
+          },
+          {
+            "authorId": "2284935463",
+            "name": "Jinxing Jiang"
+          },
+          {
+            "authorId": "121961687",
+            "name": "Ying Wu"
+          },
+          {
+            "authorId": "2118389356",
+            "name": "Yaokang Zhang"
+          },
+          {
+            "authorId": "2265049061",
+            "name": "Junhua Zhou"
+          },
+          {
+            "authorId": "2275529983",
+            "name": "Yufei Zhang"
+          },
+          {
+            "authorId": "11212619",
+            "name": "Qiyao Huang"
+          },
+          {
+            "authorId": "2237736563",
+            "name": "Zijian Zheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "43b5dcd2ae9b259c03cbb6670422a2f7c58f96e6",
+        "externalIds": {
+          "DOI": "10.1021/acsami.3c18788",
+          "CorpusId": 267381598,
+          "PubMed": "38303602"
+        },
+        "url": "https://www.semanticscholar.org/paper/43b5dcd2ae9b259c03cbb6670422a2f7c58f96e6",
+        "title": "Two-Stage Micropyramids Enhanced Flexible Piezoresistive Sensor for Health Monitoring and Human-Computer Interaction.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2024,
+        "citationCount": 81,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-02-01",
+        "authors": [
+          {
+            "authorId": "2269692903",
+            "name": "Zhihao Chen"
+          },
+          {
+            "authorId": "2064702376",
+            "name": "C. Qu"
+          },
+          {
+            "authorId": "2269758785",
+            "name": "Jingjing Yao"
+          },
+          {
+            "authorId": "2269854884",
+            "name": "Yuanlong Zhang"
+          },
+          {
+            "authorId": "2145128581",
+            "name": "Yun Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d775c1c0dffaafa804601fb580575325ebc4757c",
+        "externalIds": {
+          "DOI": "10.1109/MEMS58180.2024.10439393",
+          "CorpusId": 267823283
+        },
+        "url": "https://www.semanticscholar.org/paper/d775c1c0dffaafa804601fb580575325ebc4757c",
+        "title": "Conformal Design and Fabrication of Wearable Piezoelectric Sensor Array for Spatiotemporal Distribution of Arterial Pulse Waves",
+        "venue": "IEEE/LEOS International Conference on Optical MEMS",
+        "year": 2024,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Conference"
+        ],
+        "publicationDate": "2024-01-21",
+        "authors": [
+          {
+            "authorId": "2059086220",
+            "name": "Liyun Zhen"
+          },
+          {
+            "authorId": "2000420916",
+            "name": "Yueqi Zhai"
+          },
+          {
+            "authorId": "2273555368",
+            "name": "Xiantao Zhu"
+          },
+          {
+            "authorId": "2273912363",
+            "name": "Mengfei Xu"
+          },
+          {
+            "authorId": "2285579243",
+            "name": "Yizhi Li"
+          },
+          {
+            "authorId": "2124864759",
+            "name": "Jingquan Liu"
+          },
+          {
+            "authorId": "2286079518",
+            "name": "Bin Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "04d6f1d08f9bde031b731738cd7a6ed79285a2ee",
+        "externalIds": {
+          "DOI": "10.1021/acs.chemrev.3c00502",
+          "CorpusId": 266752913,
+          "PubMed": "38174868"
+        },
+        "url": "https://www.semanticscholar.org/paper/04d6f1d08f9bde031b731738cd7a6ed79285a2ee",
+        "title": "Materials-Driven Soft Wearable Bioelectronics for Connected Healthcare.",
+        "venue": "Chemical Reviews",
+        "year": 2024,
+        "citationCount": 352,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-01-04",
+        "authors": [
+          {
+            "authorId": "143837519",
+            "name": "Shu Gong"
+          },
+          {
+            "authorId": "2146559111",
+            "name": "Yan Lu"
+          },
+          {
+            "authorId": "2294808205",
+            "name": "Jialiang Yin"
+          },
+          {
+            "authorId": "2213847445",
+            "name": "Arie Levin"
+          },
+          {
+            "authorId": "2116795971",
+            "name": "Wenlong Cheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "eb8ba6db0e613d36e6bccf40e60d59a1a02c4170",
+        "externalIds": {
+          "DOI": "10.1021/acssuschemeng.3c06481",
+          "CorpusId": 266558563
+        },
+        "url": "https://www.semanticscholar.org/paper/eb8ba6db0e613d36e6bccf40e60d59a1a02c4170",
+        "title": "Room-Temperature Dynamic and Creep-Resistant Covalent Adaptive Networks via Phase-Locked Benzimidazole Urea Bonds: Toward Recyclable Elastomers for Wearable Electronic Devices",
+        "venue": "ACS Sustainable Chemistry &amp; Engineering",
+        "year": 2023,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-12-25",
+        "authors": [
+          {
+            "authorId": "2276483944",
+            "name": "Miao Xie"
+          },
+          {
+            "authorId": "2276448145",
+            "name": "Xiaorong Wang"
+          },
+          {
+            "authorId": "2238689162",
+            "name": "Jialiang Lai"
+          },
+          {
+            "authorId": "2244574093",
+            "name": "Xili Lu"
+          },
+          {
+            "authorId": "9313821",
+            "name": "Zhanhua Wang"
+          },
+          {
+            "authorId": "2238661726",
+            "name": "Hesheng Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "2845dff4802e4f08e68725e322ea8ad1c0b2804f",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2023.109039",
+          "CorpusId": 264820547
+        },
+        "url": "https://www.semanticscholar.org/paper/2845dff4802e4f08e68725e322ea8ad1c0b2804f",
+        "title": "A wearable device based on the ionic liquid decorated sponge-like ultraviolet-curable resin for recognizing human mental health conditions",
+        "venue": "Nano Energy",
+        "year": 2023,
+        "citationCount": 12,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-12-01",
+        "authors": [
+          {
+            "authorId": "2065089203",
+            "name": "Feifei Yin"
+          },
+          {
+            "authorId": "92619263",
+            "name": "Hongsen Niu"
+          },
+          {
+            "authorId": "2263723412",
+            "name": "Y. Shin"
+          },
+          {
+            "authorId": "2250495852",
+            "name": "Yang Li"
+          },
+          {
+            "authorId": "66562021",
+            "name": "Eun Seong Kim"
+          },
+          {
+            "authorId": "2119402012",
+            "name": "Nam-Young Kim"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0cfe6325bc463d6392bc4d9dd610ec54d65fba87",
+        "externalIds": {
+          "DOI": "10.1021/acssuschemeng.3c04237",
+          "CorpusId": 264951720
+        },
+        "url": "https://www.semanticscholar.org/paper/0cfe6325bc463d6392bc4d9dd610ec54d65fba87",
+        "title": "Pressure and Temperature Dual-Parameter Sensor Based on Natural Wood for Portable Health-Monitoring Devices",
+        "venue": "ACS Sustainable Chemistry &amp; Engineering",
+        "year": 2023,
+        "citationCount": 17,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-11-01",
+        "authors": [
+          {
+            "authorId": "2238920650",
+            "name": "Huinan Zhang"
+          },
+          {
+            "authorId": "2238949939",
+            "name": "Qingchao Zhang"
+          },
+          {
+            "authorId": "2239023864",
+            "name": "Jie Liang"
+          },
+          {
+            "authorId": "2156827130",
+            "name": "Bo Li"
+          },
+          {
+            "authorId": "9720668",
+            "name": "Junbin Zang"
+          },
+          {
+            "authorId": "2264360392",
+            "name": "Xiyuan Cao"
+          },
+          {
+            "authorId": "2163944462",
+            "name": "Libo Gao"
+          },
+          {
+            "authorId": "2135585489",
+            "name": "Zhidong Zhang"
+          },
+          {
+            "authorId": "2296302293",
+            "name": "Xiaoyong Miao"
+          },
+          {
+            "authorId": "2238681548",
+            "name": "Chenyang Xue"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d7d0a0cc13e298f15e97699f1d126cad8782a7d9",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2023.109104",
+          "CorpusId": 265298605
+        },
+        "url": "https://www.semanticscholar.org/paper/d7d0a0cc13e298f15e97699f1d126cad8782a7d9",
+        "title": "All-In-One Multifunctional and Deformation-Insensitive Carbon Nanotube Nerve Patches Enabling On-Demand Interactions",
+        "venue": "Nano Energy",
+        "year": 2023,
+        "citationCount": 15,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-11-01",
+        "authors": [
+          {
+            "authorId": "2267362657",
+            "name": "Cuirong Zhang"
+          },
+          {
+            "authorId": "2279001783",
+            "name": "Mingyuan Wei"
+          },
+          {
+            "authorId": "2267364464",
+            "name": "Zihan Chen"
+          },
+          {
+            "authorId": "1820922054",
+            "name": "Wansheng Lin"
+          },
+          {
+            "authorId": "2267401500",
+            "name": "Shifan Yu"
+          },
+          {
+            "authorId": "2267473101",
+            "name": "Yijing Xu"
+          },
+          {
+            "authorId": "2170674753",
+            "name": "Chao Wei"
+          },
+          {
+            "authorId": "2267384895",
+            "name": "Jinwei Zhang"
+          },
+          {
+            "authorId": "3378116",
+            "name": "Ziquan Guo"
+          },
+          {
+            "authorId": "2267465853",
+            "name": "Yuanjin Zheng"
+          },
+          {
+            "authorId": "2267367528",
+            "name": "Qingliang Liao"
+          },
+          {
+            "authorId": "2075369872",
+            "name": "Xinqin Liao"
+          },
+          {
+            "authorId": "2154507535",
+            "name": "Zhong Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7a232c0c65176eb45695b8686cc208da8342f509",
+        "externalIds": {
+          "DOI": "10.1002/smll.202303301",
+          "CorpusId": 259499967,
+          "PubMed": "37423977"
+        },
+        "url": "https://www.semanticscholar.org/paper/7a232c0c65176eb45695b8686cc208da8342f509",
+        "title": "Synergetic Monitoring of both Physiological Pressure and Epidermal Biopotential Based on a Simplified on-Skin-Printed Sensor Modality.",
+        "venue": "Small",
+        "year": 2023,
+        "citationCount": 29,
+        "openAccessPdf": {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202303301",
+          "status": "BRONZE",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-07-09",
+        "authors": [
+          {
+            "authorId": "144404428",
+            "name": "Yang Song"
+          },
+          {
+            "authorId": "2218677910",
+            "name": "Wenjuan Ren"
+          },
+          {
+            "authorId": "2145046979",
+            "name": "Yiqun Zhang"
+          },
+          {
+            "authorId": "2190674568",
+            "name": "Qi Liu"
+          },
+          {
+            "authorId": "2222424695",
+            "name": "Zhen Peng"
+          },
+          {
+            "authorId": "2163664916",
+            "name": "Xiaodong Wu"
+          },
+          {
+            "authorId": "2182662359",
+            "name": "Zhuqing Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d16e46a3214228cd143b5c1df8a831d79cea2af9",
+        "externalIds": {
+          "PubMedCentral": "10393752",
+          "DOI": "10.1016/j.isci.2023.107304",
+          "CorpusId": 259892613,
+          "PubMed": "37539034"
+        },
+        "url": "https://www.semanticscholar.org/paper/d16e46a3214228cd143b5c1df8a831d79cea2af9",
+        "title": "Modulus difference-induced embedding strategy to construct iontronic pressure sensor with high sensitivity and wide linear response range",
+        "venue": "iScience",
+        "year": 2023,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "http://www.cell.com/article/S2589004223013810/pdf",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-07-01",
+        "authors": [
+          {
+            "authorId": "2162784004",
+            "name": "Shengjie Liu"
+          },
+          {
+            "authorId": "12881854",
+            "name": "Zhongqian Song"
+          },
+          {
+            "authorId": "2266709169",
+            "name": "Minqi Chen"
+          },
+          {
+            "authorId": "2108751890",
+            "name": "Weiyan Li"
+          },
+          {
+            "authorId": "12020005",
+            "name": "Yingming Ma"
+          },
+          {
+            "authorId": "2127631430",
+            "name": "Zhenbang Liu"
+          },
+          {
+            "authorId": "49955306",
+            "name": "Y. Bao"
+          },
+          {
+            "authorId": "2052992076",
+            "name": "A. Mahmood"
+          },
+          {
+            "authorId": "2184168138",
+            "name": "Li Niu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "fdf418bde3c3f952d20368021ab722b80a040bb5",
+        "externalIds": {
+          "PubMedCentral": "10296057",
+          "DOI": "10.3390/bios13060656",
+          "CorpusId": 259242294,
+          "PubMed": "37367021"
+        },
+        "url": "https://www.semanticscholar.org/paper/fdf418bde3c3f952d20368021ab722b80a040bb5",
+        "title": "A Review of Epidermal Flexible Pressure Sensing Arrays",
+        "venue": "Biosensors",
+        "year": 2023,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2079-6374/13/6/656/pdf?version=1686920755",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-06-01",
+        "authors": [
+          {
+            "authorId": "2067123664",
+            "name": "Xueli Nan"
+          },
+          {
+            "authorId": "2218316633",
+            "name": "Zhikuan Xu"
+          },
+          {
+            "authorId": "2219040400",
+            "name": "Xinxin Cao"
+          },
+          {
+            "authorId": "2218044780",
+            "name": "Jinjin Hao"
+          },
+          {
+            "authorId": "2153690472",
+            "name": "Xin Wang"
+          },
+          {
+            "authorId": "2159453259",
+            "name": "Qikai Duan"
+          },
+          {
+            "authorId": "2118064030",
+            "name": "Guirong Wu"
+          },
+          {
+            "authorId": "2166784760",
+            "name": "Liangwei Hu"
+          },
+          {
+            "authorId": "2220503513",
+            "name": "Yunlong Zhao"
+          },
+          {
+            "authorId": "2220506218",
+            "name": "Zekun Yang"
+          },
+          {
+            "authorId": "2163944462",
+            "name": "Libo Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1b81aa6b16b25d4a87d25afbff057ed603e1bcd3",
+        "externalIds": {
+          "DOI": "10.1021/acsami.3c02690",
+          "CorpusId": 258333142,
+          "PubMed": "37098855"
+        },
+        "url": "https://www.semanticscholar.org/paper/1b81aa6b16b25d4a87d25afbff057ed603e1bcd3",
+        "title": "Recent Advancements in Physiological, Biochemical, and Multimodal Sensors Based on Flexible Substrates: Strategies, Technologies, and Integrations.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2023,
+        "citationCount": 65,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-04-26",
+        "authors": [
+          {
+            "authorId": "2110264960",
+            "name": "Tiezhu Liu"
+          },
+          {
+            "authorId": "2262397256",
+            "name": "Lidan Liu"
+          },
+          {
+            "authorId": "7401577",
+            "name": "Guangyang Gou"
+          },
+          {
+            "authorId": "2164917499",
+            "name": "Zhen Fang"
+          },
+          {
+            "authorId": "2152147628",
+            "name": "Jianhai Sun"
+          },
+          {
+            "authorId": "2328611052",
+            "name": "Jiamin Chen"
+          },
+          {
+            "authorId": "2112798982",
+            "name": "Jianqun Cheng"
+          },
+          {
+            "authorId": "2887076",
+            "name": "M. Han"
+          },
+          {
+            "authorId": "2114185683",
+            "name": "T. Ma"
+          },
+          {
+            "authorId": "2145159019",
+            "name": "Chunxiu Liu"
+          },
+          {
+            "authorId": "3228408",
+            "name": "Ning Xue"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c8c0241d279d26612563a4e03455071c58c42e2d",
+        "externalIds": {
+          "DOI": "10.3390/app13084688",
+          "CorpusId": 258067737
+        },
+        "url": "https://www.semanticscholar.org/paper/c8c0241d279d26612563a4e03455071c58c42e2d",
+        "title": "Laser-Induced Graphene for Multifunctional and Intelligent Wearable Systems: For Health Care and Human–Computer Interaction",
+        "venue": "Applied Sciences",
+        "year": 2023,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2076-3417/13/8/4688/pdf?version=1680881105",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2023-04-07",
+        "authors": [
+          {
+            "authorId": "1602488516",
+            "name": "Tianrui Cui"
+          },
+          {
+            "authorId": "2118004682",
+            "name": "Ding Li"
+          },
+          {
+            "authorId": "1396699472",
+            "name": "Thomas Hirtz"
+          },
+          {
+            "authorId": "2180900947",
+            "name": "Wancheng Shao"
+          },
+          {
+            "authorId": "2211103541",
+            "name": "Zibo Zhou"
+          },
+          {
+            "authorId": "153058382",
+            "name": "Shourui Ji"
+          },
+          {
+            "authorId": "2153901368",
+            "name": "Xin Li"
+          },
+          {
+            "authorId": "2110512641",
+            "name": "Jiandong Xu"
+          },
+          {
+            "authorId": "12681064",
+            "name": "Jinming Jian"
+          },
+          {
+            "authorId": "2163946659",
+            "name": "Zhikang Chen"
+          },
+          {
+            "authorId": "2163943333",
+            "name": "Zeyi Tang"
+          },
+          {
+            "authorId": "2210830143",
+            "name": "Zi-Gan Xu"
+          },
+          {
+            "authorId": "2217019445",
+            "name": "Kang Liu"
+          },
+          {
+            "authorId": "48447299",
+            "name": "Houfang Liu"
+          },
+          {
+            "authorId": "7607499",
+            "name": "Yezhou Yang"
+          },
+          {
+            "authorId": "2156692518",
+            "name": "Tian-ling Ren"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f3b456fa2c60f2843f9bd305e28e75846ef2d02e",
+        "externalIds": {
+          "DOI": "10.1016/j.porgcoat.2026.110446",
+          "CorpusId": 290557945
+        },
+        "url": "https://www.semanticscholar.org/paper/f3b456fa2c60f2843f9bd305e28e75846ef2d02e",
+        "title": "Dual-templated hierarchical porous polyimide coatings with improved moisture resistance and mechanical integrity",
+        "venue": "Progress in Organic Coatings",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "145765346",
+            "name": "Yingyi Ma"
+          },
+          {
+            "authorId": "2453592419",
+            "name": "Shiyun Wang"
+          },
+          {
+            "authorId": "2321719026",
+            "name": "Yuhang Han"
+          },
+          {
+            "authorId": "2453212920",
+            "name": "Wenxia Wang"
+          },
+          {
+            "authorId": "2383477266",
+            "name": "Yang Xu"
+          },
+          {
+            "authorId": "2372132079",
+            "name": "Zhiyu Wang"
+          },
+          {
+            "authorId": "2242590456",
+            "name": "Haijun Pang"
+          },
+          {
+            "authorId": "2272934543",
+            "name": "Haifeng Jia"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d4852e4c6956fbf6341abbed775d53b2541ae70d",
+        "externalIds": {
+          "DOI": "10.14569/ijacsa.2025.0160232",
+          "CorpusId": 276733013
+        },
+        "url": "https://www.semanticscholar.org/paper/d4852e4c6956fbf6341abbed775d53b2541ae70d",
+        "title": "Dialogue-Based Disease Diagnosis Using Hierarchical Reinforcement Learning with Multi-Expert Feedback",
+        "venue": "International Journal of Advanced Computer Science and Applications",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://thesai.org/Downloads/Volume16No2/Paper_32-Dialogue_Based_Disease_Diagnosis.pdf",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2349461512",
+            "name": "Shi Li"
+          },
+          {
+            "authorId": "2151433946",
+            "name": "Xueyao Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1882e0d7582c3cbd8b0cc6a8ff2809fdddfb56ee",
+        "externalIds": {
+          "DBLP": "journals/tim/YangYWHZYZC25",
+          "DOI": "10.1109/TIM.2025.3561435",
+          "CorpusId": 277882120
+        },
+        "url": "https://www.semanticscholar.org/paper/1882e0d7582c3cbd8b0cc6a8ff2809fdddfb56ee",
+        "title": "Multifunctional Pressure/Strain Sensor Based on Dual-Layer Mxene/TiO2/TPU and Its Application in Gesture Recognition",
+        "venue": "IEEE Transactions on Instrumentation and Measurement",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2075332671",
+            "name": "Ning Yang"
+          },
+          {
+            "authorId": "2311452953",
+            "name": "Xiangyu Yin"
+          },
+          {
+            "authorId": "2220917117",
+            "name": "Huifang Wang"
+          },
+          {
+            "authorId": "2303866032",
+            "name": "Yaping Hui"
+          },
+          {
+            "authorId": "2276208200",
+            "name": "Xue Zhou"
+          },
+          {
+            "authorId": "2238984545",
+            "name": "Xin Yan"
+          },
+          {
+            "authorId": "2151271658",
+            "name": "Yong Zhao"
+          },
+          {
+            "authorId": "2239083637",
+            "name": "Tonglei Cheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8c6c049dbba404ad034addf87214769b3d3f4043",
+        "externalIds": {
+          "DOI": "10.1016/j.measurement.2025.118359",
+          "CorpusId": 280303090
+        },
+        "url": "https://www.semanticscholar.org/paper/8c6c049dbba404ad034addf87214769b3d3f4043",
+        "title": "Gradient porous composite based capacitive pressure sensor with enhanced sensitivity and linear response",
+        "venue": "Measurement",
+        "year": 2025,
+        "citationCount": 21,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2241932583",
+            "name": "Liting Chen"
+          },
+          {
+            "authorId": "2241795594",
+            "name": "Bingying Zheng"
+          },
+          {
+            "authorId": "2131861746",
+            "name": "Shuting Li"
+          },
+          {
+            "authorId": "2356562519",
+            "name": "Haibin Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d2d3320dcf05c623e326994870cffdc742c242e7",
+        "externalIds": {
+          "DOI": "10.1039/d4ta03517h",
+          "CorpusId": 270773425
+        },
+        "url": "https://www.semanticscholar.org/paper/d2d3320dcf05c623e326994870cffdc742c242e7",
+        "title": "A self-cleaning intraoral flex-occlusometer based on superhydrophobic capacitive sensors for dental health monitoring",
+        "venue": "Journal of Materials Chemistry A",
+        "year": 2024,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2158356866",
+            "name": "Xin Sun"
+          },
+          {
+            "authorId": "2275186395",
+            "name": "Ziyi Dai"
+          },
+          {
+            "authorId": "2309141673",
+            "name": "ZiJie Zhang"
+          },
+          {
+            "authorId": "2222271860",
+            "name": "Xiaoli Fan"
+          },
+          {
+            "authorId": "2158227605",
+            "name": "Zhiwei Fu"
+          },
+          {
+            "authorId": "2264735047",
+            "name": "He Zhu"
+          },
+          {
+            "authorId": "2188889867",
+            "name": "Rong Cai"
+          },
+          {
+            "authorId": "2158279628",
+            "name": "Kai Qian"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "91860f6b4856fc2d63fb327d36519d890edb789f",
+        "externalIds": {
+          "DBLP": "journals/tim/ZhangGHLZZ24",
+          "DOI": "10.1109/TIM.2024.3488139",
+          "CorpusId": 273739636
+        },
+        "url": "https://www.semanticscholar.org/paper/91860f6b4856fc2d63fb327d36519d890edb789f",
+        "title": "Highly Stretchable Serpentine-Shaped Strain Sensor Based on 3-D Printing for Gestures Recognition",
+        "venue": "IEEE Transactions on Instrumentation and Measurement",
+        "year": 2024,
+        "citationCount": 9,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2290318500",
+            "name": "Peng Zhang"
+          },
+          {
+            "authorId": "2294347624",
+            "name": "Changbo Guo"
+          },
+          {
+            "authorId": "50055329",
+            "name": "Liangsong Huang"
+          },
+          {
+            "authorId": "2257099829",
+            "name": "Yuxia Li"
+          },
+          {
+            "authorId": "2119016654",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "2294674760",
+            "name": "Yu Zhang"
+          }
+        ]
+      }
+    }
+  ]
+}

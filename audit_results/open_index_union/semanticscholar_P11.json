@@ -1,0 +1,159 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "532f55e88a698b2fa61d78cc061417c9a730abb3",
+        "externalIds": {
+          "PubMedCentral": "13085803",
+          "DOI": "10.1021/acs.macromol.5c03515",
+          "CorpusId": 287133378,
+          "PubMed": "42007303"
+        },
+        "url": "https://www.semanticscholar.org/paper/532f55e88a698b2fa61d78cc061417c9a730abb3",
+        "title": "Molecular Mechanisms of Strength and Toughness in Slide-Ring Polymer Networks: Insights from Coarse-Grained Molecular Dynamics Simulations",
+        "venue": "Macromolecules",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-03",
+        "authors": [
+          {
+            "authorId": "2319181018",
+            "name": "Zihan Tang"
+          },
+          {
+            "authorId": "2003833963",
+            "name": "Weikang Xian"
+          },
+          {
+            "authorId": "2155506228",
+            "name": "Ying Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "externalIds": {
+          "DOI": "10.1080/19475411.2025.2582826",
+          "CorpusId": 283425223
+        },
+        "url": "https://www.semanticscholar.org/paper/a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "title": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+        "venue": "International Journal of Smart and Nano Materials",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1080/19475411.2025.2582826",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-10-02",
+        "authors": [
+          {
+            "authorId": "2319181018",
+            "name": "Zihan Tang"
+          },
+          {
+            "authorId": "2003833963",
+            "name": "Weikang Xian"
+          },
+          {
+            "authorId": "2325723653",
+            "name": "Jianxin He"
+          },
+          {
+            "authorId": "2057351436",
+            "name": "R. Long"
+          },
+          {
+            "authorId": "2155506228",
+            "name": "Ying Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "2aaff340c31e9b91b27937bf4c65a97b6bebd732",
+        "externalIds": {
+          "DOI": "10.1016/j.memsci.2025.124260",
+          "CorpusId": 278903492
+        },
+        "url": "https://www.semanticscholar.org/paper/2aaff340c31e9b91b27937bf4c65a97b6bebd732",
+        "title": "Mica Ionogels-Enhanced Electrospun Nafion Composite Membranes: Synergistic Proton Conduction and Mechanical Reinforcement for PEMFCs",
+        "venue": "Journal of Membrane Science",
+        "year": 2025,
+        "citationCount": 19,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-01",
+        "authors": [
+          {
+            "authorId": "2342009073",
+            "name": "Dandan Cai"
+          },
+          {
+            "authorId": "2285231754",
+            "name": "Yilin Zhou"
+          },
+          {
+            "authorId": "2226480571",
+            "name": "Bei Wang"
+          },
+          {
+            "authorId": "2363473876",
+            "name": "Yang Ke"
+          },
+          {
+            "authorId": "2288440803",
+            "name": "B. Xiao"
+          },
+          {
+            "authorId": "2295284823",
+            "name": "Lingxing Hu"
+          },
+          {
+            "authorId": "2397427026",
+            "name": "Qingting Liu"
+          },
+          {
+            "authorId": "47012570",
+            "name": "Xudong Fu"
+          },
+          {
+            "authorId": "2108785003",
+            "name": "Xiao Li"
+          },
+          {
+            "authorId": "123659425",
+            "name": "Kang Geng"
+          },
+          {
+            "authorId": "2237410196",
+            "name": "Nanwen Li"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "oci": "06203959956-06130892704",
+    "citing": "omid:br/06203959956 doi:10.1039/d2me00121g openalex:W4310790424",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2023",
+    "timespan": "P2Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0605943911-06130892704",
+    "citing": "omid:br/0605943911 doi:10.1007/s10118-025-3295-9 openalex:W4407740399",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2025-02-18",
+    "timespan": "P4Y6M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "061301909418-06130892704",
+    "citing": "omid:br/061301909418 doi:10.1039/d0sm90256j openalex:W3092720526 pmid:33399621",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2021",
+    "timespan": "P0Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062203432430-06130892704",
+    "citing": "omid:br/062203432430 doi:10.1016/j.compscitech.2022.109694 openalex:W4292685349",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2022-10",
+    "timespan": "P2Y2M",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062301818241-06130892704",
+    "citing": "omid:br/062301818241 doi:10.1002/pol.20210729 openalex:W3216024426",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2021-11-18",
+    "timespan": "P1Y3M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014819249-06130892704",
+    "citing": "omid:br/06014819249 doi:10.3390/nano16010052",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2025-12-30",
+    "timespan": "P5Y4M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062602629175-06130892704",
+    "citing": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2021-06-15",
+    "timespan": "P0Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06402468019-06130892704",
+    "citing": "omid:br/06402468019 doi:10.1021/acsanm.1c00365 openalex:W3155158923",
+    "cited": "omid:br/06130892704 doi:10.1016/j.compscitech.2020.108208 openalex:W3026571509",
+    "creation": "2021-04-16",
+    "timespan": "P0Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  }
+]

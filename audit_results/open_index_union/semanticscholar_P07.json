@@ -1,0 +1,532 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "ca0b37887743d2ecd32525fde04abf8ddcbcd057",
+        "externalIds": {
+          "DOI": "10.1016/j.nxmate.2026.102082",
+          "CorpusId": 287704424
+        },
+        "url": "https://www.semanticscholar.org/paper/ca0b37887743d2ecd32525fde04abf8ddcbcd057",
+        "title": "Eco-friendly synthesis of cus nanoparticles and their application in the functionalization of cotton fabric with integrated electrical conductivity and antimicrobial properties",
+        "venue": "Next Materials",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.nxmate.2026.102082",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-07-01",
+        "authors": [
+          {
+            "authorId": "2282717329",
+            "name": "A. Nayab Ul Hossain"
+          },
+          {
+            "authorId": "51307595",
+            "name": "Md. Sabbir Hossain"
+          },
+          {
+            "authorId": "96587234",
+            "name": "Salma Katun Sela"
+          },
+          {
+            "authorId": "9093023",
+            "name": "M. Jalil"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3222257194e9cd619e268e4dde0e57ca5ee78da4",
+        "externalIds": {
+          "PubMedCentral": "13153063",
+          "DOI": "10.3389/fchem.2026.1789689",
+          "CorpusId": 287821083,
+          "PubMed": "42109497"
+        },
+        "url": "https://www.semanticscholar.org/paper/3222257194e9cd619e268e4dde0e57ca5ee78da4",
+        "title": "Synergetic effects of silicon nanoparticles and multi-walled carbon nanotubes on the structural and dielectric properties of polystyrene-based nanocomposites",
+        "venue": "Frontiers in Chemistry",
+        "year": 2026,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://public-pages-files-2025.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2026.1789689/pdf",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-24",
+        "authors": [
+          {
+            "authorId": "2211981107",
+            "name": "María F. Cuenca-Lozano"
+          },
+          {
+            "authorId": "95757407",
+            "name": "H. Shirinova"
+          },
+          {
+            "authorId": "2330647788",
+            "name": "L. Gahramanli"
+          },
+          {
+            "authorId": "2404557278",
+            "name": "Flora Hajiyeva"
+          },
+          {
+            "authorId": "90239796",
+            "name": "S. Nuriyeva"
+          },
+          {
+            "authorId": "2343986181",
+            "name": "A. Karimova"
+          },
+          {
+            "authorId": "2368023652",
+            "name": "Eldar Gasimov"
+          },
+          {
+            "authorId": "2276704040",
+            "name": "F. H. Rzayev"
+          },
+          {
+            "authorId": "2431948781",
+            "name": "Aysel Ilgar Masimova"
+          },
+          {
+            "authorId": "2431946109",
+            "name": "Narmin Yashar Suleymanova"
+          },
+          {
+            "authorId": "92277148",
+            "name": "R. Ibaeva"
+          },
+          {
+            "authorId": "2330427424",
+            "name": "C. Vacacela Gomez"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b6e56322dcfda23162c549858e0822c25d92bb38",
+        "externalIds": {
+          "DOI": "10.1002/pen.70491",
+          "CorpusId": 286913345
+        },
+        "url": "https://www.semanticscholar.org/paper/b6e56322dcfda23162c549858e0822c25d92bb38",
+        "title": "Tailoring Static and Dynamic Properties in Natural Rubber Nanocomposites via Bidisperse Filler Architecture",
+        "venue": "Polymer Engineering &amp; Science",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-27",
+        "authors": [
+          {
+            "authorId": "2352460548",
+            "name": "Tianzi Zhang"
+          },
+          {
+            "authorId": "2270084585",
+            "name": "Fanlin Zeng"
+          },
+          {
+            "authorId": "2342462877",
+            "name": "Qing Li"
+          },
+          {
+            "authorId": "2341629827",
+            "name": "Hongyu Guo"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a34069b336d48447808ea82d7ce104ee222bcad7",
+        "externalIds": {
+          "PubMedCentral": "12787941",
+          "DOI": "10.3390/nano16010052",
+          "CorpusId": 284443976,
+          "PubMed": "41511248"
+        },
+        "url": "https://www.semanticscholar.org/paper/a34069b336d48447808ea82d7ce104ee222bcad7",
+        "title": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+        "venue": "Nanomaterials",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-30",
+        "authors": [
+          {
+            "authorId": "2402904162",
+            "name": "Chang Xu"
+          },
+          {
+            "authorId": "2361489486",
+            "name": "Yixuan Zhao"
+          },
+          {
+            "authorId": "2402100144",
+            "name": "Hualong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c96dd5fbf82e783366e0c25f760776d5341309da",
+        "externalIds": {
+          "DOI": "10.1016/j.bioadv.2025.214624",
+          "CorpusId": 283334834,
+          "PubMed": "41308530"
+        },
+        "url": "https://www.semanticscholar.org/paper/c96dd5fbf82e783366e0c25f760776d5341309da",
+        "title": "Smart and injectable hydrogels for cancer treatment and other biomedical applications.",
+        "venue": "Biomaterials Advances",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-11-23",
+        "authors": [
+          {
+            "authorId": "2394857116",
+            "name": "Kang Er Cheah"
+          },
+          {
+            "authorId": "2140256765",
+            "name": "Pauline Shan Qing Yeoh"
+          },
+          {
+            "authorId": "2262978",
+            "name": "K. Lai"
+          },
+          {
+            "authorId": "2163492430",
+            "name": "Shuilin Wu"
+          },
+          {
+            "authorId": "2366127331",
+            "name": "Farina Muhamad"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1cd5d6b0e0f3942904a78a3c7c00ddf54a82e1df",
+        "externalIds": {
+          "DOI": "10.20935/acadnano7993",
+          "CorpusId": 283134958
+        },
+        "url": "https://www.semanticscholar.org/paper/1cd5d6b0e0f3942904a78a3c7c00ddf54a82e1df",
+        "title": "Advances in polymer nanocomposite coatings for pipeline corrosion mitigation and structural durability",
+        "venue": "Academia Nano: Science, Materials, Technology",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.20935/acadnano7993",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-11-17",
+        "authors": [
+          {
+            "authorId": "2175495176",
+            "name": "L. Etonyeaku"
+          },
+          {
+            "authorId": "11938589",
+            "name": "J. Muthu"
+          },
+          {
+            "authorId": "2076048578",
+            "name": "G. Kabir"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "09134cf00e5b2eaacbba403103c86f179c793b98",
+        "externalIds": {
+          "DOI": "10.1016/j.commatsci.2024.113424",
+          "CorpusId": 272994009
+        },
+        "url": "https://www.semanticscholar.org/paper/09134cf00e5b2eaacbba403103c86f179c793b98",
+        "title": "Improved aggregation/agglomeration-dependent percolation theory to predict nanoparticle-aided electrical conductivity in polymer nanocomposites: A combination of analytical strategy and artificial neural network",
+        "venue": "Computational materials science",
+        "year": 2025,
+        "citationCount": 11,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-01-01",
+        "authors": [
+          {
+            "authorId": "2238307019",
+            "name": "Neda Azimi"
+          },
+          {
+            "authorId": "92981945",
+            "name": "E. Sharifzadeh"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "444e43922ed3c4ced604567868a4d1187c9f4e31",
+        "externalIds": {
+          "PubMedCentral": "10891544",
+          "DOI": "10.3390/polym16040545",
+          "CorpusId": 267851316,
+          "PubMed": "38399924"
+        },
+        "url": "https://www.semanticscholar.org/paper/444e43922ed3c4ced604567868a4d1187c9f4e31",
+        "title": "Advances in Monte Carlo Method for Simulating the Electrical Percolation Behavior of Conductive Polymer Composites with a Carbon-Based Filling",
+        "venue": "Polymers",
+        "year": 2024,
+        "citationCount": 46,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2073-4360/16/4/545/pdf?version=1708241454",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "Review",
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-02-01",
+        "authors": [
+          {
+            "authorId": "2286453793",
+            "name": "Zhe Zhang"
+          },
+          {
+            "authorId": "2268256204",
+            "name": "Liang Hu"
+          },
+          {
+            "authorId": "2151035994",
+            "name": "Rui Wang"
+          },
+          {
+            "authorId": "1481702489",
+            "name": "Shujie Zhang"
+          },
+          {
+            "authorId": "2051815810",
+            "name": "Lisong Fu"
+          },
+          {
+            "authorId": "2145678837",
+            "name": "Mengxuan Li"
+          },
+          {
+            "authorId": "2338108397",
+            "name": "Qingwei Xiao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "efd6522c3e9b88063cdeef59dfdd7bc3de0bbe5a",
+        "externalIds": {
+          "DOI": "10.1021/acsnano.3c06207",
+          "CorpusId": 264347260,
+          "PubMed": "37857269"
+        },
+        "url": "https://www.semanticscholar.org/paper/efd6522c3e9b88063cdeef59dfdd7bc3de0bbe5a",
+        "title": "Photothermal Lithography for Realizing a Stretchable Multilayer Electronic Circuit Using a Laser.",
+        "venue": "ACS Nano",
+        "year": 2023,
+        "citationCount": 26,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-10-19",
+        "authors": [
+          {
+            "authorId": "2260826923",
+            "name": "Sangmin Song"
+          },
+          {
+            "authorId": "2260646796",
+            "name": "Hyejun Hong"
+          },
+          {
+            "authorId": "2149235744",
+            "name": "Kyung Yeun Kim"
+          },
+          {
+            "authorId": "2256585676",
+            "name": "Kyun Kyu Kim"
+          },
+          {
+            "authorId": "2306469179",
+            "name": "Jaewoo Kim"
+          },
+          {
+            "authorId": "2015123809",
+            "name": "Daeyeon Won"
+          },
+          {
+            "authorId": "2271369984",
+            "name": "S. Yun"
+          },
+          {
+            "authorId": "1409906497",
+            "name": "Joonhwa Choi"
+          },
+          {
+            "authorId": "2087900130",
+            "name": "Young‐In Ryu"
+          },
+          {
+            "authorId": "2115395977",
+            "name": "K. Lee"
+          },
+          {
+            "authorId": "2256750423",
+            "name": "Jaeho Park"
+          },
+          {
+            "authorId": "2165647276",
+            "name": "Joohyuk Kang"
+          },
+          {
+            "authorId": "92788092",
+            "name": "J. Bang"
+          },
+          {
+            "authorId": "12111853",
+            "name": "Hyunseon Seo"
+          },
+          {
+            "authorId": "2260846171",
+            "name": "Yu-Chan Kim"
+          },
+          {
+            "authorId": "50403357",
+            "name": "Daeho Lee"
+          },
+          {
+            "authorId": "2266712254",
+            "name": "Haechang Lee"
+          },
+          {
+            "authorId": "2130355413",
+            "name": "Jinwoo Lee"
+          },
+          {
+            "authorId": "2244622887",
+            "name": "Suk‐Won Hwang"
+          },
+          {
+            "authorId": "2237786743",
+            "name": "S. Ko"
+          },
+          {
+            "authorId": "2839899",
+            "name": "H. Jeon"
+          },
+          {
+            "authorId": "13281685",
+            "name": "Wonryung Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "4ff9d6962523bb9f4b292b465d262c658a2fd0e8",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2021.124413",
+          "CorpusId": 244762198
+        },
+        "url": "https://www.semanticscholar.org/paper/4ff9d6962523bb9f4b292b465d262c658a2fd0e8",
+        "title": "Stretchable silver@CNT-poly(vinyl alcohol) films with efficient electromagnetic shielding prepared by polydopamine functionalization",
+        "venue": "Polymer",
+        "year": 2021,
+        "citationCount": 20,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2021-11-01",
+        "authors": [
+          {
+            "authorId": "2117227788",
+            "name": "W. Shen"
+          },
+          {
+            "authorId": "51420984",
+            "name": "D. Estevez"
+          },
+          {
+            "authorId": "2145934146",
+            "name": "Liping Zhou"
+          },
+          {
+            "authorId": "1725437998",
+            "name": "Peng Xu"
+          },
+          {
+            "authorId": "143704034",
+            "name": "F. Qin"
+          }
+        ]
+      }
+    }
+  ]
+}
