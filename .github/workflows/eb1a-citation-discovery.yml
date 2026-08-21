@@ -5,13 +5,13 @@ on:
     branches:
       - eb1a-citation-audit-20260821
     paths:
-      - scripts/eb1a_discover.py
+      - scripts/eb1a_fetch_fast.py
       - .github/workflows/eb1a-citation-discovery.yml
   pull_request:
     branches:
       - main
     paths:
-      - scripts/eb1a_discover.py
+      - scripts/eb1a_fetch_fast.py
       - .github/workflows/eb1a-citation-discovery.yml
   workflow_dispatch:
 
@@ -24,7 +24,7 @@ env:
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
     steps:
       - name: Check out temporary branch
         uses: actions/checkout@v4
@@ -37,16 +37,16 @@ jobs:
       - name: Install retrieval dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install requests beautifulsoup4 lxml scholarly
+          python -m pip install requests beautifulsoup4 lxml
 
-      - name: Discover citation data routes and retrieve open-index citation lists
-        run: python scripts/eb1a_discover.py
+      - name: Retrieve citation lists from all accessible scholarly indexes
+        run: python scripts/eb1a_fetch_fast.py
 
-      - name: Upload raw discovery output
+      - name: Upload raw retrieval output
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: eb1a-citation-discovery-output
-          path: audit_output/
+          name: eb1a-citation-retrieval-output
+          path: audit_output_fast/
           if-no-files-found: warn
           retention-days: 7
