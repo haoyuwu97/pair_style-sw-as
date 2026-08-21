@@ -1,0 +1,36 @@
+name: EB1A Direct Scholar Crawl (Temporary)
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - scripts/scholar_crawl_all.py
+      - .github/workflows/eb1a-scholar-direct.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install browser
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Crawl Scholar cited-by result pages
+        run: python scripts/scholar_crawl_all.py
+      - name: Upload Scholar result pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-direct-scholar-crawl
+          path: scholar_crawl_output/
+          if-no-files-found: warn
+          retention-days: 7
