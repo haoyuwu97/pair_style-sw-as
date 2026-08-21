@@ -1,4 +1,4 @@
-name: EB1A Source Metadata and Open Citation Union (Temporary)
+name: EB1A Source Metadata, Open Citation Union and Exact Scholar Audit (Temporary)
 
 on:
   pull_request:
@@ -6,6 +6,7 @@ on:
     paths:
       - scripts/eb1a_source_metadata.py
       - scripts/eb1a_fetch_fast.py
+      - scripts/eb1a_scholar_exact.py
       - .github/workflows/eb1a-source-metadata.yml
   push:
     branches:
@@ -13,6 +14,7 @@ on:
     paths:
       - scripts/eb1a_source_metadata.py
       - scripts/eb1a_fetch_fast.py
+      - scripts/eb1a_scholar_exact.py
       - .github/workflows/eb1a-source-metadata.yml
   workflow_dispatch:
 
@@ -22,7 +24,7 @@ permissions:
 jobs:
   retrieve:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,12 +35,15 @@ jobs:
         run: python scripts/eb1a_source_metadata.py
       - name: Retrieve complete OpenAlex, Semantic Scholar and OpenCitations incoming-citation lists
         run: python scripts/eb1a_fetch_fast.py
+      - name: Retrieve exact Scholar cited-by result pages conservatively
+        run: python scripts/eb1a_scholar_exact.py
       - if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: eb1a-source-metadata-and-open-index-union
+          name: eb1a-complete-citation-audit-raw
           path: |
             source_metadata_output/
             audit_output_fast/
+            scholar_exact_output/
           if-no-files-found: warn
           retention-days: 7
