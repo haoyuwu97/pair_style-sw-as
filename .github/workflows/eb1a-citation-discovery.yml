@@ -7,6 +7,12 @@ on:
     paths:
       - scripts/eb1a_discover.py
       - .github/workflows/eb1a-citation-discovery.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/eb1a_discover.py
+      - .github/workflows/eb1a-citation-discovery.yml
   workflow_dispatch:
 
 permissions:
