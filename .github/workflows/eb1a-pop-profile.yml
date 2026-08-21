@@ -1,0 +1,29 @@
+name: EB1A Publish or Perish Profile (Temporary)
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - scripts/run_pop_profile.sh
+      - .github/workflows/eb1a-pop-profile.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pop-profile:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run official Publish or Perish CLI
+        run: bash scripts/run_pop_profile.sh
+      - name: Upload PoP diagnostics and profile JSON
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-pop-profile-output
+          path: pop_profile_output/
+          if-no-files-found: warn
+          retention-days: 7
