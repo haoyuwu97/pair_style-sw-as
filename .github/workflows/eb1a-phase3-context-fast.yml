@@ -1,0 +1,47 @@
+name: EB1A Phase 3 Fast Citation Context Candidates (Temporary)
+
+on:
+  push:
+    branches:
+      - eb1a-phase3-isolated-20260822
+    paths:
+      - scripts/eb1a_phase3_context_fast.py
+      - .github/workflows/eb1a-phase3-context-fast.yml
+  pull_request:
+    branches:
+      - eb1a-citation-audit-20260821
+    paths:
+      - scripts/eb1a_phase3_context_fast.py
+      - .github/workflows/eb1a-phase3-context-fast.yml
+  workflow_dispatch:
+
+concurrency:
+  group: eb1a-phase3-context-fast-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  contexts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: eb1a-phase3-isolated-20260822
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install context-audit dependencies
+        run: python -m pip install --upgrade pip requests rapidfuzz beautifulsoup4 lxml pymupdf
+      - name: Retrieve full text and map citation-context candidates
+        run: python scripts/eb1a_phase3_context_fast.py
+      - name: Upload context candidates
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-phase3-context-fast-output
+          path: audit_output_phase3_context_fast/
+          if-no-files-found: warn
+          retention-days: 7

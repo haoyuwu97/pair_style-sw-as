@@ -1,0 +1,17 @@
+{
+  "generated_utc": "2026-08-22T07:22:34Z",
+  "phase2_unresolved_targets": 73,
+  "resolved_by_api": 66,
+  "still_unresolved": 7,
+  "target_results": {
+    "Author metadata incomplete | Unresolved": 7,
+    "Fully independent | Verified": 66
+  },
+  "methodology": [
+    "The 73 Phase 2 unresolved Edge_IDs were sent to OpenAlex with Crossref DOI fallback.",
+    "Verified coauthor-network overlap requires an OpenAlex author ID or ORCID match; full-name-only overlap is probable.",
+    "A full API author list with no source-author overlap is classified as verified independent.",
+    "Target results are merged into the immutable 299-edge Phase 2 master by Edge_ID.",
+    "This is a research audit, not legal advice."
+  ]
+}
