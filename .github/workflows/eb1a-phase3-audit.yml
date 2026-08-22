@@ -8,6 +8,13 @@ on:
       - scripts/eb1a_phase3_bundle.py
       - audit_inputs/phase3_bundle/**
       - .github/workflows/eb1a-phase3-audit.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/eb1a_phase3_bundle.py
+      - audit_inputs/phase3_bundle/**
+      - .github/workflows/eb1a-phase3-audit.yml
   workflow_dispatch:
 
 permissions:
