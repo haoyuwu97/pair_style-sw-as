@@ -15,19 +15,40 @@ SCRIPT_PARTS = [
     "phase3_script.part01.b64",
 ]
 SEED_PARTS = [
-    "phase3_seed.part00.b64",
-    "phase3_seed.part01.b64",
+    "phase3_seed_v2.part00.b64",
+    "phase3_seed_v2.part01.b64",
+    "phase3_seed_v2.part02.b64",
+    "phase3_seed_v2.part03.b64",
+    "phase3_seed_v2.part04.b64",
+    "phase3_seed_v2.part05.b64",
+    "phase3_seed_v2.part06.b64",
+    "phase3_seed_v2.part07.b64",
 ]
 
 EXPECTED_SCRIPT_SHA256 = "ee0abf4ea08dcda082f6fa146517c6d0dacf334701e20c11d725fce2c9b4948f"
 EXPECTED_SEED_SHA256 = "2017fdd9404ab688b5f1794d842cdf1d9c988d39abfeb7ba9dbe8bc667a6666c"
+EXPECTED_SEED_B64_SHA256 = "08971407358013542566c35d3ed841ec01f3215c7b177d0eeb5e0ed2563fbd84"
 EXPECTED_SCRIPT_BYTES = 39058
 EXPECTED_SEED_BYTES = 91326
 
 
-def decode_bundle(parts: list[str]) -> bytes:
+def read_encoded(parts: list[str]) -> str:
     encoded = "".join((BUNDLE / part).read_text(encoding="utf-8") for part in parts)
-    encoded = re.sub(r"\s+", "", encoded)
+    return re.sub(r"\s+", "", encoded)
+
+
+def decode_bundle(parts: list[str], expected_b64_sha256: str | None = None) -> bytes:
+    encoded = read_encoded(parts)
+    encoded_sha256 = hashlib.sha256(encoded.encode("ascii")).hexdigest()
+    print(
+        f"Read {len(parts)} bundle parts: {len(encoded)} base64 characters, "
+        f"sha256={encoded_sha256}"
+    )
+    if expected_b64_sha256 and encoded_sha256 != expected_b64_sha256:
+        raise RuntimeError(
+            "Encoded bundle SHA-256 mismatch: "
+            f"expected {expected_b64_sha256}, got {encoded_sha256}"
+        )
     return zlib.decompress(base64.b64decode(encoded, validate=True))
 
 
@@ -46,7 +67,7 @@ def verify(data: bytes, expected_bytes: int, expected_sha256: str, label: str) -
 
 def main() -> None:
     script_data = decode_bundle(SCRIPT_PARTS)
-    seed_data = decode_bundle(SEED_PARTS)
+    seed_data = decode_bundle(SEED_PARTS, EXPECTED_SEED_B64_SHA256)
 
     verify(script_data, EXPECTED_SCRIPT_BYTES, EXPECTED_SCRIPT_SHA256, "Phase 3 script")
     verify(seed_data, EXPECTED_SEED_BYTES, EXPECTED_SEED_SHA256, "Phase 3 seed")
