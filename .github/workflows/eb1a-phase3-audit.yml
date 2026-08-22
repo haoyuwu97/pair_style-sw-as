@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   audit:
@@ -23,6 +23,9 @@ jobs:
     timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: eb1a-phase3-isolated-20260822
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -32,6 +35,19 @@ jobs:
         env:
           OPENALEX_MAILTO: m18129227366@163.com
         run: python scripts/eb1a_phase3_bundle.py
+      - name: Persist successful Phase 3 output to isolated branch
+        if: success()
+        run: |
+          rm -rf audit_results/phase3
+          mkdir -p audit_results/phase3
+          cp -a audit_output_phase3/. audit_results/phase3/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit_results/phase3
+          if ! git diff --cached --quiet; then
+            git commit -m "Persist EB-1A Phase 3 audit results"
+            git push origin HEAD:eb1a-phase3-isolated-20260822
+          fi
       - name: Upload Phase 3 output
         if: always()
         uses: actions/upload-artifact@v4
