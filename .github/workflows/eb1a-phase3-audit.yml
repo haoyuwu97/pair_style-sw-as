@@ -10,12 +10,16 @@ on:
       - .github/workflows/eb1a-phase3-audit.yml
   pull_request:
     branches:
-      - main
+      - eb1a-citation-audit-20260821
     paths:
       - scripts/eb1a_phase3_bundle.py
       - audit_inputs/phase3_bundle/**
       - .github/workflows/eb1a-phase3-audit.yml
   workflow_dispatch:
+
+concurrency:
+  group: eb1a-phase3-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
