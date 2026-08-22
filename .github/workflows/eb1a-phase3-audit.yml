@@ -3,14 +3,7 @@ name: EB1A Phase 3 Metadata and Context Audit (Temporary)
 on:
   push:
     branches:
-      - eb1a-citation-audit-20260821
-    paths:
-      - scripts/eb1a_phase3_bundle.py
-      - audit_inputs/phase3_bundle/**
-      - .github/workflows/eb1a-phase3-audit.yml
-  pull_request:
-    branches:
-      - eb1a-citation-audit-20260821
+      - eb1a-phase3-isolated-20260822
     paths:
       - scripts/eb1a_phase3_bundle.py
       - audit_inputs/phase3_bundle/**
@@ -18,7 +11,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: eb1a-phase3-${{ github.ref }}
+  group: eb1a-phase3-isolated
   cancel-in-progress: true
 
 permissions:
