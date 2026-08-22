@@ -1,6 +1,11 @@
 name: EB1A Package Persisted Citation Data (Temporary)
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - .github/workflows/eb1a-source-metadata.yml
   push:
     branches:
       - eb1a-citation-audit-20260821
