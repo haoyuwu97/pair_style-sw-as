@@ -1,0 +1,1129 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "64b7ae5852cbaf0e60add8236a8a9781d15e08d7",
+        "externalIds": {
+          "DOI": "10.1002/mame.70288",
+          "CorpusId": 290379392
+        },
+        "url": "https://www.semanticscholar.org/paper/64b7ae5852cbaf0e60add8236a8a9781d15e08d7",
+        "title": "Recent Developments in Compatibilization Strategies for Polymer Blends and Nanocomposites",
+        "venue": "Macromolecular materials and engineering (Print)",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/mame.70288",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-07-01",
+        "authors": [
+          {
+            "authorId": "2451513359",
+            "name": "Minoo Ahmadi"
+          },
+          {
+            "authorId": "1446506119",
+            "name": "Seyedeh‐Arefeh Safavi‐Mirmahalleh"
+          },
+          {
+            "authorId": "143854142",
+            "name": "M. Hosseini"
+          },
+          {
+            "authorId": "2290805284",
+            "name": "Mehdi Salami‐Kalajahi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b28cc7b7b4cd55b765867696b02983a14d5f4f7f",
+        "externalIds": {
+          "DOI": "10.1002/app.71018",
+          "CorpusId": 289380228
+        },
+        "url": "https://www.semanticscholar.org/paper/b28cc7b7b4cd55b765867696b02983a14d5f4f7f",
+        "title": "PTC\n Behavior Based on Thermomechanical Properties in Graphene Nanosheets/Silicone Rubber Nanocomposites",
+        "venue": "Journal of Applied Polymer Science",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-15",
+        "authors": [
+          {
+            "authorId": "4009365",
+            "name": "Fan-Di Meng"
+          },
+          {
+            "authorId": "153258684",
+            "name": "Bi Wu"
+          },
+          {
+            "authorId": "2358862259",
+            "name": "Xiaoguang Yang"
+          },
+          {
+            "authorId": "2287014099",
+            "name": "Peng Wang"
+          },
+          {
+            "authorId": "5248668",
+            "name": "Haitao Ma"
+          },
+          {
+            "authorId": "2301724085",
+            "name": "Deli Duan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1288120f9ec66603580374a9dc7789d712c63a4b",
+        "externalIds": {
+          "DOI": "10.1002/app.70941",
+          "CorpusId": 288866545
+        },
+        "url": "https://www.semanticscholar.org/paper/1288120f9ec66603580374a9dc7789d712c63a4b",
+        "title": "Electromechanical Coupling Mechanisms of Conductive Rubber: From Conductive Network Evolution to Predictive Structure–Property Frameworks",
+        "venue": "Journal of Applied Polymer Science",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-06-01",
+        "authors": [
+          {
+            "authorId": "2280470258",
+            "name": "Zhiqiang Rao"
+          },
+          {
+            "authorId": "2308306503",
+            "name": "Qihang Dai"
+          },
+          {
+            "authorId": "2288877066",
+            "name": "Haojie Wang"
+          },
+          {
+            "authorId": "2388665550",
+            "name": "Zuochao Yang"
+          },
+          {
+            "authorId": "2440139265",
+            "name": "Zhongjie Wang"
+          },
+          {
+            "authorId": "2115854080",
+            "name": "Yiwan Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b6d2a7e1a647f251ddc754d1aead900d9c0aac24",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2026.130281",
+          "CorpusId": 288678128
+        },
+        "url": "https://www.semanticscholar.org/paper/b6d2a7e1a647f251ddc754d1aead900d9c0aac24",
+        "title": "High alignment and high loading composite fibers enabled by ultralong polymers",
+        "venue": "Polymer",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-05-01",
+        "authors": [
+          {
+            "authorId": "2303026669",
+            "name": "Jingwen Ni"
+          },
+          {
+            "authorId": "2294668255",
+            "name": "Yiwei Zhang"
+          },
+          {
+            "authorId": "1596489069",
+            "name": "Zheqi Chen"
+          },
+          {
+            "authorId": "2367039793",
+            "name": "Shengxiang Yang"
+          },
+          {
+            "authorId": "2149237734",
+            "name": "Zhen Xu"
+          },
+          {
+            "authorId": "80659147",
+            "name": "Senping Liu"
+          },
+          {
+            "authorId": "25628499",
+            "name": "Youhua Xiao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "99968313745a9352d7b8e018d049038d04c6ab28",
+        "externalIds": {
+          "DOI": "10.1016/j.conbuildmat.2026.146022",
+          "CorpusId": 286845299
+        },
+        "url": "https://www.semanticscholar.org/paper/99968313745a9352d7b8e018d049038d04c6ab28",
+        "title": "Study on the mechanism of hydroxylated carbon nanotubes enhancing the high temperature performance of SBS asphalt by nano-bridging",
+        "venue": "Construction and Building Materials",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-01",
+        "authors": [
+          {
+            "authorId": "2108102000",
+            "name": "Yugui Liu"
+          },
+          {
+            "authorId": "2109446600",
+            "name": "Xiaoyu Yang"
+          },
+          {
+            "authorId": "2212243070",
+            "name": "Junan Shen"
+          },
+          {
+            "authorId": "2315855232",
+            "name": "Siyu Wu"
+          },
+          {
+            "authorId": "2292988105",
+            "name": "Haochen Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a48148caa5bc3eb54ceb6706e9de15a01f3bdb35",
+        "externalIds": {
+          "PubMedCentral": "13082792",
+          "DOI": "10.1016/j.commatsci.2026.114661",
+          "CorpusId": 286713076,
+          "PubMed": "41993709"
+        },
+        "url": "https://www.semanticscholar.org/paper/a48148caa5bc3eb54ceb6706e9de15a01f3bdb35",
+        "title": "Nanoasperity-Driven Reinforcement and Viscoelastic Modulation in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Study",
+        "venue": "Computational materials science",
+        "year": 2026,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.commatsci.2026.114661",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-19",
+        "authors": [
+          {
+            "authorId": "2368625453",
+            "name": "Haoyu Wang"
+          },
+          {
+            "authorId": "2249946040",
+            "name": "Zhangke Yang"
+          },
+          {
+            "authorId": "2297635581",
+            "name": "Ji Yang"
+          },
+          {
+            "authorId": "2250013076",
+            "name": "Zhaoxu Meng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a7486a073e2ce3181386890992905b15fa246537",
+        "externalIds": {
+          "DOI": "10.1016/j.nanoen.2026.111782",
+          "CorpusId": 285585417
+        },
+        "url": "https://www.semanticscholar.org/paper/a7486a073e2ce3181386890992905b15fa246537",
+        "title": "Anodic Interfacial Challenges and Engineering Strategies in Solid-State Lithium Batteries with Composite Polymer Solid Electrolytes",
+        "venue": "Nano Energy",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-02-01",
+        "authors": [
+          {
+            "authorId": "2179624588",
+            "name": "Jiayao Luo"
+          },
+          {
+            "authorId": "2249720243",
+            "name": "Panpan Lin"
+          },
+          {
+            "authorId": "2144524265",
+            "name": "Ce Wang"
+          },
+          {
+            "authorId": "2262418641",
+            "name": "Tong Wu"
+          },
+          {
+            "authorId": "2268248790",
+            "name": "Peng He"
+          },
+          {
+            "authorId": "2089235132",
+            "name": "Fugang Lu"
+          },
+          {
+            "authorId": "2211567038",
+            "name": "Tiesong Lin"
+          },
+          {
+            "authorId": "50812168",
+            "name": "Naiqing Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "47ef8ea8a12e161d40bd4dffa86b5fa4a3837f09",
+        "externalIds": {
+          "DOI": "10.1007/s10853-025-11901-7",
+          "CorpusId": 283661246
+        },
+        "url": "https://www.semanticscholar.org/paper/47ef8ea8a12e161d40bd4dffa86b5fa4a3837f09",
+        "title": "Effect of nanoparticle shape on interfacial debonding and plastic response in polymer nanocomposites",
+        "venue": "Journal of Materials Science",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-04",
+        "authors": [
+          {
+            "authorId": "2396933671",
+            "name": "Yi Xu"
+          },
+          {
+            "authorId": "2298350225",
+            "name": "Sujuan Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "960b783b3f5ebbf49dbdf2c28c5ffab248b81aa2",
+        "externalIds": {
+          "DOI": "10.1016/j.mechmat.2025.105423",
+          "CorpusId": 280272470
+        },
+        "url": "https://www.semanticscholar.org/paper/960b783b3f5ebbf49dbdf2c28c5ffab248b81aa2",
+        "title": "Process-induced residual stress in non-crimp fabric composites: Experimental and numerical evaluation considering viscoelasticity",
+        "venue": "Mechanics of materials (Print)",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.mechmat.2025.105423",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-10-01",
+        "authors": [
+          {
+            "authorId": "2358691891",
+            "name": "Sera Koo"
+          },
+          {
+            "authorId": "2090903766",
+            "name": "Yamato Hoshikawa"
+          },
+          {
+            "authorId": "2239193487",
+            "name": "Yoshiaki Kawagoe"
+          },
+          {
+            "authorId": "1471295572",
+            "name": "Kazuki Ryuzono"
+          },
+          {
+            "authorId": "2239193002",
+            "name": "Tomonaga Okabe"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "53ecb9291a1571ee68a0cd46078204b8e8a52fa6",
+        "externalIds": {
+          "DOI": "10.1007/s00339-025-08815-1",
+          "CorpusId": 280818466
+        },
+        "url": "https://www.semanticscholar.org/paper/53ecb9291a1571ee68a0cd46078204b8e8a52fa6",
+        "title": "Effect of calcination temperature on the structural, magnetic, and surface characteristics of quaternary CaFe₂O₄/CuFe₂O₄/ZnFe₂O₄/NiFe₂O₄ ferrite nanocomposites",
+        "venue": "Applied Physics A",
+        "year": 2025,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-08-21",
+        "authors": [
+          {
+            "authorId": "113149672",
+            "name": "A. Manohar"
+          },
+          {
+            "authorId": "2258543052",
+            "name": "Ki Hyeon Kim"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "637590e33e3a27bce431342acf7674a35a6cf8e9",
+        "externalIds": {
+          "DOI": "10.1016/j.commatsci.2025.114070",
+          "CorpusId": 279834542
+        },
+        "url": "https://www.semanticscholar.org/paper/637590e33e3a27bce431342acf7674a35a6cf8e9",
+        "title": "Temperature effect on the AuNP-PE interfacial confinement and the underlying physics",
+        "venue": "Computational materials science",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-08-01",
+        "authors": [
+          {
+            "authorId": "21527539",
+            "name": "Faling Zhang"
+          },
+          {
+            "authorId": "48738016",
+            "name": "Guotong Wang"
+          },
+          {
+            "authorId": "2139405143",
+            "name": "Ruijie Wang"
+          },
+          {
+            "authorId": "2116552738",
+            "name": "Li-Yan Wang"
+          },
+          {
+            "authorId": "2347544983",
+            "name": "Jun Xia"
+          },
+          {
+            "authorId": "2184333957",
+            "name": "Chun Tang"
+          },
+          {
+            "authorId": "48586829",
+            "name": "Chengyuan Wang"
+          },
+          {
+            "authorId": "2257335285",
+            "name": "Weiguo Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "338cb4747bef1288551ba470724eb34f67f57387",
+        "externalIds": {
+          "PubMedCentral": "12298799",
+          "DOI": "10.3390/nano15141060",
+          "CorpusId": 280031814,
+          "PubMed": "40711179"
+        },
+        "url": "https://www.semanticscholar.org/paper/338cb4747bef1288551ba470724eb34f67f57387",
+        "title": "Rheological Behavior of Poly(Styrene-Co-Acrylonitrile)/Carbon Nanotube Sponges for Fiber Electrospinning Applications",
+        "venue": "Nanomaterials",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/nano15141060",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-07-01",
+        "authors": [
+          {
+            "authorId": "1659233819",
+            "name": "Rubén Caro-Briones"
+          },
+          {
+            "authorId": "2372125641",
+            "name": "Marco Antonio Pérez-Castillo"
+          },
+          {
+            "authorId": "2333798053",
+            "name": "Hugo Martínez-Gutiérrez"
+          },
+          {
+            "authorId": "1402375932",
+            "name": "E. Muñoz‐Sandoval"
+          },
+          {
+            "authorId": "1447115376",
+            "name": "Gabriela Martínez-Mejía"
+          },
+          {
+            "authorId": "2284241544",
+            "name": "Lazaro Ruiz-Virgen"
+          },
+          {
+            "authorId": "2266965550",
+            "name": "M. Corea"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "750774caedad10b733c1b2586a2645647f4d1b0d",
+        "externalIds": {
+          "DOI": "10.1002/pc.70021",
+          "CorpusId": 279273620
+        },
+        "url": "https://www.semanticscholar.org/paper/750774caedad10b733c1b2586a2645647f4d1b0d",
+        "title": "Comparative Analysis of Nickel‐Coated Graphite, Graphite, and Nickel in PLA/TPU Blends: Advancements in Compatibility, Conductivity, and Rheology",
+        "venue": "Polymer Composites",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pc.70021",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-06-09",
+        "authors": [
+          {
+            "authorId": "2169720400",
+            "name": "Zuhal Yurtbasi"
+          },
+          {
+            "authorId": "2366269638",
+            "name": "Z. Keskin"
+          },
+          {
+            "authorId": "2364234035",
+            "name": "Ahmet Hakan Cinar"
+          },
+          {
+            "authorId": "92619535",
+            "name": "Alper Kasgoz"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8cea8497472915816189fdfc427198c889cd8c9e",
+        "externalIds": {
+          "DOI": "10.1007/s42114-025-01330-0",
+          "CorpusId": 279058400
+        },
+        "url": "https://www.semanticscholar.org/paper/8cea8497472915816189fdfc427198c889cd8c9e",
+        "title": "Development of energy-efficient polymers by using conductive nanohybrid fillers: recent progress and future prospects",
+        "venue": "Advanced Composites and Hybrid Materials",
+        "year": 2025,
+        "citationCount": 11,
+        "openAccessPdf": {
+          "url": "https://link.springer.com/content/pdf/10.1007/s42114-025-01330-0.pdf",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-05-31",
+        "authors": [
+          {
+            "authorId": "2364619264",
+            "name": "S. Mametja"
+          },
+          {
+            "authorId": "2364621740",
+            "name": "M. Mabuza"
+          },
+          {
+            "authorId": "2364623714",
+            "name": "E. Sadiku"
+          },
+          {
+            "authorId": "2349693845",
+            "name": "R. Mohlamonyane"
+          },
+          {
+            "authorId": "90859801",
+            "name": "J. Sefadi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "74e06f62894c566cc7f759a2a381f5e9cdd174d0",
+        "externalIds": {
+          "DOI": "10.1002/smll.202406479",
+          "CorpusId": 273587574,
+          "PubMed": "39449213"
+        },
+        "url": "https://www.semanticscholar.org/paper/74e06f62894c566cc7f759a2a381f5e9cdd174d0",
+        "title": "Nanoimprinting of Crosslinked Polyurethane / Polycaprolactone Blends: Scratch Recovery of Surface Topographies.",
+        "venue": "Small",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-10-24",
+        "authors": [
+          {
+            "authorId": "2197967354",
+            "name": "Chitrakala Ramasamy"
+          },
+          {
+            "authorId": "2319392022",
+            "name": "J. Tan"
+          },
+          {
+            "authorId": "2282671079",
+            "name": "Hong Yee Low"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a7b013f03b156e3aca72f7e3474734c196b62fbf",
+        "externalIds": {
+          "DOI": "10.1002/pc.28792",
+          "CorpusId": 271371046
+        },
+        "url": "https://www.semanticscholar.org/paper/a7b013f03b156e3aca72f7e3474734c196b62fbf",
+        "title": "Enhancing the photostability and mechanical properties of poly‐lactic acid (PLA) composites with glutaric acid functionalized titanium dioxide (TiO2)",
+        "venue": "Polymer Composites",
+        "year": 2024,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-07-21",
+        "authors": [
+          {
+            "authorId": "1419190792",
+            "name": "M. Peña-Juárez"
+          },
+          {
+            "authorId": "2312609885",
+            "name": "B. A. V. Balderas"
+          },
+          {
+            "authorId": "2228662693",
+            "name": "A. Almendárez-Camarillo"
+          },
+          {
+            "authorId": "1412929687",
+            "name": "E. Gutiérrez-Castañeda"
+          },
+          {
+            "authorId": "1404361136",
+            "name": "L. López-Zamora"
+          },
+          {
+            "authorId": "1402949308",
+            "name": "J. A. González-Calderón"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "36ffc54c76a00876119a9b215c0630604c287be0",
+        "externalIds": {
+          "DOI": "10.1016/j.compositesb.2024.111680",
+          "CorpusId": 270883452
+        },
+        "url": "https://www.semanticscholar.org/paper/36ffc54c76a00876119a9b215c0630604c287be0",
+        "title": "Dispersion Strategy Improves the Mechanical Properties of 3D-Printed Biopolymer Nanocomposite",
+        "venue": "Composites Part B: Engineering",
+        "year": 2024,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.compositesb.2024.111680",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-07-01",
+        "authors": [
+          {
+            "authorId": "50202781",
+            "name": "D. Mondal"
+          },
+          {
+            "authorId": "2306495611",
+            "name": "Thomas L. Willett"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "d4e698feddd01f8c83a7f909f3c9cd2c8fa85fdf",
+        "externalIds": {
+          "DOI": "10.1021/acsapm.4c00601",
+          "CorpusId": 269832732
+        },
+        "url": "https://www.semanticscholar.org/paper/d4e698feddd01f8c83a7f909f3c9cd2c8fa85fdf",
+        "title": "Insights into the Synergistic Effect of Graphene Oxide/Silica Hybrid Nanofiller for Advancing the Properties of Epoxy Resin",
+        "venue": "ACS Applied Polymer Materials",
+        "year": 2024,
+        "citationCount": 21,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-05-13",
+        "authors": [
+          {
+            "authorId": "152203374",
+            "name": "Jesiya Susan George"
+          },
+          {
+            "authorId": "16161411",
+            "name": "P. vijayan P."
+          },
+          {
+            "authorId": "91073605",
+            "name": "M. Ponçot"
+          },
+          {
+            "authorId": "22282636",
+            "name": "H. Vahabi"
+          },
+          {
+            "authorId": "3515532",
+            "name": "Hanna J. Maria"
+          },
+          {
+            "authorId": "2256786557",
+            "name": "Sabu Thomas"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "223fd5f2f2f53731db783d6a6770e47b578c0194",
+        "externalIds": {
+          "PubMedCentral": "10844572",
+          "DOI": "10.1016/j.heliyon.2024.e25442",
+          "CorpusId": 267356341,
+          "PubMed": "38322924"
+        },
+        "url": "https://www.semanticscholar.org/paper/223fd5f2f2f53731db783d6a6770e47b578c0194",
+        "title": "Enhancing the dielectric and thermal properties of polytetrafluoroethylene-based composites through designing and constructing a novel interfacial structure",
+        "venue": "Heliyon",
+        "year": 2024,
+        "citationCount": 11,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.heliyon.2024.e25442",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-01-29",
+        "authors": [
+          {
+            "authorId": "2282195226",
+            "name": "Xin Li"
+          },
+          {
+            "authorId": "2004691132",
+            "name": "Jie Shen"
+          },
+          {
+            "authorId": "48129004",
+            "name": "Jing Zhou"
+          },
+          {
+            "authorId": "2282434595",
+            "name": "Changqing Zhu"
+          },
+          {
+            "authorId": "2281419562",
+            "name": "Wen Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0d37ca7d9ba184850f3aea7cf7888db4dcfd74f9",
+        "externalIds": {
+          "DOI": "10.1016/j.compstruct.2023.117679",
+          "CorpusId": 264806912
+        },
+        "url": "https://www.semanticscholar.org/paper/0d37ca7d9ba184850f3aea7cf7888db4dcfd74f9",
+        "title": "Impacts of nanofiller shapes on the interface confinement effect in polymer nanocomposites",
+        "venue": "Composite structures",
+        "year": 2023,
+        "citationCount": 7,
+        "openAccessPdf": {
+          "url": "https://cronfa.swan.ac.uk/Record/cronfa64897",
+          "status": "GREEN",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-10-01",
+        "authors": [
+          {
+            "authorId": "48738016",
+            "name": "Guotong Wang"
+          },
+          {
+            "authorId": "2139405143",
+            "name": "Ruijie Wang"
+          },
+          {
+            "authorId": "2116552738",
+            "name": "Li-Yan Wang"
+          },
+          {
+            "authorId": "48586829",
+            "name": "Chengyuan Wang"
+          },
+          {
+            "authorId": "21527539",
+            "name": "Faling Zhang"
+          },
+          {
+            "authorId": "2287318117",
+            "name": "Ziyu Wang"
+          },
+          {
+            "authorId": "2118763007",
+            "name": "Chunmi Tang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7e94582ab857a670c9a3c918465acb1399bef24a",
+        "externalIds": {
+          "DOI": "10.1002/pc.27529",
+          "CorpusId": 259563313
+        },
+        "url": "https://www.semanticscholar.org/paper/7e94582ab857a670c9a3c918465acb1399bef24a",
+        "title": "Stress relaxation and thermal management in highly filled flexible styrene butadiene styrene copolymer‐tungsten composites for high‐energy radiation attenuation",
+        "venue": "Polymer Composites",
+        "year": 2023,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-07-06",
+        "authors": [
+          {
+            "authorId": "151222572",
+            "name": "S. Suman"
+          },
+          {
+            "authorId": "2252341326",
+            "name": "R. Sharma"
+          },
+          {
+            "authorId": "51004079",
+            "name": "B. N. Kaul"
+          },
+          {
+            "authorId": "104254128",
+            "name": "R. Mondal"
+          },
+          {
+            "authorId": "145141553",
+            "name": "K. A. Dubey"
+          },
+          {
+            "authorId": "2157850328",
+            "name": "S. Sharma"
+          },
+          {
+            "authorId": "117247049",
+            "name": "Y. K. Bhardwaj"
+          },
+          {
+            "authorId": "92317879",
+            "name": "M. Kulkarni"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "418d38a8c9a895e9786ac12fd2b0f84dbe8a8a89",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2022.125200",
+          "CorpusId": 251433453
+        },
+        "url": "https://www.semanticscholar.org/paper/418d38a8c9a895e9786ac12fd2b0f84dbe8a8a89",
+        "title": "Reinforcement of boron–nitrogen coordinated polyurethane elastomers with silica nanoparticles",
+        "venue": "Polymer",
+        "year": 2022,
+        "citationCount": 23,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2022-08-01",
+        "authors": [
+          {
+            "authorId": "2153938022",
+            "name": "Wenjuan Zhou"
+          },
+          {
+            "authorId": "145994025",
+            "name": "Shihong Ren"
+          },
+          {
+            "authorId": "2153305351",
+            "name": "Fan Zhang"
+          },
+          {
+            "authorId": "1390869555",
+            "name": "Xingchen Gao"
+          },
+          {
+            "authorId": "2113261794",
+            "name": "K. Song"
+          },
+          {
+            "authorId": "117125573",
+            "name": "Huagao Fang"
+          },
+          {
+            "authorId": "7625364",
+            "name": "Yunsheng Ding"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a6731d51dc0d8d2889466239e863dfb6d509a23f",
+        "externalIds": {
+          "DOI": "10.1039/d6lf00054a",
+          "CorpusId": 288205327
+        },
+        "url": "https://www.semanticscholar.org/paper/a6731d51dc0d8d2889466239e863dfb6d509a23f",
+        "title": "Buried interfacial structures in cellulose-reinforced styrene–butadiene rubber composites probed by sum-frequency generation spectroscopy",
+        "venue": "RSC Applied Interfaces",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2026/lf/d6lf00054a",
+          "status": "GOLD",
+          "license": "CCBYNC"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "48816363",
+            "name": "Tatsuki Abe"
+          },
+          {
+            "authorId": "6118330",
+            "name": "R. Ozawa"
+          },
+          {
+            "authorId": "152913736",
+            "name": "Tomofumi Maekawa"
+          },
+          {
+            "authorId": "2351063091",
+            "name": "Yuta Tsuji"
+          },
+          {
+            "authorId": "2148417549",
+            "name": "Satoru Yamamoto"
+          },
+          {
+            "authorId": "2239917760",
+            "name": "Keiji Tanaka"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b8982e166f86904368c44eab5a1b15ae92c175eb",
+        "externalIds": {
+          "DOI": "10.1016/j.icheatmasstransfer.2026.111568",
+          "CorpusId": 288647537
+        },
+        "url": "https://www.semanticscholar.org/paper/b8982e166f86904368c44eab5a1b15ae92c175eb",
+        "title": "Molecular dynamics study of temperature and pressure effects on the mechanical properties of graphene oxide -reinforced DETDA/DGEBA epoxy",
+        "venue": "International Communications in Heat and Mass Transfer",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "3335783",
+            "name": "Xiaoming You"
+          },
+          {
+            "authorId": "2265298666",
+            "name": "Jialin Li"
+          },
+          {
+            "authorId": "2145653916",
+            "name": "Mahmut Taner"
+          },
+          {
+            "authorId": "1774284",
+            "name": "S. Salahshour"
+          },
+          {
+            "authorId": "2379863002",
+            "name": "N. Emami"
+          },
+          {
+            "authorId": "2363020647",
+            "name": "Mustafa Bayram"
+          }
+        ]
+      }
+    }
+  ]
+}

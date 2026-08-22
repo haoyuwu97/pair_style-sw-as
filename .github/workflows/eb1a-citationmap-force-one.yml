@@ -1,0 +1,30 @@
+name: EB1A CitationMap Forced Refresh (Temporary)
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - scripts/citationmap_force_one.py
+      - .github/workflows/eb1a-citationmap-force-one.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install requests
+      - run: python scripts/citationmap_force_one.py
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-citationmap-force-one
+          path: citationmap_force_one_output/
+          retention-days: 7

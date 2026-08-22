@@ -1,0 +1,65 @@
+[
+  {
+    "oci": "062602679290-062602629175",
+    "citing": "omid:br/062602679290 doi:10.1016/j.polymer.2021.124413 openalex:W3217652920",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2022-01",
+    "timespan": "P0Y6M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06204654244-062602629175",
+    "citing": "omid:br/06204654244 doi:10.3390/polym16040545 openalex:W4391961147",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2024-02-18",
+    "timespan": "P2Y8M3D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "062504337462-062602629175",
+    "citing": "omid:br/062504337462 doi:10.1021/acsnano.3c06207 openalex:W4387769250",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "",
+    "timespan": "",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014570450-062602629175",
+    "citing": "omid:br/06014570450 doi:10.20935/acadnano7993",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2025-11-17",
+    "timespan": "P4Y5M2D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014819249-062602629175",
+    "citing": "omid:br/06014819249 doi:10.3390/nano16010052",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2025-12-30",
+    "timespan": "P4Y6M15D",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06014891912-062602629175",
+    "citing": "omid:br/06014891912 doi:10.1016/j.bioadv.2025.214624",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2026-03",
+    "timespan": "P4Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06029445123-062602629175",
+    "citing": "omid:br/06029445123 pmid:38399924",
+    "cited": "omid:br/062602629175 doi:10.3390/ma14123301 openalex:W3169339161 pmid:34203759",
+    "creation": "2024",
+    "timespan": "P2Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  }
+]

@@ -1,0 +1,35 @@
+name: EB1A Package Persisted Citation Data (Temporary)
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - .github/workflows/eb1a-source-metadata.yml
+  push:
+    branches:
+      - eb1a-citation-audit-20260821
+    paths:
+      - .github/workflows/eb1a-source-metadata.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify persisted citation files
+        run: |
+          test -d audit_results/open_index_union
+          find audit_results/open_index_union -maxdepth 1 -type f -printf '%f\n' | sort
+      - name: Upload persisted open-index union
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-open-index-union
+          path: audit_results/open_index_union/
+          if-no-files-found: error
+          retention-days: 7

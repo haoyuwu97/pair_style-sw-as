@@ -1,0 +1,408 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "dc5418d747d74e20211fa02e50886fe57b8876c3",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2026.130529",
+          "CorpusId": 290301460
+        },
+        "url": "https://www.semanticscholar.org/paper/dc5418d747d74e20211fa02e50886fe57b8876c3",
+        "title": "Molecular dynamics study of local interfacial fusion and carbon black redistribution in CB/PCL/TPU composite material under image-shape laser sintering",
+        "venue": "Polymer",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-09-01",
+        "authors": [
+          {
+            "authorId": "2168993811",
+            "name": "Haoyu Zhang"
+          },
+          {
+            "authorId": "2333132791",
+            "name": "Yanling Guo"
+          },
+          {
+            "authorId": "2276181074",
+            "name": "Wei Zhao"
+          },
+          {
+            "authorId": "2314416921",
+            "name": "Wen Zhao"
+          },
+          {
+            "authorId": "2151964444",
+            "name": "Jian Li"
+          },
+          {
+            "authorId": "2275354092",
+            "name": "Hong Zhang"
+          },
+          {
+            "authorId": "2297505132",
+            "name": "Yifan Guo"
+          },
+          {
+            "authorId": "2451014138",
+            "name": "Hangfei Cheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a34069b336d48447808ea82d7ce104ee222bcad7",
+        "externalIds": {
+          "PubMedCentral": "12787941",
+          "DOI": "10.3390/nano16010052",
+          "CorpusId": 284443976,
+          "PubMed": "41511248"
+        },
+        "url": "https://www.semanticscholar.org/paper/a34069b336d48447808ea82d7ce104ee222bcad7",
+        "title": "Morphology-Dependent Percolation and Conductive Network Formation in Polymer Nanocomposites with Multi-Shaped Nanofillers",
+        "venue": "Nanomaterials",
+        "year": 2025,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-30",
+        "authors": [
+          {
+            "authorId": "2402904162",
+            "name": "Chang Xu"
+          },
+          {
+            "authorId": "2361489486",
+            "name": "Yixuan Zhao"
+          },
+          {
+            "authorId": "2402100144",
+            "name": "Hualong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f0fbda5e626372644a2ec56506b872d25164de84",
+        "externalIds": {
+          "DOI": "10.1007/s10118-025-3295-9",
+          "CorpusId": 276495964
+        },
+        "url": "https://www.semanticscholar.org/paper/f0fbda5e626372644a2ec56506b872d25164de84",
+        "title": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+        "venue": "Chinese Journal of Polymer Science",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-02-18",
+        "authors": [
+          {
+            "authorId": "2346419402",
+            "name": "Shaolong Liu"
+          },
+          {
+            "authorId": "2369892721",
+            "name": "Tang Sui"
+          },
+          {
+            "authorId": "2346884042",
+            "name": "Shuang Xu"
+          },
+          {
+            "authorId": "2346454901",
+            "name": "Xiaoke Xu"
+          },
+          {
+            "authorId": "2281381182",
+            "name": "Giuseppe Milano"
+          },
+          {
+            "authorId": "2346431216",
+            "name": "Ying Zhao"
+          },
+          {
+            "authorId": "2116514284",
+            "name": "Youliang Zhu"
+          },
+          {
+            "authorId": "115342389",
+            "name": "Baohong Cao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "add821ecd6d636967cba1e062332ddc02c1e8311",
+        "externalIds": {
+          "DOI": "10.1016/j.compscitech.2022.109694",
+          "CorpusId": 251788526
+        },
+        "url": "https://www.semanticscholar.org/paper/add821ecd6d636967cba1e062332ddc02c1e8311",
+        "title": "Manipulating the percolated network of nanorods in polymer matrix by adding non-conductive nanospheres: A molecular dynamics simulation",
+        "venue": "Composites Science And Technology",
+        "year": 2022,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2022-08-01",
+        "authors": [
+          {
+            "authorId": "145904596",
+            "name": "Haoyu Wu"
+          },
+          {
+            "authorId": "2113550811",
+            "name": "Ruibin Ma"
+          },
+          {
+            "authorId": "2108773957",
+            "name": "Yimin Wang"
+          },
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "ce00ffe68145ea2fb8292cf8cf88ca5c1931c56a",
+        "externalIds": {
+          "DOI": "10.1002/pol.20210729",
+          "CorpusId": 244450717
+        },
+        "url": "https://www.semanticscholar.org/paper/ce00ffe68145ea2fb8292cf8cf88ca5c1931c56a",
+        "title": "Conductivity of diblock copolymer system filled with conducting nano‐particles: Effect of copolymer morphology",
+        "venue": "Journal of Polymer Science",
+        "year": 2021,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2021-11-18",
+        "authors": [
+          {
+            "authorId": "3548085",
+            "name": "A. Chervanyov"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "53d9a063829c0ac30623b4fd4fbcb3e287f0fcbc",
+        "externalIds": {
+          "PubMedCentral": "8232767",
+          "DOI": "10.3390/ma14123301",
+          "CorpusId": 235645273,
+          "PubMed": "34203759"
+        },
+        "url": "https://www.semanticscholar.org/paper/53d9a063829c0ac30623b4fd4fbcb3e287f0fcbc",
+        "title": "Percolated Network of Mixed Nanoparticles with Different Sizes in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Simulation",
+        "venue": "Materials",
+        "year": 2021,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/1996-1944/14/12/3301/pdf?version=1623852575",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2021-06-01",
+        "authors": [
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2143953557",
+            "name": "Yun Nie"
+          },
+          {
+            "authorId": "2261841637",
+            "name": "Haoxiang Li"
+          },
+          {
+            "authorId": "145904596",
+            "name": "Haoyu Wu"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "4dd508701d6d60b1734deda5f4808a6cc29efd53",
+        "externalIds": {
+          "MAG": "3155158923",
+          "DOI": "10.1021/ACSANM.1C00365",
+          "CorpusId": 234815663
+        },
+        "url": "https://www.semanticscholar.org/paper/4dd508701d6d60b1734deda5f4808a6cc29efd53",
+        "title": "Boron Nitride Nanotubes for Heat Dissipation in Polycaprolactone Composites",
+        "venue": "ACS Applied Nano Materials",
+        "year": 2021,
+        "citationCount": 14,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2021-04-16",
+        "authors": [
+          {
+            "authorId": "5297402",
+            "name": "T. Pietri"
+          },
+          {
+            "authorId": "144054144",
+            "name": "B. Wiley"
+          },
+          {
+            "authorId": "46475076",
+            "name": "J. Simonato"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "12d773c8bb0d1b1b28774795b9b6b4e5de122733",
+        "externalIds": {
+          "DOI": "10.1039/d0sm90256j",
+          "CorpusId": 230668248,
+          "PubMed": "33399621"
+        },
+        "url": "https://www.semanticscholar.org/paper/12d773c8bb0d1b1b28774795b9b6b4e5de122733",
+        "title": "Correction: Synergistic effect in improving the electrical conductivity in polymer nanocomposites by mixing spherical and rod-shaped fillers.",
+        "venue": "Soft Matter",
+        "year": 2021,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1039/d0sm90256j",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": null,
+        "publicationDate": "2021-01-05",
+        "authors": [
+          {
+            "authorId": "104635584",
+            "name": "Fan-fei Qu"
+          },
+          {
+            "authorId": "2153199548",
+            "name": "Wei Sun"
+          },
+          {
+            "authorId": "2145731598",
+            "name": "Bin Li"
+          },
+          {
+            "authorId": "153196340",
+            "name": "Fanzhu Li"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          },
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c2f0d3b4df31602bc2154756cad2611a2ee962ef",
+        "externalIds": {
+          "DOI": "10.1039/d2me00121g",
+          "CorpusId": 253312186
+        },
+        "url": "https://www.semanticscholar.org/paper/c2f0d3b4df31602bc2154756cad2611a2ee962ef",
+        "title": "Structure and properties of polymer/two-dimensional nanomaterials studied via molecular dynamics simulation: a review",
+        "venue": "Molecular Systems Design &amp; Engineering",
+        "year": 2022,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2189892389",
+            "name": "Meng Zhou"
+          },
+          {
+            "authorId": "40478976",
+            "name": "J. Liu"
+          },
+          {
+            "authorId": "2189975544",
+            "name": "Li Zhang"
+          }
+        ]
+      }
+    }
+  ]
+}

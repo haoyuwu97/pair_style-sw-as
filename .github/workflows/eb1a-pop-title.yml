@@ -1,0 +1,27 @@
+name: EB1A Publish or Perish Title Test (Temporary)
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - scripts/run_pop_title_test.sh
+      - .github/workflows/eb1a-pop-title.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pop-title:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash scripts/run_pop_title_test.sh
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eb1a-pop-title-output
+          path: pop_title_output/
+          if-no-files-found: warn
+          retention-days: 7

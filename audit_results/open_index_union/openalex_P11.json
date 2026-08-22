@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "https://openalex.org/W4410726238",
+    "doi": "https://doi.org/10.1016/j.memsci.2025.124260",
+    "title": "Mica ionogels-enhanced electrospun Nafion composite membranes: Synergistic proton conduction and mechanical reinforcement for PEMFCs",
+    "display_name": "Mica ionogels-enhanced electrospun Nafion composite membranes: Synergistic proton conduction and mechanical reinforcement for PEMFCs",
+    "publication_year": 2025,
+    "publication_date": "2025-05-25",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5013921358",
+          "display_name": "Dandan Cai",
+          "orcid": "https://orcid.org/0000-0001-5004-7075"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dandan Cai",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100554794",
+          "display_name": "Yilin Zhou",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yilin Zhou",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100349968",
+          "display_name": "Bei Wang",
+          "orcid": "https://orcid.org/0009-0002-6647-7410"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bei Wang",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5008853972",
+          "display_name": "Ke Yang",
+          "orcid": "https://orcid.org/0000-0002-7586-3789"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yang Ke",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Bokun Xiao",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bokun Xiao",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100756298",
+          "display_name": "Ling Hu",
+          "orcid": "https://orcid.org/0000-0001-5754-0508"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lingxing Hu",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5026833202",
+          "display_name": "Qingting Liu",
+          "orcid": "https://orcid.org/0000-0002-5926-2748"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Qingting Liu",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5926-2748",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5025432659",
+          "display_name": "Xudong Fu",
+          "orcid": "https://orcid.org/0000-0002-5948-9539"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74525822",
+            "display_name": "Hubei University of Technology",
+            "ror": "https://ror.org/02d3fj342",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xudong Fu",
+        "raw_affiliation_strings": [
+          "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hubei Provincial Key Laboratory of Green Materials for Light Industry, School of Materials and Chemical Engineering, Hubei University of Technology, Wuhan, 430068, China",
+            "institution_ids": [
+              "https://openalex.org/I74525822"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100705373",
+          "display_name": "Xiao Li",
+          "orcid": "https://orcid.org/0000-0001-9392-3864"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210159903",
+            "display_name": "Institute of Coal Chemistry",
+            "ror": "https://ror.org/05j73fd60",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiao Li",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+          "Wuhan Troowin Power System Technology Co., Ltd., Wuhan, 430079, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+            "institution_ids": [
+              "https://openalex.org/I4210159903"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Wuhan Troowin Power System Technology Co., Ltd., Wuhan, 430079, China",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Xiao Li",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210159903",
+            "display_name": "Institute of Coal Chemistry",
+            "ror": "https://ror.org/05j73fd60",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Xiao Li",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+          "Wuhan Troowin Power System Technology Co., Ltd., Wuhan, 430079, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+            "institution_ids": [
+              "https://openalex.org/I4210159903"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Wuhan Troowin Power System Technology Co., Ltd., Wuhan, 430079, China",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5115444878",
+          "display_name": "Kang Geng",
+          "orcid": "https://orcid.org/0000-0002-4250-7366"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210159903",
+            "display_name": "Institute of Coal Chemistry",
+            "ror": "https://ror.org/05j73fd60",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Kang Geng",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+            "institution_ids": [
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5037657302",
+          "display_name": "Nanwen Li",
+          "orcid": "https://orcid.org/0000-0002-2191-8123"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210159903",
+            "display_name": "Institute of Coal Chemistry",
+            "ror": "https://ror.org/05j73fd60",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Nanwen Li",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2191-8123",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Coal Conversion, Institute of Coal Chemistry, Chinese Academy of Sciences, Taiyuan, 030001, China",
+            "institution_ids": [
+              "https://openalex.org/I4210159903"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.memsci.2025.124260",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.memsci.2025.124260",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S119469986",
+        "display_name": "Journal of Membrane Science",
+        "issn_l": "0376-7388",
+        "issn": [
+          "0376-7388",
+          "1873-3123"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Membrane Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4410726238",
+      "doi": "https://doi.org/10.1016/j.memsci.2025.124260"
+    },
+    "cited_by_count": 21
+  },
+  {
+    "id": "https://openalex.org/W4416718898",
+    "doi": "https://doi.org/10.1080/19475411.2025.2582826",
+    "title": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+    "display_name": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+    "publication_year": 2025,
+    "publication_date": "2025-10-02",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101833712",
+          "display_name": "Zihan Tang",
+          "orcid": "https://orcid.org/0009-0006-9278-2493"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zihan Tang",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087977944",
+          "display_name": "Weikang Xian",
+          "orcid": "https://orcid.org/0000-0002-6802-651X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Weikang Xian",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100324415",
+          "display_name": "Jianxin He",
+          "orcid": "https://orcid.org/0000-0001-5704-5937"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianxin He",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5074530048",
+          "display_name": "Rong Long",
+          "orcid": "https://orcid.org/0000-0001-8992-2420"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I188538660",
+            "display_name": "University of Colorado Boulder",
+            "ror": "https://ror.org/02ttsq026",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I188538660"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2802236040",
+            "display_name": "University of Colorado System",
+            "ror": "https://ror.org/00jc20583",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2802236040"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rong Long",
+        "raw_affiliation_strings": [
+          "University of Colorado Boulder",
+          "Department of Mechanical Engineering, University of Colorado Boulder, Boulder, CO, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Colorado Boulder",
+            "institution_ids": [
+              "https://openalex.org/I188538660",
+              "https://openalex.org/I2802236040"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Colorado Boulder, Boulder, CO, USA",
+            "institution_ids": [
+              "https://openalex.org/I188538660"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100414156",
+          "display_name": "Ying Li",
+          "orcid": "https://orcid.org/0000-0002-1487-3350"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Li",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison",
+          "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1080/19475411.2025.2582826",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/19475411.2025.2582826",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S93280953",
+        "display_name": "International Journal of Smart and Nano Materials",
+        "issn_l": "1947-5411",
+        "issn": [
+          "1947-5411",
+          "1947-542X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Smart and Nano Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1080/19475411.2025.2582826",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4416718898",
+      "doi": "https://doi.org/10.1080/19475411.2025.2582826"
+    },
+    "cited_by_count": 16
+  },
+  {
+    "id": "https://openalex.org/W4412590891",
+    "doi": "https://doi.org/10.1016/b978-0-443-24854-2.00005-x",
+    "title": "Polymer nanocomposites: Outstanding properties, bonds, interface, and reinforcement mechanisms",
+    "display_name": "Polymer nanocomposites: Outstanding properties, bonds, interface, and reinforcement mechanisms",
+    "publication_year": 2025,
+    "publication_date": "2025-01-01",
+    "type": "book-chapter",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5102682519",
+          "display_name": "Akinnike Felicia Akinyemi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I186771145",
+            "display_name": "Covenant University",
+            "ror": "https://ror.org/00frr1n84",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Akinnike Felicia Akinyemi",
+        "raw_affiliation_strings": [
+          "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria",
+            "institution_ids": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035630922",
+          "display_name": "Ezinne Chinonye Igbokwe",
+          "orcid": "https://orcid.org/0000-0003-4302-3272"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I186771145",
+            "display_name": "Covenant University",
+            "ror": "https://ror.org/00frr1n84",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ezinne Chinonye Igbokwe",
+        "raw_affiliation_strings": [
+          "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria",
+            "institution_ids": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5089759990",
+          "display_name": "Oluranti Agboola",
+          "orcid": "https://orcid.org/0000-0003-4951-972X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I137616099",
+            "display_name": "Tshwane University of Technology",
+            "ror": "https://ror.org/037mrss42",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I137616099"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I186771145",
+            "display_name": "Covenant University",
+            "ror": "https://ror.org/00frr1n84",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ],
+        "countries": [
+          "NG",
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Oluranti Agboola",
+        "raw_affiliation_strings": [
+          "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria",
+          "Department of Chemical, Metallurgical and Materials Engineering, Tshwane University of Technology, Pretoria, South Africa"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria",
+            "institution_ids": [
+              "https://openalex.org/I186771145"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemical, Metallurgical and Materials Engineering, Tshwane University of Technology, Pretoria, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I137616099"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5050081137",
+          "display_name": "Olagoke Oladokun",
+          "orcid": "https://orcid.org/0000-0002-2232-4087"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I186771145",
+            "display_name": "Covenant University",
+            "ror": "https://ror.org/00frr1n84",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Olagoke Abimbola Oladokun",
+        "raw_affiliation_strings": [
+          "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical Engineering, Covenant University, Ota, Ogun State, Nigeria",
+            "institution_ids": [
+              "https://openalex.org/I186771145"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/b978-0-443-24854-2.00005-x",
+      "is_oa": false,
+      "landing_page_url": "https://www.sciencedirect.com/science/article/pii/B978044324854200005X/pdf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306463230",
+        "display_name": "Elsevier eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Design of Functional Polymer Nanocomposites",
+      "raw_type": "book-chapter"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4412590891",
+      "doi": "https://doi.org/10.1016/b978-0-443-24854-2.00005-x"
+    },
+    "cited_by_count": 1
+  },
+  {
+    "id": "https://openalex.org/W7149035504",
+    "doi": "https://doi.org/10.1021/acs.macromol.5c03515",
+    "title": "Molecular Mechanisms of Strength and Toughness in Slide-Ring Polymer Networks: Insights from Coarse-Grained Molecular Dynamics Simulations",
+    "display_name": "Molecular Mechanisms of Strength and Toughness in Slide-Ring Polymer Networks: Insights from Coarse-Grained Molecular Dynamics Simulations",
+    "publication_year": 2026,
+    "publication_date": "2026-04-03",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5032270517",
+          "display_name": "Zihan Tang",
+          "orcid": "https://orcid.org/0000-0001-6428-4370"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zihan Tang",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering",
+          "University of Wisconsin-Madison"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087977944",
+          "display_name": "Weikang Xian",
+          "orcid": "https://orcid.org/0000-0002-6802-651X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Weikang Xian",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering",
+          "University of Wisconsin-Madison"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6802-651X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100414156",
+          "display_name": "Ying Li",
+          "orcid": "https://orcid.org/0000-0002-1487-3350"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Li",
+        "raw_affiliation_strings": [
+          "Department of Mechanical Engineering",
+          "University of Wisconsin-Madison"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1487-3350",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mechanical Engineering",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acs.macromol.5c03515",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1021/acs.macromol.5c03515",
+      "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.macromol.5c03515?ref=article_openPDF",
+      "source": {
+        "id": "https://openalex.org/S177196338",
+        "display_name": "Macromolecules",
+        "issn_l": "0024-9297",
+        "issn": [
+          "0024-9297",
+          "1520-5835"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Macromolecules",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.macromol.5c03515?ref=article_openPDF",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7149035504",
+      "doi": "https://doi.org/10.1021/acs.macromol.5c03515",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/42007303"
+    },
+    "cited_by_count": 1
+  }
+]

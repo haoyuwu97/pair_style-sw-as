@@ -1,0 +1,315 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "93c6997a2a200d0bc511ddc5a21f18486350714b",
+        "externalIds": {
+          "DOI": "10.1021/acsami.6c02746",
+          "CorpusId": 289188535,
+          "PubMed": "42276735"
+        },
+        "url": "https://www.semanticscholar.org/paper/93c6997a2a200d0bc511ddc5a21f18486350714b",
+        "title": "In Situ Decoding of Vitrimer Topological Evolution: A Non-Invasive, External Stress-Free Approach via Hierarchical CNT Sensing Networks.",
+        "venue": "ACS Applied Materials and Interfaces",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-06-11",
+        "authors": [
+          {
+            "authorId": "25056601",
+            "name": "H. Dai"
+          },
+          {
+            "authorId": "2279214075",
+            "name": "Baoyu Du"
+          },
+          {
+            "authorId": "2341455681",
+            "name": "Yubo Zhao"
+          },
+          {
+            "authorId": "2442152391",
+            "name": "Jieyang Qiu"
+          },
+          {
+            "authorId": "2181485650",
+            "name": "Jianpeng Mou"
+          },
+          {
+            "authorId": "2287109462",
+            "name": "Kun Peng"
+          },
+          {
+            "authorId": "2267877030",
+            "name": "Shuai Liu"
+          },
+          {
+            "authorId": "2265464433",
+            "name": "Yunsheng Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "08b636fe926634384d697178381058a9598f85cc",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.5c03283",
+          "CorpusId": 287375303
+        },
+        "url": "https://www.semanticscholar.org/paper/08b636fe926634384d697178381058a9598f85cc",
+        "title": "Multiscale Simulation of Multicomponent Polyurethane Elastomers: Unraveling Composition-Dependent Microphase Separation Dynamics and Mechanical Properties",
+        "venue": "Macromolecules",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-10",
+        "authors": [
+          {
+            "authorId": "2296624846",
+            "name": "Yujiang Meng"
+          },
+          {
+            "authorId": "2296573093",
+            "name": "Xionghui Wu"
+          },
+          {
+            "authorId": "2260013759",
+            "name": "Anqiang Zhang"
+          },
+          {
+            "authorId": "7892658",
+            "name": "Yaling Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "74dd32e81ddb48c839d5e9fc584c742067255ee6",
+        "externalIds": {
+          "DOI": "10.1016/j.compositesb.2025.113184",
+          "CorpusId": 282977912
+        },
+        "url": "https://www.semanticscholar.org/paper/74dd32e81ddb48c839d5e9fc584c742067255ee6",
+        "title": "Damage and self-healing behaviors in aircraft-grade carbon fiber reinforced vitrimer unidirectional laminates containing exchangeable disulfide crosslinks",
+        "venue": "Composites Part B: Engineering",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.compositesb.2025.113184",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-11-01",
+        "authors": [
+          {
+            "authorId": "2260418677",
+            "name": "R. Higuchi"
+          },
+          {
+            "authorId": "2392173514",
+            "name": "Manato Kumada"
+          },
+          {
+            "authorId": "1752670734",
+            "name": "Yu Zusho"
+          },
+          {
+            "authorId": "2260423246",
+            "name": "T. Yokozeki"
+          },
+          {
+            "authorId": "2277962974",
+            "name": "Takaya Suzuki"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "externalIds": {
+          "DOI": "10.1080/19475411.2025.2582826",
+          "CorpusId": 283425223
+        },
+        "url": "https://www.semanticscholar.org/paper/a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "title": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+        "venue": "International Journal of Smart and Nano Materials",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1080/19475411.2025.2582826",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-10-02",
+        "authors": [
+          {
+            "authorId": "2319181018",
+            "name": "Zihan Tang"
+          },
+          {
+            "authorId": "2003833963",
+            "name": "Weikang Xian"
+          },
+          {
+            "authorId": "2325723653",
+            "name": "Jianxin He"
+          },
+          {
+            "authorId": "2057351436",
+            "name": "R. Long"
+          },
+          {
+            "authorId": "2155506228",
+            "name": "Ying Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f165224f1585201f41930535c177f8c24672df18",
+        "externalIds": {
+          "DOI": "10.1016/j.progpolymsci.2025.102026",
+          "CorpusId": 281578304
+        },
+        "url": "https://www.semanticscholar.org/paper/f165224f1585201f41930535c177f8c24672df18",
+        "title": "Towards the Next Development of Vitrimers: Recent Key Topics for the Practical Application and Understanding of the Fundamental Physics",
+        "venue": "Progress in polymer science",
+        "year": 2025,
+        "citationCount": 30,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.progpolymsci.2025.102026",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-09-01",
+        "authors": [
+          {
+            "authorId": "2329197597",
+            "name": "M. Hayashi"
+          },
+          {
+            "authorId": "14691291",
+            "name": "Ralm G. Ricarte"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "9789088f2b2c5d57bff18a9d75931ef4219554ca",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2025.128961",
+          "CorpusId": 280732920
+        },
+        "url": "https://www.semanticscholar.org/paper/9789088f2b2c5d57bff18a9d75931ef4219554ca",
+        "title": "High-Performance Bio-Based Epoxy Vitrimers with Tunable Thermal, Mechanical Properties and Recyclability",
+        "venue": "Polymer",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-08-01",
+        "authors": [
+          {
+            "authorId": "2237382986",
+            "name": "Mei-Hui Zhou"
+          },
+          {
+            "authorId": "2204312495",
+            "name": "Javier Gómez Sánchez"
+          },
+          {
+            "authorId": "2377231478",
+            "name": "Zong-Quan Zhao"
+          },
+          {
+            "authorId": "2380008609",
+            "name": "Wen Ye"
+          },
+          {
+            "authorId": "2125538662",
+            "name": "Silvia González Prolongo"
+          },
+          {
+            "authorId": "2268229522",
+            "name": "De‐Yi Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "94dbc01c070d5f8ccacacf5358587a8dbfe8e904",
+        "externalIds": {
+          "DOI": "10.1021/acsmacrolett.4c00783",
+          "CorpusId": 275930260,
+          "PubMed": "39869918"
+        },
+        "url": "https://www.semanticscholar.org/paper/94dbc01c070d5f8ccacacf5358587a8dbfe8e904",
+        "title": "Understanding the Topology Freezing Temperature of Vitrimer-Like Materials through Complementary Structural and Rheological Analyses for Phase-Separated Network.",
+        "venue": "ACS Macro Letters",
+        "year": 2025,
+        "citationCount": 18,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-01-27",
+        "authors": [
+          {
+            "authorId": "6373206",
+            "name": "Mikihiro Hayashi"
+          },
+          {
+            "authorId": "2342654320",
+            "name": "Maho Suzuki"
+          },
+          {
+            "authorId": "2290891980",
+            "name": "Takumi Kito"
+          }
+        ]
+      }
+    }
+  ]
+}

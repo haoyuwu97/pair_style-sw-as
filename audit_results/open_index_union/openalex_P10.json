@@ -1,0 +1,772 @@
+[
+  {
+    "id": "https://openalex.org/W4411802902",
+    "doi": "https://doi.org/10.3390/ma18133097",
+    "title": "Dynamic Statistical Mechanics Modeling of Percolation Networks in Conductive Polymer Composites for Smart Sensor Applications",
+    "display_name": "Dynamic Statistical Mechanics Modeling of Percolation Networks in Conductive Polymer Composites for Smart Sensor Applications",
+    "publication_year": 2025,
+    "publication_date": "2025-06-30",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5088726330",
+          "display_name": "Sang-Un Kim",
+          "orcid": "https://orcid.org/0000-0002-1648-0200"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141371507",
+            "display_name": "Soongsil University",
+            "ror": "https://ror.org/017xnm587",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141371507"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sang-Un Kim",
+        "raw_affiliation_strings": [
+          "Department of Smart Wearable Engineering, Soongsil University, Seoul 06978, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1648-0200",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Smart Wearable Engineering, Soongsil University, Seoul 06978, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I141371507"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5063810093",
+          "display_name": "Jooyong Kim",
+          "orcid": "https://orcid.org/0000-0003-1969-5730"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141371507",
+            "display_name": "Soongsil University",
+            "ror": "https://ror.org/017xnm587",
+            "country_code": "KR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141371507"
+            ]
+          }
+        ],
+        "countries": [
+          "KR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Joo-Yong Kim",
+        "raw_affiliation_strings": [
+          "Department of Materials Science and Engineering, Soongsil University, Seoul 06978, Republic of Korea"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1969-5730",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Materials Science and Engineering, Soongsil University, Seoul 06978, Republic of Korea",
+            "institution_ids": [
+              "https://openalex.org/I141371507"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.3390/ma18133097",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/ma18133097",
+      "pdf_url": "https://www.mdpi.com/1996-1944/18/13/3097/pdf?version=1751295607",
+      "source": {
+        "id": "https://openalex.org/S18714766",
+        "display_name": "Materials",
+        "issn_l": "1996-1944",
+        "issn": [
+          "1996-1944"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Materials",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/1996-1944/18/13/3097/pdf?version=1751295607",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4411802902",
+      "doi": "https://doi.org/10.3390/ma18133097",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/40649586"
+    },
+    "cited_by_count": 4
+  },
+  {
+    "id": "https://openalex.org/W4393950833",
+    "doi": "https://doi.org/10.1016/j.compscitech.2024.110583",
+    "title": "One-pot strategy for the preparation of nanoparticles grafted with bimodal polymers: An in-silico insight",
+    "display_name": "One-pot strategy for the preparation of nanoparticles grafted with bimodal polymers: An in-silico insight",
+    "publication_year": 2024,
+    "publication_date": "2024-04-04",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5015225860",
+          "display_name": "Jinyuan Mao",
+          "orcid": "https://orcid.org/0000-0003-2496-777X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jinyuan Mao",
+        "raw_affiliation_strings": [
+          "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China",
+          "South China Advanced Institute for Soft Matter Science and Technology, School of Emergent Soft Matter, South China University of Technology, Guangzhou, 510640, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2496-777X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          },
+          {
+            "raw_affiliation_string": "South China Advanced Institute for Soft Matter Science and Technology, School of Emergent Soft Matter, South China University of Technology, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000118901",
+          "display_name": "Jiajia Zhou",
+          "orcid": "https://orcid.org/0000-0002-2258-6757"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jiajia Zhou",
+        "raw_affiliation_strings": [
+          "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China",
+          "South China Advanced Institute for Soft Matter Science and Technology, School of Emergent Soft Matter, South China University of Technology, Guangzhou, 510640, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2258-6757",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          },
+          {
+            "raw_affiliation_string": "South China Advanced Institute for Soft Matter Science and Technology, School of Emergent Soft Matter, South China University of Technology, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100683942",
+          "display_name": "Hong Liu",
+          "orcid": "https://orcid.org/0000-0002-7256-5751"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I187400657",
+            "display_name": "South China Normal University",
+            "ror": "https://ror.org/01kq0pv72",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I187400657"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Hong Liu",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University, Guangzhou, 510640, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7256-5751",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I187400657"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Hong Liu",
+          "orcid": "https://orcid.org/0000-0002-7256-5751"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I187400657",
+            "display_name": "South China Normal University",
+            "ror": "https://ror.org/01kq0pv72",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I187400657"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hong Liu",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University, Guangzhou, 510640, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7256-5751",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I187400657"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.compscitech.2024.110583",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.compscitech.2024.110583",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S52442148",
+        "display_name": "Composites Science and Technology",
+        "issn_l": "0266-3538",
+        "issn": [
+          "0266-3538",
+          "1879-1050"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Composites Science and Technology",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4393950833",
+      "doi": "https://doi.org/10.1016/j.compscitech.2024.110583"
+    },
+    "cited_by_count": 6
+  },
+  {
+    "id": "https://openalex.org/W4407740399",
+    "doi": "https://doi.org/10.1007/s10118-025-3295-9",
+    "title": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+    "display_name": "Strategic Regulation of Carbon Nanotube Dispersion with Triblock Copolymer Phase Domains: Insights from Molecular Simulations",
+    "publication_year": 2025,
+    "publication_date": "2025-02-18",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5083504924",
+          "display_name": "Shao-Long Liu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shao-Long Liu",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Tang Sui",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tang Sui",
+        "raw_affiliation_strings": [
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020085370",
+          "display_name": "Shuang Xu",
+          "orcid": "https://orcid.org/0000-0002-6248-3568"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shuang Xu",
+        "raw_affiliation_strings": [
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Information and Communication Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112582118",
+          "display_name": "Xiaoke Xu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I25254941",
+            "display_name": "Beijing Normal University",
+            "ror": "https://ror.org/022k4wk35",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I25254941"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiao-Ke Xu",
+        "raw_affiliation_strings": [
+          "School of Journalism and Communication, Beijing Normal University, Zhuhai, 519085, China",
+          "School of Journalism and Communication, Beijing Normal University, Zhuhai, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Journalism and Communication, Beijing Normal University, Zhuhai, 519085, China",
+            "institution_ids": [
+              "https://openalex.org/I25254941"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Journalism and Communication, Beijing Normal University, Zhuhai, China",
+            "institution_ids": [
+              "https://openalex.org/I25254941"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103258049",
+          "display_name": "Giuseppe Milano",
+          "orcid": "https://orcid.org/0000-0001-8818-7786"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I71267560",
+            "display_name": "University of Naples Federico II",
+            "ror": "https://ror.org/05290cv24",
+            "country_code": "IT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I71267560"
+            ]
+          }
+        ],
+        "countries": [
+          "IT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Giuseppe Milano",
+        "raw_affiliation_strings": [
+          "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Napoli, Italy",
+          "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Piazzale V. Tecchio, 80, 80125, Napoli, Italy"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Napoli, Italy",
+            "institution_ids": [
+              "https://openalex.org/I71267560"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Chemical, Materials and Production Engineering, University of Naples Federico II, Piazzale V. Tecchio, 80, 80125, Napoli, Italy",
+            "institution_ids": [
+              "https://openalex.org/I71267560"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100434217",
+          "display_name": "Ying Zhao",
+          "orcid": "https://orcid.org/0000-0002-7927-4906"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Zhao",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100346078",
+          "display_name": "You‐Liang Zhu",
+          "orcid": "https://orcid.org/0000-0002-9561-0770"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I194450716",
+            "display_name": "Jilin University",
+            "ror": "https://ror.org/00js3aw79",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I194450716"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4391768123",
+            "display_name": "State Key Laboratory of Supramolecular Structure and Materials",
+            "ror": "https://ror.org/02xf8rf51",
+            "country_code": null,
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "You-Liang Zhu",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, 130012, China",
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, 130012, China",
+            "institution_ids": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          },
+          {
+            "raw_affiliation_string": "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, China",
+            "institution_ids": [
+              "https://openalex.org/I194450716",
+              "https://openalex.org/I4391768123"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5041021210",
+          "display_name": "Baosheng Cao",
+          "orcid": "https://orcid.org/0000-0002-5172-9622"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I61565387",
+            "display_name": "Dalian Minzu University",
+            "ror": "https://ror.org/02hxfx521",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Bao-Sheng Cao",
+        "raw_affiliation_strings": [
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+          "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, 116600, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Physics and Materials Engineering, Dalian Minzu University, Dalian, China",
+            "institution_ids": [
+              "https://openalex.org/I61565387"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1007/s10118-025-3295-9",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s10118-025-3295-9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S11406725",
+        "display_name": "Chinese Journal of Polymer Science",
+        "issn_l": "0256-7679",
+        "issn": [
+          "0256-7679",
+          "1439-6203",
+          "1793-7043"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Chinese Journal of Polymer Science",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4407740399",
+      "doi": "https://doi.org/10.1007/s10118-025-3295-9"
+    },
+    "cited_by_count": 4
+  }
+]

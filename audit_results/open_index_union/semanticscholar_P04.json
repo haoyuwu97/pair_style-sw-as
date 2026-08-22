@@ -1,0 +1,1037 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "47787dfdb4ae7c77e40eb8fb8efe901b1a57ac52",
+        "externalIds": {
+          "PubMedCentral": "13173536",
+          "DOI": "10.1021/acs.jctc.5c02130",
+          "CorpusId": 287737934,
+          "PubMed": "42024022"
+        },
+        "url": "https://www.semanticscholar.org/paper/47787dfdb4ae7c77e40eb8fb8efe901b1a57ac52",
+        "title": "Learning Latent Representations to Bridge Coarse-Grained and Atomistic Resolutions in Polymer Simulations",
+        "venue": "Journal of Chemical Theory and Computation",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.5c02130?ref=article_openPDF",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-04-23",
+        "authors": [
+          {
+            "authorId": "21765207",
+            "name": "Saaketh Desai"
+          },
+          {
+            "authorId": "2378210298",
+            "name": "Mark Wilson"
+          },
+          {
+            "authorId": "2283085528",
+            "name": "Songyue Liu"
+          },
+          {
+            "authorId": "2317833824",
+            "name": "S. Kounouho"
+          },
+          {
+            "authorId": "2283064119",
+            "name": "Thomas C. O’Connor"
+          },
+          {
+            "authorId": "2358754233",
+            "name": "R. Dingreville"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "80d21efe7dfa9653079827b95e519c5f6c020154",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.5c03571",
+          "CorpusId": 287060854
+        },
+        "url": "https://www.semanticscholar.org/paper/80d21efe7dfa9653079827b95e519c5f6c020154",
+        "title": "The Effect of Excluded Volume on Fracture Mechanisms in Coarse-Grained Simulations of Polymer Networks",
+        "venue": "Macromolecules",
+        "year": 2026,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-03-30",
+        "authors": [
+          {
+            "authorId": "2266922883",
+            "name": "Devosmita Sen"
+          },
+          {
+            "authorId": "2358963514",
+            "name": "Kanon Hasegawa"
+          },
+          {
+            "authorId": "2320508046",
+            "name": "Bradley D. Olsen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "aecd1ac4f363837a464119bce82d7420a336d6b3",
+        "externalIds": {
+          "ArXiv": "2512.02963",
+          "DOI": "10.1073/pnas.2530175123",
+          "CorpusId": 283458033,
+          "PubMed": "41779794"
+        },
+        "url": "https://www.semanticscholar.org/paper/aecd1ac4f363837a464119bce82d7420a336d6b3",
+        "title": "Probing the microscopic origin of toughness in multiple polymer networks.",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1073/pnas.2530175123",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-12-02",
+        "authors": [
+          {
+            "authorId": "2378128129",
+            "name": "N. H. P. Orr"
+          },
+          {
+            "authorId": "4749790",
+            "name": "M. Le Goff"
+          },
+          {
+            "authorId": "1492089244",
+            "name": "Burebi Yiming"
+          },
+          {
+            "authorId": "2253302840",
+            "name": "J.-L. Barrat"
+          },
+          {
+            "authorId": "2395767784",
+            "name": "M. Bouzid"
+          },
+          {
+            "authorId": "2328897694",
+            "name": "L. Ramos"
+          },
+          {
+            "authorId": "3973773",
+            "name": "C. Creton"
+          },
+          {
+            "authorId": "2362418340",
+            "name": "Kirsten Martens"
+          },
+          {
+            "authorId": "2239521994",
+            "name": "L. Cipelletti"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "externalIds": {
+          "DOI": "10.1080/19475411.2025.2582826",
+          "CorpusId": 283425223
+        },
+        "url": "https://www.semanticscholar.org/paper/a848e01b63a9c6bef82b418075f0eacf5f44b3b0",
+        "title": "From bonds to breaks: multiscale perspectives on polymer network fracture",
+        "venue": "International Journal of Smart and Nano Materials",
+        "year": 2025,
+        "citationCount": 16,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1080/19475411.2025.2582826",
+          "status": "GOLD",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-10-02",
+        "authors": [
+          {
+            "authorId": "2319181018",
+            "name": "Zihan Tang"
+          },
+          {
+            "authorId": "2003833963",
+            "name": "Weikang Xian"
+          },
+          {
+            "authorId": "2325723653",
+            "name": "Jianxin He"
+          },
+          {
+            "authorId": "2057351436",
+            "name": "R. Long"
+          },
+          {
+            "authorId": "2155506228",
+            "name": "Ying Li"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f2d92cf250fc8412a74669e797e44cf24270dcf9",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.5c00331",
+          "CorpusId": 278273817
+        },
+        "url": "https://www.semanticscholar.org/paper/f2d92cf250fc8412a74669e797e44cf24270dcf9",
+        "title": "Effect of the Second Network on First Network Rupture and the Origin of Energy Dissipation in Double Network Hydrogels",
+        "venue": "Macromolecules",
+        "year": 2025,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-01",
+        "authors": [
+          {
+            "authorId": "2271233620",
+            "name": "Zhi Jian Wang"
+          },
+          {
+            "authorId": "146857420",
+            "name": "Gumi Wei"
+          },
+          {
+            "authorId": "5208091",
+            "name": "Tasuku Nakajima"
+          },
+          {
+            "authorId": "2242425200",
+            "name": "J. Gong"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5bd6f6eba2cefd77bfce66977772eda06bdb01ca",
+        "externalIds": {
+          "DOI": "10.1080/19475411.2025.2476130",
+          "CorpusId": 277061358
+        },
+        "url": "https://www.semanticscholar.org/paper/5bd6f6eba2cefd77bfce66977772eda06bdb01ca",
+        "title": "A combined numerical and theoretical study on the strengthening and toughening mechanisms of double network hydrogels",
+        "venue": "International Journal of Smart and Nano Materials",
+        "year": 2025,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1080/19475411.2025.2476130",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-15",
+        "authors": [
+          {
+            "authorId": "2163127968",
+            "name": "Bo Gong"
+          },
+          {
+            "authorId": "2133060331",
+            "name": "Ji Lin"
+          },
+          {
+            "authorId": "2171466182",
+            "name": "Yu Xie"
+          },
+          {
+            "authorId": "2351764820",
+            "name": "Jin Qian"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "67fb6b08ae471663858bc338e091cdba2758428b",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.4c01996",
+          "CorpusId": 274193594
+        },
+        "url": "https://www.semanticscholar.org/paper/67fb6b08ae471663858bc338e091cdba2758428b",
+        "title": "Critical Importance of Both Bond Breakage and Network Heterogeneity in Hysteresis Loop on Stress–Strain Curves and Scattering Patterns",
+        "venue": "Macromolecules",
+        "year": 2024,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.macromol.4c01996?ref=article_openPDF",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-21",
+        "authors": [
+          {
+            "authorId": "15158116",
+            "name": "K. Hagita"
+          },
+          {
+            "authorId": "49000574",
+            "name": "Takahiro Murashima"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "bb7733b0d03c158c5fe76734565813f40074ad43",
+        "externalIds": {
+          "DOI": "10.1016/j.eml.2024.102252",
+          "CorpusId": 273603717
+        },
+        "url": "https://www.semanticscholar.org/paper/bb7733b0d03c158c5fe76734565813f40074ad43",
+        "title": "Understanding the Role of Chain Stiffness in the Mechanical Response of Cross-linked Polymer: Flexible vs. Semi-flexible Chains",
+        "venue": "Extreme Mechanics Letters",
+        "year": 2024,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-10-01",
+        "authors": [
+          {
+            "authorId": "2317126567",
+            "name": "Xiangrui Zheng"
+          },
+          {
+            "authorId": "2237844645",
+            "name": "Wenjie Xia"
+          },
+          {
+            "authorId": "2328082019",
+            "name": "Yao Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "9c236850016df68976d273b743ff916628479adf",
+        "externalIds": {
+          "DOI": "10.1007/s10409-024-24181-x",
+          "CorpusId": 272975522
+        },
+        "url": "https://www.semanticscholar.org/paper/9c236850016df68976d273b743ff916628479adf",
+        "title": "Graphical models of dominant topologies of polymer-substrate adhesive-interfacial strength and toughness",
+        "venue": "Acta Mechanica Sinica",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-29",
+        "authors": [
+          {
+            "authorId": "2323402844",
+            "name": "Xintianyang Wang"
+          },
+          {
+            "authorId": "51107018",
+            "name": "Lijuan Liao"
+          },
+          {
+            "authorId": "32068536",
+            "name": "Xianqian Wu"
+          },
+          {
+            "authorId": "2269356473",
+            "name": "Chenguang Huang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "df682f5d9c981a2c0246789dde6f91a998075e17",
+        "externalIds": {
+          "DOI": "10.1063/5.0180847",
+          "CorpusId": 266901865,
+          "PubMed": "38197443"
+        },
+        "url": "https://www.semanticscholar.org/paper/df682f5d9c981a2c0246789dde6f91a998075e17",
+        "title": "Efficient characterization of double-cross-linked networks in hydrogels using data-inspired coarse-grained molecular dynamics model.",
+        "venue": "Journal of Chemical Physics",
+        "year": 2024,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-01-10",
+        "authors": [
+          {
+            "authorId": "2382293490",
+            "name": "Ting Zong"
+          },
+          {
+            "authorId": "2269425011",
+            "name": "Xia Liu"
+          },
+          {
+            "authorId": "2249107712",
+            "name": "Xingyu Zhang"
+          },
+          {
+            "authorId": "2269220257",
+            "name": "Qingsheng Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6231671b700983c5976f0287caa2ada37b2937d5",
+        "externalIds": {
+          "DOI": "10.1016/j.polymer.2023.126220",
+          "CorpusId": 260102128
+        },
+        "url": "https://www.semanticscholar.org/paper/6231671b700983c5976f0287caa2ada37b2937d5",
+        "title": "Ultra-strong, ultra-tough, and transparent polymer composite with excellent dynamic and biodegradable properties enabled by bicontinuous structure",
+        "venue": "Polymer",
+        "year": 2023,
+        "citationCount": 14,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-07-01",
+        "authors": [
+          {
+            "authorId": "2046521330",
+            "name": "Jiaoyang Chen"
+          },
+          {
+            "authorId": "2199350352",
+            "name": "Jiajie Jing"
+          },
+          {
+            "authorId": "2144492314",
+            "name": "Cheng Wang"
+          },
+          {
+            "authorId": "2217101212",
+            "name": "Tao Chen"
+          },
+          {
+            "authorId": "2110558997",
+            "name": "Jianhua Xu"
+          },
+          {
+            "authorId": "145050579",
+            "name": "Bowen Yao"
+          },
+          {
+            "authorId": "2153081017",
+            "name": "Jiajun Fu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6b363de9b009be33f54c54bec997e2281d428ab3",
+        "externalIds": {
+          "PubMedCentral": "10056341",
+          "DOI": "10.3390/molecules28062736",
+          "CorpusId": 257648272,
+          "PubMed": "36985707"
+        },
+        "url": "https://www.semanticscholar.org/paper/6b363de9b009be33f54c54bec997e2281d428ab3",
+        "title": "A Molecular Dynamics Simulation for Thermal Activation Process in Covalent Bond Dissociation of a Crosslinked Thermosetting Polymer",
+        "venue": "Molecules",
+        "year": 2023,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/1420-3049/28/6/2736/pdf?version=1679386771",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-03-01",
+        "authors": [
+          {
+            "authorId": "2066330861",
+            "name": "N. Yamada"
+          },
+          {
+            "authorId": "12289493",
+            "name": "Y. Oya"
+          },
+          {
+            "authorId": "2057873221",
+            "name": "Nobuhiko Kato"
+          },
+          {
+            "authorId": "145603688",
+            "name": "K. Mori"
+          },
+          {
+            "authorId": "96933413",
+            "name": "J. Koyanagi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "40eb1711a746efdbb71b665b62ca13eb7bad4d8a",
+        "externalIds": {
+          "DOI": "10.1080/00222348.2022.2116914",
+          "CorpusId": 252059172
+        },
+        "url": "https://www.semanticscholar.org/paper/40eb1711a746efdbb71b665b62ca13eb7bad4d8a",
+        "title": "A Molecular Dynamics Simulation Study of Amine-Carboxyl Ionic Interactions and Their Distribution in a Polysiloxanes Network",
+        "venue": "Journal of macromolecular science. Physics",
+        "year": 2022,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2022-09-02",
+        "authors": [
+          {
+            "authorId": "2403475215",
+            "name": "Weijian Wu"
+          },
+          {
+            "authorId": "92005552",
+            "name": "Shijie Shan"
+          },
+          {
+            "authorId": "2112671785",
+            "name": "Haojie Zhao"
+          },
+          {
+            "authorId": "7892658",
+            "name": "Yaling Lin"
+          },
+          {
+            "authorId": "46403369",
+            "name": "Anqiang Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "754fdf92fdd31672296972d85e0c06ce1fd8015c",
+        "externalIds": {
+          "PubMedCentral": "9182282",
+          "DOI": "10.3390/ma15113983",
+          "CorpusId": 249350770,
+          "PubMed": "35683281"
+        },
+        "url": "https://www.semanticscholar.org/paper/754fdf92fdd31672296972d85e0c06ce1fd8015c",
+        "title": "Mechanically Robust Dual-Crosslinking Elastomer Enabled by a Facile Self-Crosslinking Approach",
+        "venue": "Materials",
+        "year": 2022,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/1996-1944/15/11/3983/pdf?version=1654495624",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2022-06-01",
+        "authors": [
+          {
+            "authorId": "2151324478",
+            "name": "Zhendong Huang"
+          },
+          {
+            "authorId": "116272358",
+            "name": "Biqiang Jin"
+          },
+          {
+            "authorId": "2119020202",
+            "name": "Haitao Wu"
+          },
+          {
+            "authorId": "113666416",
+            "name": "Zih-Lun Zeng"
+          },
+          {
+            "authorId": null,
+            "name": "Minghui Huang"
+          },
+          {
+            "authorId": "2155794035",
+            "name": "Jinrong Wu"
+          },
+          {
+            "authorId": "41052885",
+            "name": "L. Liao"
+          },
+          {
+            "authorId": "46998738",
+            "name": "Jing Zheng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0185b2a7eb70b02b0bd971a3537e11c389a0e0ab",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.1c02076",
+          "CorpusId": 246953876
+        },
+        "url": "https://www.semanticscholar.org/paper/0185b2a7eb70b02b0bd971a3537e11c389a0e0ab",
+        "title": "Predicting Mechanical Constitutive Laws of Elastomers with Mesoscale Simulations",
+        "venue": "Macromolecules",
+        "year": 2022,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "https://hal.archives-ouvertes.fr/hal-03579023/file/meso_macromolecules.pdf",
+          "status": "GREEN",
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2022-02-17",
+        "authors": [
+          {
+            "authorId": "2051987859",
+            "name": "G. Munoz"
+          },
+          {
+            "authorId": "145847233",
+            "name": "A. Dequidt"
+          },
+          {
+            "authorId": "93740889",
+            "name": "N. Martzel"
+          },
+          {
+            "authorId": "2015665",
+            "name": "R. Blaak"
+          },
+          {
+            "authorId": "1483874106",
+            "name": "A. Mbiakop-Ngassa"
+          },
+          {
+            "authorId": "3382060",
+            "name": "J. Devémy"
+          },
+          {
+            "authorId": "94418889",
+            "name": "B. Latour"
+          },
+          {
+            "authorId": "121947769",
+            "name": "S. Garruchet"
+          },
+          {
+            "authorId": "5498850",
+            "name": "F. Goujon"
+          },
+          {
+            "authorId": "49188717",
+            "name": "É. Munch"
+          },
+          {
+            "authorId": "5728325",
+            "name": "P. Malfreyt"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "f7cea7a2bae96e10b81fc763c2fce80a3bdf8ea5",
+        "externalIds": {
+          "DOI": "10.1021/acs.macromol.1c01981.s001",
+          "CorpusId": 246718775
+        },
+        "url": "https://www.semanticscholar.org/paper/f7cea7a2bae96e10b81fc763c2fce80a3bdf8ea5",
+        "title": "Molecular-Level Elucidation of a Fracture Process in Slide-Ring Gels via Coarse-Grained Molecular Dynamics Simulations",
+        "venue": "Macromolecules",
+        "year": 2022,
+        "citationCount": 39,
+        "openAccessPdf": {
+          "url": "https://figshare.com/articles/journal_contribution/Molecular-Level_Elucidation_of_a_Fracture_Process_in_Slide-Ring_Gels_via_Coarse-Grained_Molecular_Dynamics_Simulations/19146580/1/files/34018993.pdf",
+          "status": "GREEN",
+          "license": "CCBYNC"
+        },
+        "publicationTypes": null,
+        "publicationDate": "2022-02-09",
+        "authors": [
+          {
+            "authorId": "97336282",
+            "name": "S. Uehara"
+          },
+          {
+            "authorId": "2155652094",
+            "name": "Yang Wang"
+          },
+          {
+            "authorId": "49501717",
+            "name": "Yusuke Ootani"
+          },
+          {
+            "authorId": "4835612",
+            "name": "N. Ozawa"
+          },
+          {
+            "authorId": "2161460",
+            "name": "M. Kubo"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0c30490a8040acddbaf0dbf54707a4d393530f16",
+        "externalIds": {
+          "PubMedCentral": "8482750",
+          "ArXiv": "2112.05211",
+          "DOI": "10.1021/acs.macromol.1c01275",
+          "CorpusId": 238248301,
+          "PubMed": "34602652"
+        },
+        "url": "https://www.semanticscholar.org/paper/0c30490a8040acddbaf0dbf54707a4d393530f16",
+        "title": "Sharing the Load: Stress Redistribution Governs Fracture of Polymer Double Networks",
+        "venue": "Macromolecules",
+        "year": 2021,
+        "citationCount": 29,
+        "openAccessPdf": {
+          "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.macromol.1c01275",
+          "status": "BRONZE",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2021-09-16",
+        "authors": [
+          {
+            "authorId": "29841759",
+            "name": "J. Tauber"
+          },
+          {
+            "authorId": "2887312",
+            "name": "L. Rovigatti"
+          },
+          {
+            "authorId": "4306752",
+            "name": "S. Dussi"
+          },
+          {
+            "authorId": "5984838",
+            "name": "J. van der Gucht"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "53d9a063829c0ac30623b4fd4fbcb3e287f0fcbc",
+        "externalIds": {
+          "PubMedCentral": "8232767",
+          "DOI": "10.3390/ma14123301",
+          "CorpusId": 235645273,
+          "PubMed": "34203759"
+        },
+        "url": "https://www.semanticscholar.org/paper/53d9a063829c0ac30623b4fd4fbcb3e287f0fcbc",
+        "title": "Percolated Network of Mixed Nanoparticles with Different Sizes in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Simulation",
+        "venue": "Materials",
+        "year": 2021,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/1996-1944/14/12/3301/pdf?version=1623852575",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2021-06-01",
+        "authors": [
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2143953557",
+            "name": "Yun Nie"
+          },
+          {
+            "authorId": "2261841637",
+            "name": "Haoxiang Li"
+          },
+          {
+            "authorId": "145904596",
+            "name": "Haoyu Wu"
+          },
+          {
+            "authorId": "3343449",
+            "name": "Yangyang Gao"
+          },
+          {
+            "authorId": "2119687714",
+            "name": "Liqun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "82f8c0094bc5e541f5e4554409070bd7283f96c4",
+        "externalIds": {
+          "PubMedCentral": "7957597",
+          "DOI": "10.3390/polym13050757",
+          "CorpusId": 232129069,
+          "PubMed": "33671017"
+        },
+        "url": "https://www.semanticscholar.org/paper/82f8c0094bc5e541f5e4554409070bd7283f96c4",
+        "title": "Heterogeneity Effects in Highly Cross-Linked Polymer Networks",
+        "venue": "Polymers",
+        "year": 2021,
+        "citationCount": 13,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2073-4360/13/5/757/pdf?version=1614908944",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2021-02-28",
+        "authors": [
+          {
+            "authorId": "2051987859",
+            "name": "G. Munoz"
+          },
+          {
+            "authorId": "145847233",
+            "name": "A. Dequidt"
+          },
+          {
+            "authorId": "93740889",
+            "name": "N. Martzel"
+          },
+          {
+            "authorId": "2015665",
+            "name": "R. Blaak"
+          },
+          {
+            "authorId": "5498850",
+            "name": "F. Goujon"
+          },
+          {
+            "authorId": "3382060",
+            "name": "J. Devémy"
+          },
+          {
+            "authorId": "121947769",
+            "name": "S. Garruchet"
+          },
+          {
+            "authorId": "94418889",
+            "name": "B. Latour"
+          },
+          {
+            "authorId": "49188717",
+            "name": "É. Munch"
+          },
+          {
+            "authorId": "5728325",
+            "name": "P. Malfreyt"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b8e608b10135271d33dd06cc3cc68738076bb09a",
+        "externalIds": {
+          "MAG": "3083186234",
+          "DOI": "10.1016/j.polymer.2020.122995",
+          "CorpusId": 225285558
+        },
+        "url": "https://www.semanticscholar.org/paper/b8e608b10135271d33dd06cc3cc68738076bb09a",
+        "title": "The dissociation of physical interaction clusters under tensile deformation of hybrid double network gels",
+        "venue": "",
+        "year": 2020,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2020-09-03",
+        "authors": [
+          {
+            "authorId": "2114012503",
+            "name": "Ruiqi Zhao"
+          },
+          {
+            "authorId": "2153603453",
+            "name": "Yu Wang"
+          },
+          {
+            "authorId": "30799628",
+            "name": "Sheng Wang"
+          },
+          {
+            "authorId": "2115601501",
+            "name": "Chunyu Zhao"
+          },
+          {
+            "authorId": "9500033",
+            "name": "X. Gong"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "98b88eea0fa5b9f496cc9465805a969aecf5f6e4",
+        "externalIds": {
+          "PubMedCentral": "8216836",
+          "MAG": "3088730103",
+          "DOI": "10.26434/chemrxiv.12575954",
+          "CorpusId": 221919012,
+          "PubMed": "32970438"
+        },
+        "url": "https://www.semanticscholar.org/paper/98b88eea0fa5b9f496cc9465805a969aecf5f6e4",
+        "title": "Deciphering the Allosteric Process of Phaeodactylum tricornutum Aureochrome 1a LOV Domain",
+        "venue": "Journal of Physical Chemistry B",
+        "year": 2020,
+        "citationCount": 23,
+        "openAccessPdf": {
+          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c74cf7bdbb8999cfa398ec/original/deciphering-the-allosteric-process-of-phaeodactylum-tricornutum-aureochrome-1a-lov-domain.pdf",
+          "status": "GREEN",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2020-06-30",
+        "authors": [
+          {
+            "authorId": "48496809",
+            "name": "Hao Tian"
+          },
+          {
+            "authorId": "93752530",
+            "name": "Francesco Trozzi"
+          },
+          {
+            "authorId": "91594917",
+            "name": "B. Zoltowski"
+          },
+          {
+            "authorId": "6259203",
+            "name": "Peng Tao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a51f9dd9e75474c0298e07bc94b22196faec97a5",
+        "externalIds": {
+          "CorpusId": 263757028
+        },
+        "url": "https://www.semanticscholar.org/paper/a51f9dd9e75474c0298e07bc94b22196faec97a5",
+        "title": "Deciphering the Allosteric Process of the Phaeodactylum tricornutum Aureochrome 1a LOV Domain",
+        "venue": "",
+        "year": 2020,
+        "citationCount": 8,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "48496809",
+            "name": "Hao Tian"
+          },
+          {
+            "authorId": "93752530",
+            "name": "Francesco Trozzi"
+          },
+          {
+            "authorId": "91594917",
+            "name": "B. Zoltowski"
+          },
+          {
+            "authorId": "2256284425",
+            "name": "P. Tao"
+          }
+        ]
+      }
+    }
+  ]
+}

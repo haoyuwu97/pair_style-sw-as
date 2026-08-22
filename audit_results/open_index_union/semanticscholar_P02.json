@@ -1,0 +1,1242 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "citingPaper": {
+        "paperId": "52990785cc353c09ea46ae335400bd51a58eb168",
+        "externalIds": {
+          "DOI": "10.1016/j.ijthermalsci.2026.110916",
+          "CorpusId": 287375165
+        },
+        "url": "https://www.semanticscholar.org/paper/52990785cc353c09ea46ae335400bd51a58eb168",
+        "title": "Molecular dynamics investigation of thermal transport across hexagonal boron nitride-eicosane interfaces",
+        "venue": "International journal of thermal sciences",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-09-01",
+        "authors": [
+          {
+            "authorId": "2274419776",
+            "name": "Sai Charan Ravula"
+          },
+          {
+            "authorId": "8146962",
+            "name": "Hari Krishna Chilukoti"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "a9f49b9cfaf0f973e9ccfb08e1f3a18bbaa6d1ee",
+        "externalIds": {
+          "DOI": "10.1016/j.carbpol.2026.125508",
+          "CorpusId": 288878770,
+          "PubMed": "42493081"
+        },
+        "url": "https://www.semanticscholar.org/paper/a9f49b9cfaf0f973e9ccfb08e1f3a18bbaa6d1ee",
+        "title": "High-performance all-cellulose composites bulks enabled by a surface dissolution-intense shear plasticization strategy.",
+        "venue": "Carbohydrate Polymers",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-09-01",
+        "authors": [
+          {
+            "authorId": "2440046964",
+            "name": "Menghuan Zu"
+          },
+          {
+            "authorId": "116743102",
+            "name": "Z. Jia"
+          },
+          {
+            "authorId": "2440564869",
+            "name": "Qing Chen"
+          },
+          {
+            "authorId": "2261674358",
+            "name": "Huang Zhang"
+          },
+          {
+            "authorId": "51141886",
+            "name": "Chenglan Yang"
+          },
+          {
+            "authorId": "2440142000",
+            "name": "Yuyuan Jing"
+          },
+          {
+            "authorId": "36473388",
+            "name": "Haiyu Qiao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c3dc635a9db34b640cbf161a78630154db108c9e",
+        "externalIds": {
+          "DOI": "10.1002/ifm2.70027",
+          "CorpusId": 290565297
+        },
+        "url": "https://www.semanticscholar.org/paper/c3dc635a9db34b640cbf161a78630154db108c9e",
+        "title": "Interface Engineering of Boron Nitride–Polymer Composites for High Thermal Conductivity",
+        "venue": "Information &amp; Functional Materials",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/ifm2.70027",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2026-07-23",
+        "authors": [
+          {
+            "authorId": "2453384130",
+            "name": "Zhao Chen"
+          },
+          {
+            "authorId": "2279933615",
+            "name": "Yuhang Meng"
+          },
+          {
+            "authorId": "2453452162",
+            "name": "Chenyu Zhao"
+          },
+          {
+            "authorId": "2272255757",
+            "name": "Xiangfen Jiang"
+          },
+          {
+            "authorId": "2155638857",
+            "name": "Xuebin Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e139df38338f1fdca2c0740c51f6c203abc19ca8",
+        "externalIds": {
+          "DOI": "10.1007/s00289-026-06502-6",
+          "CorpusId": 288722497
+        },
+        "url": "https://www.semanticscholar.org/paper/e139df38338f1fdca2c0740c51f6c203abc19ca8",
+        "title": "Time-resolved degradation kinetics and thermo-mechanical of aluminum-fiber epoxy composites under accelerated uv aging",
+        "venue": "Polymer Bulletin",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2026-05-26",
+        "authors": [
+          {
+            "authorId": "2088545643",
+            "name": "Suroor N. Esmaeel"
+          },
+          {
+            "authorId": "1752684709",
+            "name": "M. N. Ismael"
+          },
+          {
+            "authorId": "1752550808",
+            "name": "H. F. Hassan"
+          },
+          {
+            "authorId": "2300108329",
+            "name": "Elham Jasim Mohammad"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1b444fe706e3aca742098d6ce684ec9271ab82e0",
+        "externalIds": {
+          "DOI": "10.1111/jace.70118",
+          "CorpusId": 282417374
+        },
+        "url": "https://www.semanticscholar.org/paper/1b444fe706e3aca742098d6ce684ec9271ab82e0",
+        "title": "A novel composite of aluminum nitride and silsesquioxane organic–inorganic hybrid polymer",
+        "venue": "",
+        "year": 2025,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": null,
+        "publicationDate": "2025-12-01",
+        "authors": [
+          {
+            "authorId": "15070877",
+            "name": "Yoshiaki Iwase"
+          },
+          {
+            "authorId": "6708608",
+            "name": "Sawao Honda"
+          },
+          {
+            "authorId": "2287361603",
+            "name": "Ryosuke Kubota"
+          },
+          {
+            "authorId": "5162501",
+            "name": "Y. Iwamoto"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6f6f1b1ed9a2cff35ffad93e145eadddbb831b01",
+        "externalIds": {
+          "DOI": "10.1002/admt.202501210",
+          "CorpusId": 283066646
+        },
+        "url": "https://www.semanticscholar.org/paper/6f6f1b1ed9a2cff35ffad93e145eadddbb831b01",
+        "title": "Strategies for Enhancing Thermal Conductivity of PDMS in Electronic Applications",
+        "venue": "Advanced Materials & Technologies",
+        "year": 2025,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1002/admt.202501210",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": "2025-11-14",
+        "authors": [
+          {
+            "authorId": "2322813208",
+            "name": "Xiang Yan"
+          },
+          {
+            "authorId": "2238031263",
+            "name": "Marisol S. Martín-González"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "545bd8eb77facd171fc07642cbc2f6e9cd1fa8e0",
+        "externalIds": {
+          "DOI": "10.1021/acs.jpcc.5c03756",
+          "CorpusId": 280111429
+        },
+        "url": "https://www.semanticscholar.org/paper/545bd8eb77facd171fc07642cbc2f6e9cd1fa8e0",
+        "title": "Influence of Surface Orientation and Roughness of Stacked Graphene on Thermal Conductivity of Poly(dimethylsiloxane)-Based Composite: A Molecular Dynamics Simulation",
+        "venue": "Journal of Physical Chemistry C",
+        "year": 2025,
+        "citationCount": 1,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-07-07",
+        "authors": [
+          {
+            "authorId": "2267185643",
+            "name": "Zoumeng Hu"
+          },
+          {
+            "authorId": "2283846285",
+            "name": "Yang Zhang"
+          },
+          {
+            "authorId": "2280716775",
+            "name": "Jihua Zhang"
+          },
+          {
+            "authorId": "2328800427",
+            "name": "Yonglai Lu"
+          },
+          {
+            "authorId": "2116039449",
+            "name": "Jingchao Li"
+          },
+          {
+            "authorId": "2287033580",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2150980403",
+            "name": "Li Liu"
+          },
+          {
+            "authorId": "2240054740",
+            "name": "Liqun Zhang"
+          },
+          {
+            "authorId": "2145974579",
+            "name": "Yangyang Gao"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "48fce300d54cf23ed95c3ff1dae56d7c7b3b7d72",
+        "externalIds": {
+          "DOI": "10.1080/08927022.2025.2512836",
+          "CorpusId": 279050842
+        },
+        "url": "https://www.semanticscholar.org/paper/48fce300d54cf23ed95c3ff1dae56d7c7b3b7d72",
+        "title": "Molecular dynamics study of structure and mass transport at liquid n-Eicosane/hBN interfaces",
+        "venue": "Molecular Simulation",
+        "year": 2025,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-30",
+        "authors": [
+          {
+            "authorId": "2274419776",
+            "name": "Sai Charan Ravula"
+          },
+          {
+            "authorId": "8146962",
+            "name": "Hari Krishna Chilukoti"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "5ac3d0dc7bb3bc75501446083757cf7b0ff965a4",
+        "externalIds": {
+          "DOI": "10.1016/j.coco.2025.102453",
+          "CorpusId": 278550704
+        },
+        "url": "https://www.semanticscholar.org/paper/5ac3d0dc7bb3bc75501446083757cf7b0ff965a4",
+        "title": "Graphene/Hexagonal Boron Nitride Hetero-Fillers for Enhanced Interfacial Thermal Conductance in Polymer Nanocomposites",
+        "venue": "Composites Communications",
+        "year": 2025,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.coco.2025.102453",
+          "status": "HYBRID",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-05-01",
+        "authors": [
+          {
+            "authorId": "2266002692",
+            "name": "Youzhe Yang"
+          },
+          {
+            "authorId": "2107122905",
+            "name": "R. Yang"
+          },
+          {
+            "authorId": "2360949520",
+            "name": "Huanzhi Song"
+          },
+          {
+            "authorId": "2305569282",
+            "name": "Jie Yang"
+          },
+          {
+            "authorId": "2177402385",
+            "name": "Yingyan Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "0e78a7908e8a3b7bbf189c71b4d8946324553300",
+        "externalIds": {
+          "DOI": "10.1016/j.icheatmasstransfer.2025.108716",
+          "CorpusId": 276498259
+        },
+        "url": "https://www.semanticscholar.org/paper/0e78a7908e8a3b7bbf189c71b4d8946324553300",
+        "title": "Synergistic effect of dual-modification strategy on thermal conductivity and thermal stability of h-BN/silicone rubber composites: Experiments and simulations",
+        "venue": "International Communications in Heat and Mass Transfer",
+        "year": 2025,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-04-01",
+        "authors": [
+          {
+            "authorId": "2303409443",
+            "name": "Wei Yang"
+          },
+          {
+            "authorId": "2356523478",
+            "name": "Yichao Lin"
+          },
+          {
+            "authorId": "2318172489",
+            "name": "Yanqi Zhu"
+          },
+          {
+            "authorId": "2311793001",
+            "name": "Chenxia Zhen"
+          },
+          {
+            "authorId": "2311754422",
+            "name": "Weihao Tao"
+          },
+          {
+            "authorId": "2296627561",
+            "name": "Yanlong Luo"
+          },
+          {
+            "authorId": "2303332093",
+            "name": "Xiujuan Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "74aab53e8963deb3f5cf9524b9ca88d797510467",
+        "externalIds": {
+          "PubMedCentral": "11990400",
+          "DOI": "10.3390/molecules30071449",
+          "CorpusId": 277342183,
+          "PubMed": "40286061"
+        },
+        "url": "https://www.semanticscholar.org/paper/74aab53e8963deb3f5cf9524b9ca88d797510467",
+        "title": "Gradient Structure Construction of High Thermal Conductivity Polyurethane/Boron Nitride Composite Fiber Membrane for Thermal Management",
+        "venue": "Molecules",
+        "year": 2025,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/molecules30071449",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-03-25",
+        "authors": [
+          {
+            "authorId": "2352114322",
+            "name": "Zhengyang Miao"
+          },
+          {
+            "authorId": "2457769996",
+            "name": "Jingwei Li"
+          },
+          {
+            "authorId": "1859328833",
+            "name": "Yidan Liu"
+          },
+          {
+            "authorId": "2352404756",
+            "name": "Fang Jiang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "7fde469ed894e574436c51c79092da26a39885a7",
+        "externalIds": {
+          "DOI": "10.1016/j.ijmecsci.2025.110007",
+          "CorpusId": 275926211
+        },
+        "url": "https://www.semanticscholar.org/paper/7fde469ed894e574436c51c79092da26a39885a7",
+        "title": "Atomic Insights on Mechanical and Piezoelectric Properties of BNNTs and BNNTs/PDMS Nanocomposites",
+        "venue": "International Journal of Mechanical Sciences",
+        "year": 2025,
+        "citationCount": 9,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2025-01-01",
+        "authors": [
+          {
+            "authorId": "2244580418",
+            "name": "Bin Yang"
+          },
+          {
+            "authorId": "2342443843",
+            "name": "Xu Yang"
+          },
+          {
+            "authorId": "91437397",
+            "name": "Yunlong Li"
+          },
+          {
+            "authorId": "2140026728",
+            "name": "Quan Wang"
+          },
+          {
+            "authorId": "2186394079",
+            "name": "Yufei Wu"
+          },
+          {
+            "authorId": "2193287819",
+            "name": "Shijie Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "1f592d1f514f1c804f3ef7adabf3871533a041ac",
+        "externalIds": {
+          "DOI": "10.1002/pc.29399",
+          "CorpusId": 275127996
+        },
+        "url": "https://www.semanticscholar.org/paper/1f592d1f514f1c804f3ef7adabf3871533a041ac",
+        "title": "Enhancement on thermal management and mechanical properties of cellulose nanofiber films through synergistic filler construction and interface optimization",
+        "venue": "Polymer Composites",
+        "year": 2024,
+        "citationCount": 4,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-12-28",
+        "authors": [
+          {
+            "authorId": "2293041765",
+            "name": "Huijie Lu"
+          },
+          {
+            "authorId": "2152229003",
+            "name": "Bin Yang"
+          },
+          {
+            "authorId": "2315228714",
+            "name": "Jiaojiao Sang"
+          },
+          {
+            "authorId": "2303252130",
+            "name": "Tianyu Lu"
+          },
+          {
+            "authorId": "2337731735",
+            "name": "Qiangwei Liu"
+          },
+          {
+            "authorId": "2338980581",
+            "name": "Ruyi Zhao"
+          },
+          {
+            "authorId": "2306929125",
+            "name": "Ting Zhang"
+          },
+          {
+            "authorId": "2282705462",
+            "name": "Ru Xia"
+          },
+          {
+            "authorId": "2268186146",
+            "name": "Jiasheng Qian"
+          },
+          {
+            "authorId": "2145435522",
+            "name": "Yuqing Yang"
+          },
+          {
+            "authorId": "2140083170",
+            "name": "Ning Jia"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "6a4c5adde125ec25911803bb2c1c5457d4e2797e",
+        "externalIds": {
+          "PubMedCentral": "11644118",
+          "DOI": "10.3390/polym16233231",
+          "CorpusId": 274223486,
+          "PubMed": "39683976"
+        },
+        "url": "https://www.semanticscholar.org/paper/6a4c5adde125ec25911803bb2c1c5457d4e2797e",
+        "title": "Enhanced Thermal Conductivity of Thermoplastic Polyimide Nanocomposites: Effect of Using Hexagonal Nanoparticles",
+        "venue": "Polymers",
+        "year": 2024,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.3390/polym16233231",
+          "status": "GOLD",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-11-21",
+        "authors": [
+          {
+            "authorId": "10022611",
+            "name": "V. Nazarychev"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e438a1f66072559b6e4419672c42225cab603208",
+        "externalIds": {
+          "DOI": "10.1016/j.diamond.2024.111501",
+          "CorpusId": 272192601
+        },
+        "url": "https://www.semanticscholar.org/paper/e438a1f66072559b6e4419672c42225cab603208",
+        "title": "Molecular dynamics simulation of the thermal conductivity mechanism of polydimethylsiloxane composites filled by multilayer hexagonal boron nitride",
+        "venue": "Diamond and related materials",
+        "year": 2024,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-10-01",
+        "authors": [
+          {
+            "authorId": "2303409443",
+            "name": "Wei Yang"
+          },
+          {
+            "authorId": "2311793001",
+            "name": "Chenxia Zhen"
+          },
+          {
+            "authorId": "2311754422",
+            "name": "Weihao Tao"
+          },
+          {
+            "authorId": "2287101724",
+            "name": "Yanping Shi"
+          },
+          {
+            "authorId": "2296627561",
+            "name": "Yanlong Luo"
+          },
+          {
+            "authorId": "150922574",
+            "name": "Anbang Sheng"
+          },
+          {
+            "authorId": "2318172489",
+            "name": "Yanqi Zhu"
+          },
+          {
+            "authorId": "2303332093",
+            "name": "Xiujuan Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c81537053da8f058913ec33ba9060cd3696de561",
+        "externalIds": {
+          "DOI": "10.1016/j.jaap.2024.106793",
+          "CorpusId": 273029880
+        },
+        "url": "https://www.semanticscholar.org/paper/c81537053da8f058913ec33ba9060cd3696de561",
+        "title": "Investigation of thermal transport mechanism of silicone-modified phenolic matrix nanocomposites with different pyrolysis degrees",
+        "venue": "Journal of Analytical and Applied Pyrolysis",
+        "year": 2024,
+        "citationCount": 2,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.jaap.2024.106793",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-10-01",
+        "authors": [
+          {
+            "authorId": "2325130129",
+            "name": "Jie Xiao"
+          },
+          {
+            "authorId": "2244474614",
+            "name": "Guodong Fang"
+          },
+          {
+            "authorId": "2324712106",
+            "name": "Xiaoqiang Qin"
+          },
+          {
+            "authorId": "2155840208",
+            "name": "Bing Wang"
+          },
+          {
+            "authorId": "2323756639",
+            "name": "Changqing Hong"
+          },
+          {
+            "authorId": "2277334496",
+            "name": "Songhe Meng"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b0a5573b517e634b8eeb4f0c670ecc136feeef0a",
+        "externalIds": {
+          "DOI": "10.1016/j.pmatsci.2024.101362",
+          "CorpusId": 272513963
+        },
+        "url": "https://www.semanticscholar.org/paper/b0a5573b517e634b8eeb4f0c670ecc136feeef0a",
+        "title": "Polymer composites with high thermal conductivity: Theory, simulation, structure and interfacial regulation",
+        "venue": "Progress in Materials Science",
+        "year": 2024,
+        "citationCount": 187,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-09-01",
+        "authors": [
+          {
+            "authorId": "2249612035",
+            "name": "Jun-wei Zha"
+          },
+          {
+            "authorId": "2310051990",
+            "name": "Fan Wang"
+          },
+          {
+            "authorId": "143738945",
+            "name": "Bao-fei Wan"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "00efa825d210d194913f026d16d332f39340f256",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.4c02389",
+          "CorpusId": 271692845,
+          "PubMed": "39096500"
+        },
+        "url": "https://www.semanticscholar.org/paper/00efa825d210d194913f026d16d332f39340f256",
+        "title": "Thermal Conductivity of the Graphene/Polydimethylsiloxane Composite by Manipulating the Network Structure.",
+        "venue": "Langmuir",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-08-03",
+        "authors": [
+          {
+            "authorId": "2145974579",
+            "name": "Yangyang Gao"
+          },
+          {
+            "authorId": "2267185643",
+            "name": "Zoumeng Hu"
+          },
+          {
+            "authorId": "2145505463",
+            "name": "Wenfeng Zhang"
+          },
+          {
+            "authorId": "4325288",
+            "name": "Yonglai Lu"
+          },
+          {
+            "authorId": "2116039449",
+            "name": "Jingchao Li"
+          },
+          {
+            "authorId": "2150980403",
+            "name": "Li Liu"
+          },
+          {
+            "authorId": "2280371730",
+            "name": "Xin Liu"
+          },
+          {
+            "authorId": "50061874",
+            "name": "Xiuying Zhao"
+          },
+          {
+            "authorId": "2240054740",
+            "name": "Liqun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "cbd87300a6fd90e609a9eb78a7a8d324d237cb7c",
+        "externalIds": {
+          "ArXiv": "2404.14717",
+          "DOI": "10.1088/2633-4356/ad65ae",
+          "CorpusId": 269303113
+        },
+        "url": "https://www.semanticscholar.org/paper/cbd87300a6fd90e609a9eb78a7a8d324d237cb7c",
+        "title": "Optimisation of electron irradiation for creating spin ensembles in hexagonal boron nitride",
+        "venue": "Materials for Quantum Technology",
+        "year": 2024,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "https://iopscience.iop.org/article/10.1088/2633-4356/ad65ae/pdf",
+          "status": "GOLD",
+          "license": "CCBY"
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-04-23",
+        "authors": [
+          {
+            "authorId": "2178331141",
+            "name": "A. J. Healey"
+          },
+          {
+            "authorId": "2275058742",
+            "name": "Priya Singh"
+          },
+          {
+            "authorId": "2178321089",
+            "name": "I. Robertson"
+          },
+          {
+            "authorId": "2297849336",
+            "name": "Christopher Gavin"
+          },
+          {
+            "authorId": "1451644180",
+            "name": "S. C. Scholten"
+          },
+          {
+            "authorId": "10803862",
+            "name": "D. Broadway"
+          },
+          {
+            "authorId": "3497570",
+            "name": "P. Reineck"
+          },
+          {
+            "authorId": "2069101249",
+            "name": "H. Abe"
+          },
+          {
+            "authorId": "2247343263",
+            "name": "Takeshi Ohshima"
+          },
+          {
+            "authorId": "15959067",
+            "name": "M. Kianinia"
+          },
+          {
+            "authorId": "2160684827",
+            "name": "Igor Aharonovich"
+          },
+          {
+            "authorId": "145522450",
+            "name": "Jean‐Philippe Tetienne"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "8ed960a9d89e396699448505a2e39c772f583f88",
+        "externalIds": {
+          "DOI": "10.1016/j.compscitech.2024.110495",
+          "CorpusId": 267639761
+        },
+        "url": "https://www.semanticscholar.org/paper/8ed960a9d89e396699448505a2e39c772f583f88",
+        "title": "Construction of micro-nano hybrid structure based on carbon nanotube whisker and alumina for thermally conductive yet electrically insulating silicone rubber composites",
+        "venue": "Composites Science And Technology",
+        "year": 2024,
+        "citationCount": 22,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2024-02-01",
+        "authors": [
+          {
+            "authorId": "2152001425",
+            "name": "Xiaowang Ji"
+          },
+          {
+            "authorId": "2281887152",
+            "name": "Zhaoyu Lu"
+          },
+          {
+            "authorId": "2281788444",
+            "name": "Junyan Wang"
+          },
+          {
+            "authorId": "2281772761",
+            "name": "Neng Ye"
+          },
+          {
+            "authorId": "2281773465",
+            "name": "Huan Zhang"
+          },
+          {
+            "authorId": "2284130621",
+            "name": "Letian Zhou"
+          },
+          {
+            "authorId": "2116039449",
+            "name": "Jingchao Li"
+          },
+          {
+            "authorId": "2281786725",
+            "name": "Yonglai Lu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "3b6e7ff69ad13afb4355b91fd623071ded997453",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.3c01789",
+          "CorpusId": 262124925,
+          "PubMed": "37735112"
+        },
+        "url": "https://www.semanticscholar.org/paper/3b6e7ff69ad13afb4355b91fd623071ded997453",
+        "title": "Introducing Structures from Hexagonal Borophene to Nitrophene and Their Thermal Conductivity Investigation Using a Reactive Molecular Dynamics Simulation.",
+        "venue": "Langmuir",
+        "year": 2023,
+        "citationCount": 3,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-09-21",
+        "authors": [
+          {
+            "authorId": "2215080615",
+            "name": "Atefe Farahani"
+          },
+          {
+            "authorId": "4442808",
+            "name": "M. Foroutan"
+          },
+          {
+            "authorId": "2243010733",
+            "name": "Masoud Jamshidi"
+          },
+          {
+            "authorId": "2243956460",
+            "name": "Mahnaz Sababkar"
+          },
+          {
+            "authorId": "2113772708",
+            "name": "A. Boudaghi"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "60ea0e3d057317a56237265453dbf89b7a3511ab",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.3c01524",
+          "CorpusId": 260733825,
+          "PubMed": "37555935"
+        },
+        "url": "https://www.semanticscholar.org/paper/60ea0e3d057317a56237265453dbf89b7a3511ab",
+        "title": "Influence of the Surface State on the Interfacial Bonding Strength of the Cold-Rolled Brass/Carbon Steel Composite.",
+        "venue": "Langmuir",
+        "year": 2023,
+        "citationCount": 5,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-08-09",
+        "authors": [
+          {
+            "authorId": "49337119",
+            "name": "W. Wang"
+          },
+          {
+            "authorId": "2382945738",
+            "name": "Jia-hui Li"
+          },
+          {
+            "authorId": "2151061873",
+            "name": "Xue-feng Liu"
+          },
+          {
+            "authorId": "2115833909",
+            "name": "Yu-Liang Bai"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "e58d48295a2bb24c6b39c036399b6130f5c699fb",
+        "externalIds": {
+          "DOI": "10.1039/d3nr03287f",
+          "CorpusId": 260163825,
+          "PubMed": "37491997"
+        },
+        "url": "https://www.semanticscholar.org/paper/e58d48295a2bb24c6b39c036399b6130f5c699fb",
+        "title": "Improved thermal conductivity and excellent electrical insulation properties of polysiloxane nanocomposite-incorporated functional boron nitride sheets via in situ polymerization.",
+        "venue": "Nanoscale",
+        "year": 2023,
+        "citationCount": 6,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2023-07-26",
+        "authors": [
+          {
+            "authorId": "96753448",
+            "name": "Xiaole Zheng"
+          },
+          {
+            "authorId": "2044530762",
+            "name": "Yingjie Zhan"
+          },
+          {
+            "authorId": "153533167",
+            "name": "Jun Shi"
+          },
+          {
+            "authorId": "2402419",
+            "name": "Mangeng Lu"
+          },
+          {
+            "authorId": "39361759",
+            "name": "Kun Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "583af265caedc1bfcd2e23a659f2b74d20ec4c71",
+        "externalIds": {
+          "DOI": "10.1021/acs.langmuir.2c00741",
+          "CorpusId": 249747308,
+          "PubMed": "35709528"
+        },
+        "url": "https://www.semanticscholar.org/paper/583af265caedc1bfcd2e23a659f2b74d20ec4c71",
+        "title": "Excellent Medium-Temperature Thermoelectric Performance of Monolayer BiOCl.",
+        "venue": "Langmuir",
+        "year": 2022,
+        "citationCount": 14,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2022-06-16",
+        "authors": [
+          {
+            "authorId": "2067692527",
+            "name": "Yan Gan"
+          },
+          {
+            "authorId": "32885437",
+            "name": "Chengkai Wu"
+          },
+          {
+            "authorId": "6219297",
+            "name": "Zhong-Xiang Xie"
+          },
+          {
+            "authorId": "92255326",
+            "name": "Yuan-xiang Deng"
+          },
+          {
+            "authorId": "2144288017",
+            "name": "Yong Zhang"
+          },
+          {
+            "authorId": "2118084581",
+            "name": "Wu-Xing Zhou"
+          },
+          {
+            "authorId": "121023269",
+            "name": "Xuekun Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "b7da4e252aacfc0263bdda108d75626da5aad97d",
+        "externalIds": {
+          "DOI": "10.1016/j.ijthermalsci.2026.111215",
+          "CorpusId": 290719692
+        },
+        "url": "https://www.semanticscholar.org/paper/b7da4e252aacfc0263bdda108d75626da5aad97d",
+        "title": "Molecular dynamics study of interfacial thermal transport in phase change thermal interface materials: The roles of paraffin content and carbon fiber surface modification",
+        "venue": "International journal of thermal sciences",
+        "year": 2026,
+        "citationCount": 0,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2454697864",
+            "name": "Zhongbo Cui"
+          },
+          {
+            "authorId": "2336863642",
+            "name": "Junpeng Zhou"
+          },
+          {
+            "authorId": "5198836",
+            "name": "Zhengguo Zhang"
+          },
+          {
+            "authorId": "66176915",
+            "name": "Ziye Ling"
+          },
+          {
+            "authorId": "46498676",
+            "name": "X. Fang"
+          }
+        ]
+      }
+    },
+    {
+      "citingPaper": {
+        "paperId": "c2f0d3b4df31602bc2154756cad2611a2ee962ef",
+        "externalIds": {
+          "DOI": "10.1039/d2me00121g",
+          "CorpusId": 253312186
+        },
+        "url": "https://www.semanticscholar.org/paper/c2f0d3b4df31602bc2154756cad2611a2ee962ef",
+        "title": "Structure and properties of polymer/two-dimensional nanomaterials studied via molecular dynamics simulation: a review",
+        "venue": "Molecular Systems Design &amp; Engineering",
+        "year": 2022,
+        "citationCount": 10,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null
+        },
+        "publicationTypes": [
+          "Review"
+        ],
+        "publicationDate": null,
+        "authors": [
+          {
+            "authorId": "2189892389",
+            "name": "Meng Zhou"
+          },
+          {
+            "authorId": "40478976",
+            "name": "J. Liu"
+          },
+          {
+            "authorId": "2189975544",
+            "name": "Li Zhang"
+          }
+        ]
+      }
+    }
+  ]
+}

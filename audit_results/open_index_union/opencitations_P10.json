@@ -1,0 +1,29 @@
+[
+  {
+    "oci": "0605943911-062203432430",
+    "citing": "omid:br/0605943911 doi:10.1007/s10118-025-3295-9 openalex:W4407740399",
+    "cited": "omid:br/062203432430 doi:10.1016/j.compscitech.2022.109694 openalex:W4292685349",
+    "creation": "2025-02-18",
+    "timespan": "P2Y4M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0609580867-062203432430",
+    "citing": "omid:br/0609580867 doi:10.3390/ma18133097 openalex:W4411802902",
+    "cited": "omid:br/062203432430 doi:10.1016/j.compscitech.2022.109694 openalex:W4292685349",
+    "creation": "2025-06-30",
+    "timespan": "P2Y8M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06290431171-062203432430",
+    "citing": "omid:br/06290431171 doi:10.1016/j.compscitech.2024.110583 openalex:W4393950833",
+    "cited": "omid:br/062203432430 doi:10.1016/j.compscitech.2022.109694 openalex:W4292685349",
+    "creation": "2024-05",
+    "timespan": "P1Y7M",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  }
+]

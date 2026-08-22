@@ -1,0 +1,137 @@
+[
+  {
+    "oci": "06015417949-062602679495",
+    "citing": "omid:br/06015417949 doi:10.3390/polym18040443",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2026-02-10",
+    "timespan": "P4Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06013958076-062602679495",
+    "citing": "omid:br/06013958076 doi:10.1088/1748-605x/ae3cd9",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2026-02-13",
+    "timespan": "P4Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015007523-062602679495",
+    "citing": "omid:br/06015007523 doi:10.1021/acsomega.5c11248",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2026-02-09",
+    "timespan": "P4Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608640891-062602679495",
+    "citing": "omid:br/0608640891 doi:10.3390/polym17081120 openalex:W4409606509",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2025-04-20",
+    "timespan": "P3Y7M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06904028895-062602679495",
+    "citing": "omid:br/06904028895 doi:10.1016/j.seppur.2023.123964 openalex:W4367397402",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2023-08",
+    "timespan": "P1Y11M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06320468798-062602679495",
+    "citing": "omid:br/06320468798 doi:10.1016/j.commatsci.2023.112572 openalex:W4387796397",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "",
+    "timespan": "",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0606033955-062602679495",
+    "citing": "omid:br/0606033955 doi:10.1007/s10924-025-03505-8 openalex:W4407352292",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2025-02-10",
+    "timespan": "P3Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06520173290-062602679495",
+    "citing": "omid:br/06520173290 doi:10.1021/acs.jpcb.3c01697 openalex:W4362657752",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2023-04-05",
+    "timespan": "P1Y7M",
+    "journal_sc": "no",
+    "author_sc": "yes"
+  },
+  {
+    "oci": "06604447190-062602679495",
+    "citing": "omid:br/06604447190 doi:10.1016/j.mtcomm.2023.105573 openalex:W4319938603",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2023-06",
+    "timespan": "P1Y9M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06350549953-062602679495",
+    "citing": "omid:br/06350549953 doi:10.1016/j.polymer.2023.126482 openalex:W4388687174",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "",
+    "timespan": "",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607599927-062602679495",
+    "citing": "omid:br/0607599927 doi:10.1016/j.ccr.2025.216580 openalex:W4408252775",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2025-07",
+    "timespan": "P3Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06804837960-062602679495",
+    "citing": "omid:br/06804837960 doi:10.1038/s41428-024-00938-1 openalex:W4401257114",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2024-08-02",
+    "timespan": "P2Y11M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06903510645-062602679495",
+    "citing": "omid:br/06903510645 doi:10.1016/j.cpc.2022.108567 openalex:W4307290773",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2023-02",
+    "timespan": "P1Y5M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0607258098-062602679495",
+    "citing": "omid:br/0607258098 doi:10.1016/b978-0-443-14131-7.00008-0 openalex:W4406567178",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2025",
+    "timespan": "P3Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06530169607-062602679495",
+    "citing": "omid:br/06530169607 doi:10.1016/j.polymer.2023.125722 openalex:W4320527292",
+    "cited": "omid:br/062602679495 doi:10.1016/j.polymer.2021.124129 openalex:W3143472984",
+    "creation": "2023-03",
+    "timespan": "P1Y6M",
+    "journal_sc": "yes",
+    "author_sc": "no"
+  }
+]

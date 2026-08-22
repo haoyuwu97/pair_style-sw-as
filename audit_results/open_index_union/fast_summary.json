@@ -1,0 +1,278 @@
+{
+  "profile_id": "NSpr644AAAAJ",
+  "errors": [],
+  "openalex": {
+    "P01": {
+      "work_id": "W4318499587",
+      "source_reported": 134,
+      "retrieved": 133,
+      "pages": 1,
+      "gs_baseline": 138
+    },
+    "P02": {
+      "work_id": "W3203094335",
+      "source_reported": 32,
+      "retrieved": 32,
+      "pages": 1,
+      "gs_baseline": 33
+    },
+    "P03": {
+      "work_id": "W4221053455",
+      "source_reported": 28,
+      "retrieved": 28,
+      "pages": 1,
+      "gs_baseline": 28
+    },
+    "P04": {
+      "work_id": "W3025433257",
+      "source_reported": 26,
+      "retrieved": 26,
+      "pages": 1,
+      "gs_baseline": 28
+    },
+    "P05": {
+      "work_id": "W3143472984",
+      "source_reported": 18,
+      "retrieved": 18,
+      "pages": 1,
+      "gs_baseline": 24
+    },
+    "P06": {
+      "work_id": "W4403107217",
+      "source_reported": 10,
+      "retrieved": 9,
+      "pages": 1,
+      "gs_baseline": 11
+    },
+    "P07": {
+      "work_id": "W3169339161",
+      "source_reported": 9,
+      "retrieved": 9,
+      "pages": 1,
+      "gs_baseline": 11
+    },
+    "P08": {
+      "work_id": "W3026571509",
+      "source_reported": 9,
+      "retrieved": 9,
+      "pages": 1,
+      "gs_baseline": 10
+    },
+    "P09": {
+      "work_id": "W4200485539",
+      "source_reported": 8,
+      "retrieved": 8,
+      "pages": 1,
+      "gs_baseline": 9
+    },
+    "P10": {
+      "work_id": "W4292685349",
+      "source_reported": 3,
+      "retrieved": 3,
+      "pages": 1,
+      "gs_baseline": 4
+    },
+    "P11": {
+      "work_id": "W3045837309",
+      "source_reported": 4,
+      "retrieved": 4,
+      "pages": 1,
+      "gs_baseline": 3
+    }
+  },
+  "semantic_scholar": {
+    "P01": {
+      "status": 200,
+      "total": null,
+      "retrieved": 118,
+      "gs_baseline": 138
+    },
+    "P02": {
+      "status": 200,
+      "total": null,
+      "retrieved": 26,
+      "gs_baseline": 33
+    },
+    "P03": {
+      "status": 200,
+      "total": null,
+      "retrieved": 24,
+      "gs_baseline": 28
+    },
+    "P04": {
+      "status": 200,
+      "total": null,
+      "retrieved": 22,
+      "gs_baseline": 28
+    },
+    "P05": {
+      "status": 200,
+      "total": null,
+      "retrieved": 15,
+      "gs_baseline": 24
+    },
+    "P06": {
+      "status": 200,
+      "total": null,
+      "retrieved": 7,
+      "gs_baseline": 11
+    },
+    "P07": {
+      "status": 200,
+      "total": null,
+      "retrieved": 10,
+      "gs_baseline": 11
+    },
+    "P08": {
+      "status": 200,
+      "total": null,
+      "retrieved": 9,
+      "gs_baseline": 10
+    },
+    "P09": {
+      "status": 200,
+      "total": null,
+      "retrieved": 6,
+      "gs_baseline": 9
+    },
+    "P10": {
+      "status": 200,
+      "total": null,
+      "retrieved": 3,
+      "gs_baseline": 4
+    },
+    "P11": {
+      "status": 200,
+      "total": null,
+      "retrieved": 3,
+      "gs_baseline": 3
+    }
+  },
+  "opencitations": {
+    "P01": {
+      "status": 200,
+      "retrieved": 114,
+      "gs_baseline": 138
+    },
+    "P02": {
+      "status": 200,
+      "retrieved": 25,
+      "gs_baseline": 33
+    },
+    "P03": {
+      "status": 200,
+      "retrieved": 17,
+      "gs_baseline": 28
+    },
+    "P04": {
+      "status": 200,
+      "retrieved": 22,
+      "gs_baseline": 28
+    },
+    "P05": {
+      "status": 200,
+      "retrieved": 15,
+      "gs_baseline": 24
+    },
+    "P06": {
+      "status": 200,
+      "retrieved": 6,
+      "gs_baseline": 11
+    },
+    "P07": {
+      "status": 200,
+      "retrieved": 7,
+      "gs_baseline": 11
+    },
+    "P08": {
+      "status": 200,
+      "retrieved": 8,
+      "gs_baseline": 10
+    },
+    "P09": {
+      "status": 200,
+      "retrieved": 7,
+      "gs_baseline": 9
+    },
+    "P10": {
+      "status": 200,
+      "retrieved": 3,
+      "gs_baseline": 4
+    },
+    "P11": {
+      "status": 200,
+      "retrieved": 3,
+      "gs_baseline": 3
+    }
+  },
+  "scholar": {},
+  "citationmap": {
+    "home": {
+      "status": 200,
+      "url": "https://citationmap.com/",
+      "length": 142362
+    },
+    "profile": {
+      "status": 200,
+      "url": "https://citationmap.com/profile/NSpr644AAAAJ",
+      "length": 311579
+    },
+    "embed": {
+      "status": 200,
+      "url": "https://citationmap.com/embed/NSpr644AAAAJ",
+      "length": 24481
+    },
+    "scripts": [
+      "https://citationmap.com/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+      "https://citationmap.com/_next/static/chunks/1255-55f5611cfd370a3f.js",
+      "https://citationmap.com/_next/static/chunks/main-app-551a3956d53c84e8.js",
+      "https://citationmap.com/_next/static/chunks/5854-e8dcca1a3f1c3a2d.js",
+      "https://citationmap.com/_next/static/chunks/8719-4a20da47ce070e11.js",
+      "https://citationmap.com/_next/static/chunks/789-fc25141c468205cb.js",
+      "https://citationmap.com/_next/static/chunks/5396-f21a019c9d0fbaa9.js",
+      "https://citationmap.com/_next/static/chunks/app/layout-a31b2c16bf40b4ec.js",
+      "https://citationmap.com/_next/static/chunks/app/error-15e3df8d3404fdae.js",
+      "https://citationmap.com/_next/static/chunks/2619-04bc32f026a0d946.js",
+      "https://citationmap.com/_next/static/chunks/app/not-found-0c7bc31746ed5b7d.js",
+      "https://citationmap.com/_next/static/chunks/4909-472194aeb0cec234.js",
+      "https://citationmap.com/_next/static/chunks/317-4b7e47cba6ebbf15.js",
+      "https://citationmap.com/_next/static/chunks/8121-24706d2e33655169.js",
+      "https://citationmap.com/_next/static/chunks/8146-00eeb67e9a6c459d.js",
+      "https://citationmap.com/_next/static/chunks/3934-733f8c4f0604565d.js",
+      "https://citationmap.com/_next/static/chunks/5496-16299ad238dd564c.js",
+      "https://citationmap.com/_next/static/chunks/9469-f89f3de6aa65183c.js",
+      "https://citationmap.com/_next/static/chunks/1816-27ba7ff9cda3bd9e.js",
+      "https://citationmap.com/_next/static/chunks/app/(main)/layout-b1783a05fceec7be.js",
+      "https://citationmap.com/_next/static/chunks/app/(main)/error-826d70be7ff33562.js",
+      "https://citationmap.com/_next/static/chunks/4886-aaf3a91ae4edcf67.js",
+      "https://citationmap.com/_next/static/chunks/3386-07d64a2962deffe9.js",
+      "https://citationmap.com/_next/static/chunks/app/(main)/page-17e706afe78d806d.js",
+      "https://citationmap.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://citationmap.com/_next/static/chunks/webpack-6c29c06c4d636e94.js"
+    ],
+    "candidate_routes": [
+      "/api/auth",
+      "/api/help",
+      "/api/me/is-admin",
+      "/citation-map",
+      "/crawl_top_scholars.py",
+      "/eb1a-citation-map",
+      "/eb1a-citation-map.",
+      "/how-to-create-citation-map",
+      "/my-citations",
+      "/niw-citation-map",
+      "/niw-citation-map.",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xlink",
+      "http://www.w3.org/2000/svg",
+      "http://www.w3.org/XML/1998/namespace",
+      "https://accounts.google.com/gsi/client",
+      "https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams",
+      "https://nextjs.org/docs/messages/failed-to-find-server-action",
+      "https://nextjs.org/docs/messages/invalid-images-config",
+      "https://nextjs.org/docs/messages/next-image-missing-loader",
+      "https://radix-ui.com/primitives/docs/components/",
+      "https://react.dev/errors/"
+    ]
+  }
+}

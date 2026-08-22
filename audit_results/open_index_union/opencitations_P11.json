@@ -1,0 +1,29 @@
+[
+  {
+    "oci": "06010532059-06220931205",
+    "citing": "omid:br/06010532059 doi:10.1016/j.memsci.2025.124260 openalex:W4410726238",
+    "cited": "omid:br/06220931205 doi:10.1016/j.engfracmech.2020.107229 openalex:W3045837309",
+    "creation": "2025-08",
+    "timespan": "P4Y10M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "0608685558-06220931205",
+    "citing": "omid:br/0608685558 doi:10.1016/b978-0-443-24854-2.00005-x openalex:W4412590891",
+    "cited": "omid:br/06220931205 doi:10.1016/j.engfracmech.2020.107229 openalex:W3045837309",
+    "creation": "2025",
+    "timespan": "P4Y",
+    "journal_sc": "no",
+    "author_sc": "no"
+  },
+  {
+    "oci": "06015314448-06220931205",
+    "citing": "omid:br/06015314448 doi:10.1080/19475411.2025.2582826",
+    "cited": "omid:br/06220931205 doi:10.1016/j.engfracmech.2020.107229 openalex:W3045837309",
+    "creation": "2025-10-02",
+    "timespan": "P5Y0M",
+    "journal_sc": "no",
+    "author_sc": "no"
+  }
+]

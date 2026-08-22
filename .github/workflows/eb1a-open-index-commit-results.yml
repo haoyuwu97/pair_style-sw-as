@@ -1,0 +1,55 @@
+name: EB1A Open Index Union — Persist Results
+
+on:
+  push:
+    branches:
+      - eb1a-citation-audit-20260821
+    paths:
+      - scripts/eb1a_fetch_fast.py
+      - .github/workflows/eb1a-open-index-commit-results.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  fetch-and-persist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out temporary branch
+        uses: actions/checkout@v4
+        with:
+          ref: eb1a-citation-audit-20260821
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install retrieval dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests beautifulsoup4 lxml
+
+      - name: Retrieve open-index citation lists
+        run: python scripts/eb1a_fetch_fast.py
+
+      - name: Persist results on temporary branch
+        run: |
+          rm -rf audit_results/open_index_union
+          mkdir -p audit_results
+          mv audit_output_fast audit_results/open_index_union
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit_results/open_index_union
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "Persist EB-1A open-index citation union results"
+            git push origin HEAD:eb1a-citation-audit-20260821
+          fi

@@ -1,0 +1,1543 @@
+[
+  {
+    "id": "https://openalex.org/W4407682323",
+    "doi": "https://doi.org/10.1016/j.polymer.2025.128176",
+    "title": "Exploring glass transition and relaxation dynamics of rigid molecular brushes: Insights from molecular dynamic simulations",
+    "display_name": "Exploring glass transition and relaxation dynamics of rigid molecular brushes: Insights from molecular dynamic simulations",
+    "publication_year": 2025,
+    "publication_date": "2025-02-19",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101989308",
+          "display_name": "Ziliang Zhu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210136047",
+            "display_name": "Weifang University of Science and Technology",
+            "ror": "https://ror.org/04ha2bb10",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ziliang Zhu",
+        "raw_affiliation_strings": [
+          "Weifang University of Science and Technology, Shouguang, 262700, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Weifang University of Science and Technology, Shouguang, 262700, China",
+            "institution_ids": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051532476",
+          "display_name": "Juan Hao",
+          "orcid": "https://orcid.org/0009-0009-1770-5617"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210136047",
+            "display_name": "Weifang University of Science and Technology",
+            "ror": "https://ror.org/04ha2bb10",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Juan Hao",
+        "raw_affiliation_strings": [
+          "Weifang University of Science and Technology, Shouguang, 262700, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Weifang University of Science and Technology, Shouguang, 262700, China",
+            "institution_ids": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100388935",
+          "display_name": "Zhijun Zhang",
+          "orcid": "https://orcid.org/0000-0003-4229-1312"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210136047",
+            "display_name": "Weifang University of Science and Technology",
+            "ror": "https://ror.org/04ha2bb10",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zhijun Zhang",
+        "raw_affiliation_strings": [
+          "Weifang University of Science and Technology, Shouguang, 262700, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Weifang University of Science and Technology, Shouguang, 262700, China",
+            "institution_ids": [
+              "https://openalex.org/I4210136047"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5101760514",
+          "display_name": "Junsheng Yang",
+          "orcid": "https://orcid.org/0000-0003-0419-5602"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I90610280",
+            "display_name": "South China University of Technology",
+            "ror": "https://ror.org/0530pts50",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Junsheng Yang",
+        "raw_affiliation_strings": [
+          "South China Advanced Institute for Soft Matter Science and Technology, Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0419-5602",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "South China Advanced Institute for Soft Matter Science and Technology, Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, South China University of Technology, Guangzhou, 510640, China",
+            "institution_ids": [
+              "https://openalex.org/I90610280"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2025.128176",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2025.128176",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4407682323",
+      "doi": "https://doi.org/10.1016/j.polymer.2025.128176"
+    },
+    "cited_by_count": 9
+  },
+  {
+    "id": "https://openalex.org/W4283392454",
+    "doi": "https://doi.org/10.1016/j.polymer.2022.125090",
+    "title": "Molecular simulation guided constitutive modeling of filled rubber: Bridging structural parameters to constitutive equations",
+    "display_name": "Molecular simulation guided constitutive modeling of filled rubber: Bridging structural parameters to constitutive equations",
+    "publication_year": 2022,
+    "publication_date": "2022-06-23",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5075314474",
+          "display_name": "Bin Yuan",
+          "orcid": "https://orcid.org/0000-0002-2755-0155"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bin Yuan",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2755-0155",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5006135413",
+          "display_name": "Fanlin Zeng",
+          "orcid": "https://orcid.org/0000-0002-6914-231X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Fanlin Zeng",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5082410503",
+          "display_name": "Jianzheng Cui",
+          "orcid": "https://orcid.org/0000-0003-2153-5787"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianzheng Cui",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5088638731",
+          "display_name": "You Wang",
+          "orcid": "https://orcid.org/0000-0003-0266-0224"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Youshan Wang",
+        "raw_affiliation_strings": [
+          "National Key Laboratory of Science and Technology on Advanced Composites in Special Environment, Center for Composite Materials, Harbin Institute of Technology, Harbin, 150001, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environment, Center for Composite Materials, Harbin Institute of Technology, Harbin, 150001, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2022.125090",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2022.125090",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4283392454",
+      "doi": "https://doi.org/10.1016/j.polymer.2022.125090"
+    },
+    "cited_by_count": 14
+  },
+  {
+    "id": "https://openalex.org/W4383164145",
+    "doi": "https://doi.org/10.1016/j.cplett.2023.140694",
+    "title": "Structure of absorbed water in cis-1,4-polyisoprene rubber and its effect on properties of polymers",
+    "display_name": "Structure of absorbed water in cis-1,4-polyisoprene rubber and its effect on properties of polymers",
+    "publication_year": 2023,
+    "publication_date": "2023-07-05",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5104101524",
+          "display_name": "Kazuaki Sato",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I16656306",
+            "display_name": "Meiji University",
+            "ror": "https://ror.org/02rqvrp93",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I16656306"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kazuaki Sato",
+        "raw_affiliation_strings": [
+          "Department of Applied Chemistry, Meiji University, Kawasaki 214-8571, Japan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Applied Chemistry, Meiji University, Kawasaki 214-8571, Japan",
+            "institution_ids": [
+              "https://openalex.org/I16656306"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5059112345",
+          "display_name": "Tomoko Ikeda‐Fukazawa",
+          "orcid": "https://orcid.org/0000-0002-5265-4706"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I16656306",
+            "display_name": "Meiji University",
+            "ror": "https://ror.org/02rqvrp93",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I16656306"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Tomoko Ikeda-Fukazawa",
+        "raw_affiliation_strings": [
+          "Department of Applied Chemistry, Meiji University, Kawasaki 214-8571, Japan"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5265-4706",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Applied Chemistry, Meiji University, Kawasaki 214-8571, Japan",
+            "institution_ids": [
+              "https://openalex.org/I16656306"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.cplett.2023.140694",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.cplett.2023.140694",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S44567922",
+        "display_name": "Chemical Physics Letters",
+        "issn_l": "0009-2614",
+        "issn": [
+          "0009-2614",
+          "1873-4448"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Chemical Physics Letters",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4383164145",
+      "doi": "https://doi.org/10.1016/j.cplett.2023.140694"
+    },
+    "cited_by_count": 9
+  },
+  {
+    "id": "https://openalex.org/W4404189718",
+    "doi": "https://doi.org/10.1063/5.0229161",
+    "title": "Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case",
+    "display_name": "Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case",
+    "publication_year": 2024,
+    "publication_date": "2024-11-08",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5054807347",
+          "display_name": "Artyom D. Glova",
+          "orcid": "https://orcid.org/0000-0003-1385-5254"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I125749732",
+            "display_name": "Western University",
+            "ror": "https://ror.org/02grkyz14",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Artem Glova",
+        "raw_affiliation_strings": [
+          "Department of Physics and Astronomy, The University of Western Ontario 1 , 1151 Richmond Street, London, Ontario N6A 3K7,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1385-5254",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Physics and Astronomy, The University of Western Ontario 1 , 1151 Richmond Street, London, Ontario N6A 3K7,",
+            "institution_ids": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5034852833",
+          "display_name": "Mikko Karttunen",
+          "orcid": "https://orcid.org/0000-0002-8626-3033"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I125749732",
+            "display_name": "Western University",
+            "ror": "https://ror.org/02grkyz14",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mikko Karttunen",
+        "raw_affiliation_strings": [
+          "Department of Chemistry, The University of Western Ontario 2 , 1151 Richmond Street, London, Ontario N6A 5B7,",
+          "Department of Physics and Astronomy, The University of Western Ontario 1 , 1151 Richmond Street, London, Ontario N6A 3K7,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8626-3033",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Chemistry, The University of Western Ontario 2 , 1151 Richmond Street, London, Ontario N6A 5B7,",
+            "institution_ids": [
+              "https://openalex.org/I125749732"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Physics and Astronomy, The University of Western Ontario 1 , 1151 Richmond Street, London, Ontario N6A 3K7,",
+            "institution_ids": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1063/5.0229161",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1063/5.0229161",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S77047749",
+        "display_name": "The Journal of Chemical Physics",
+        "issn_l": "0021-9606",
+        "issn": [
+          "0021-9606",
+          "1089-7690",
+          "1520-9032"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320257",
+        "host_organization_name": "American Institute of Physics",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320257"
+        ],
+        "host_organization_lineage_names": [
+          "American Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of Chemical Physics",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4404189718",
+      "doi": "https://doi.org/10.1063/5.0229161",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/39513447"
+    },
+    "cited_by_count": 7
+  },
+  {
+    "id": "https://openalex.org/W4408059293",
+    "doi": "https://doi.org/10.1016/j.polymer.2025.128216",
+    "title": "Multiscale modeling of nanofiber-filled cross-linked natural rubber composites guided by molecular dynamics simulations",
+    "display_name": "Multiscale modeling of nanofiber-filled cross-linked natural rubber composites guided by molecular dynamics simulations",
+    "publication_year": 2025,
+    "publication_date": "2025-02-28",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5082410503",
+          "display_name": "Jianzheng Cui",
+          "orcid": "https://orcid.org/0000-0003-2153-5787"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianzheng Cui",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5006135413",
+          "display_name": "Fanlin Zeng",
+          "orcid": "https://orcid.org/0000-0002-6914-231X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Fanlin Zeng",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6914-231X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5088553886",
+          "display_name": "Dahai Wei",
+          "orcid": "https://orcid.org/0009-0003-9094-1292"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dahai Wei",
+        "raw_affiliation_strings": [
+          "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Astronautic Science and Mechanics, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5088638731",
+          "display_name": "You Wang",
+          "orcid": "https://orcid.org/0000-0003-0266-0224"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204983213",
+            "display_name": "Harbin Institute of Technology",
+            "ror": "https://ror.org/01yqg2h08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Youshan Wang",
+        "raw_affiliation_strings": [
+          "National Key Laboratory of Science and Technology on Advanced Composites in Special Environment, Center for Composite Materials, Harbin Institute of Technology, Harbin, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environment, Center for Composite Materials, Harbin Institute of Technology, Harbin, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I204983213"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1016/j.polymer.2025.128216",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.polymer.2025.128216",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S186054908",
+        "display_name": "Polymer",
+        "issn_l": "0032-3861",
+        "issn": [
+          "0032-3861",
+          "1873-2291"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Polymer",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4408059293",
+      "doi": "https://doi.org/10.1016/j.polymer.2025.128216"
+    },
+    "cited_by_count": 5
+  },
+  {
+    "id": "https://openalex.org/W4396792737",
+    "doi": "https://doi.org/10.1021/acs.jpcb.4c01286",
+    "title": "Dynamics and Internal Structure Evolution during the Glass Transition of the Ethylene–Cyclic Olefin Copolymers: A Molecular Dynamics Simulation",
+    "display_name": "Dynamics and Internal Structure Evolution during the Glass Transition of the Ethylene–Cyclic Olefin Copolymers: A Molecular Dynamics Simulation",
+    "publication_year": 2024,
+    "publication_date": "2024-05-10",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5100403443",
+          "display_name": "Fan Zhang",
+          "orcid": "https://orcid.org/0000-0002-2491-3600"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I143593769",
+            "display_name": "East China University of Science and Technology",
+            "ror": "https://ror.org/01vyrm377",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fan Zhang",
+        "raw_affiliation_strings": [
+          "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China",
+            "institution_ids": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100370071",
+          "display_name": "Wenhui Wang",
+          "orcid": "https://orcid.org/0000-0002-1552-0055"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I143593769",
+            "display_name": "East China University of Science and Technology",
+            "ror": "https://ror.org/01vyrm377",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wenhui Wang",
+        "raw_affiliation_strings": [
+          "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China",
+            "institution_ids": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103777274",
+          "display_name": "Yangyang Zhao",
+          "orcid": "https://orcid.org/0009-0009-7166-9581"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I143593769",
+            "display_name": "East China University of Science and Technology",
+            "ror": "https://ror.org/01vyrm377",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yangyang Zhao",
+        "raw_affiliation_strings": [
+          "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China",
+            "institution_ids": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5041807862",
+          "display_name": "Xuelian He",
+          "orcid": "https://orcid.org/0000-0002-8463-1824"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I143593769",
+            "display_name": "East China University of Science and Technology",
+            "ror": "https://ror.org/01vyrm377",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Xuelian He",
+        "raw_affiliation_strings": [
+          "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8463-1824",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shanghai Key Laboratory of Multiphase Material Chemical Engineering, East China University of Science and Technology, Shanghai 200237, China",
+            "institution_ids": [
+              "https://openalex.org/I143593769"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1021/acs.jpcb.4c01286",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1021/acs.jpcb.4c01286",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S185621672",
+        "display_name": "The Journal of Physical Chemistry B",
+        "issn_l": "1520-5207",
+        "issn": [
+          "1520-5207",
+          "1520-6106"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of Physical Chemistry B",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4396792737",
+      "doi": "https://doi.org/10.1021/acs.jpcb.4c01286",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/38728026"
+    },
+    "cited_by_count": 3
+  },
+  {
+    "id": "https://openalex.org/W4411223977",
+    "doi": "https://doi.org/10.1039/d5sm00165j",
+    "title": "Investigating glass transition in a PA6T/66 copolymer through molecular dynamics simulations",
+    "display_name": "Investigating glass transition in a PA6T/66 copolymer through molecular dynamics simulations",
+    "publication_year": 2025,
+    "publication_date": "2025-01-01",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Lele Wei",
+          "orcid": "https://orcid.org/0009-0000-6218-4675"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lele Wei",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0000-6218-4675",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072511321",
+          "display_name": "Liping Zhu",
+          "orcid": "https://orcid.org/0000-0002-8601-0562"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Liping Zhu",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8601-0562",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034542818",
+          "display_name": "Jin Wen",
+          "orcid": "https://orcid.org/0000-0001-6136-8771"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jin Wen",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-6136-8771",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Meifang Zhu",
+          "orcid": "https://orcid.org/0000-0002-5228-8216"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181326427",
+            "display_name": "Donghua University",
+            "ror": "https://ror.org/035psfh38",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Meifang Zhu",
+        "raw_affiliation_strings": [
+          "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5228-8216",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "State Key Laboratory of Advanced Fiber Materials, College of Materials Science and Engineering, Donghua University, Shanghai 201620, China",
+            "institution_ids": [
+              "https://openalex.org/I181326427"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1039/d5sm00165j",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1039/d5sm00165j",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S6377669",
+        "display_name": "Soft Matter",
+        "issn_l": "1744-683X",
+        "issn": [
+          "1744-683X",
+          "1744-6848"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320556",
+        "host_organization_name": "Royal Society of Chemistry",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320556"
+        ],
+        "host_organization_lineage_names": [
+          "Royal Society of Chemistry"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Soft Matter",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W4411223977",
+      "doi": "https://doi.org/10.1039/d5sm00165j",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/40548391"
+    },
+    "cited_by_count": 0
+  },
+  {
+    "id": "https://openalex.org/W7162486691",
+    "doi": "https://doi.org/10.1063/5.0335731",
+    "title": "Classification of interfacial water governed by water–polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers",
+    "display_name": "Classification of interfacial water governed by water–polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers",
+    "publication_year": 2026,
+    "publication_date": "2026-05-27",
+    "type": "article",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5130814901",
+          "display_name": "Atsuki Hashimoto",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I14314212",
+            "display_name": "Osaka University of Economics",
+            "ror": "https://ror.org/04g11bp59",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I14314212"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I98285908",
+            "display_name": "The University of Osaka",
+            "ror": "https://ror.org/035t8zc32",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Atsuki Hashimoto",
+        "raw_affiliation_strings": [
+          "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,",
+            "institution_ids": [
+              "https://openalex.org/I14314212",
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5050220104",
+          "display_name": "Kokoro Shikata",
+          "orcid": "https://orcid.org/0009-0007-7910-7183"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I14314212",
+            "display_name": "Osaka University of Economics",
+            "ror": "https://ror.org/04g11bp59",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I14314212"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I98285908",
+            "display_name": "The University of Osaka",
+            "ror": "https://ror.org/035t8zc32",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kokoro Shikata",
+        "raw_affiliation_strings": [
+          "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0007-7910-7183",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,",
+            "institution_ids": [
+              "https://openalex.org/I14314212",
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5135302639",
+          "display_name": "Kang Kim",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I14314212",
+            "display_name": "Osaka University of Economics",
+            "ror": "https://ror.org/04g11bp59",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I14314212"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I98285908",
+            "display_name": "The University of Osaka",
+            "ror": "https://ror.org/035t8zc32",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kang Kim",
+        "raw_affiliation_strings": [
+          "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7047-3183",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,",
+            "institution_ids": [
+              "https://openalex.org/I14314212",
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5026054733",
+          "display_name": "Nobuyuki Matubayasi",
+          "orcid": "https://orcid.org/0000-0001-7176-441X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I14314212",
+            "display_name": "Osaka University of Economics",
+            "ror": "https://ror.org/04g11bp59",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I14314212"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I98285908",
+            "display_name": "The University of Osaka",
+            "ror": "https://ror.org/035t8zc32",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nobuyuki Matubayasi",
+        "raw_affiliation_strings": [
+          "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-7176-441X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Division of Chemical Engineering, Department of Materials Engineering Science, Graduate School of Engineering Science, The University of Osaka , Toyonaka, Osaka 560-8531,",
+            "institution_ids": [
+              "https://openalex.org/I14314212",
+              "https://openalex.org/I98285908"
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1063/5.0335731",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1063/5.0335731",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S77047749",
+        "display_name": "The Journal of Chemical Physics",
+        "issn_l": "0021-9606",
+        "issn": [
+          "0021-9606",
+          "1089-7690",
+          "1520-9032"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320257",
+        "host_organization_name": "American Institute of Physics",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320257"
+        ],
+        "host_organization_lineage_names": [
+          "American Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of Chemical Physics",
+      "raw_type": "journal-article"
+    },
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/2603.25198",
+      "any_repository_has_fulltext": true
+    },
+    "ids": {
+      "openalex": "https://openalex.org/W7162486691",
+      "doi": "https://doi.org/10.1063/5.0335731",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/42200565"
+    },
+    "cited_by_count": 0
+  }
+]

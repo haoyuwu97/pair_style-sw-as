@@ -1,0 +1,53 @@
+name: EB1A Citation Discovery (Temporary)
+
+on:
+  push:
+    branches:
+      - eb1a-citation-audit-20260821
+    paths:
+      - scripts/citationmap_browser_capture.py
+      - .github/workflows/eb1a-citation-discovery.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/citationmap_browser_capture.py
+      - .github/workflows/eb1a-citation-discovery.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  browser-capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out temporary branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright and Chromium
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Execute CitationMap profile crawl and network capture
+        run: python scripts/citationmap_browser_capture.py
+
+      - name: Upload browser capture
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: citationmap-browser-capture
+          path: citationmap_browser_output/
+          if-no-files-found: warn
+          retention-days: 7
