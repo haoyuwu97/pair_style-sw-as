@@ -8,10 +8,17 @@ on:
       - scripts/eb1a_phase3_bundle.py
       - audit_inputs/phase3_bundle/**
       - .github/workflows/eb1a-phase3-audit.yml
+  pull_request:
+    branches:
+      - eb1a-citation-audit-20260821
+    paths:
+      - scripts/eb1a_phase3_bundle.py
+      - audit_inputs/phase3_bundle/**
+      - .github/workflows/eb1a-phase3-audit.yml
   workflow_dispatch:
 
 concurrency:
-  group: eb1a-phase3-isolated
+  group: eb1a-phase3-isolated-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 permissions:
