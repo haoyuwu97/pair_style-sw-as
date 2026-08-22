@@ -1,19 +1,17 @@
 {
-  "generated_utc": "2026-08-22T07:07:45Z",
-  "exact_google_scholar_edges": 299,
-  "api_audit_targets": 299,
-  "unresolved_after": 110,
-  "resolved_by_api": 189,
-  "final_independence": {
-    "Author metadata incomplete | Unresolved": 110,
-    "Coauthor-network citation | Probable": 7,
-    "Fully independent | Verified": 182
+  "generated_utc": "2026-08-22T07:08:46Z",
+  "phase2_unresolved_targets": 73,
+  "resolved_by_api": 66,
+  "still_unresolved": 7,
+  "target_results": {
+    "Author metadata incomplete | Unresolved": 7,
+    "Fully independent | Verified": 66
   },
   "methodology": [
-    "All 299 exact Google Scholar/PoP edges were resolved independently through OpenAlex with Crossref fallback.",
+    "The 73 Phase 2 unresolved Edge_IDs were sent to OpenAlex with Crossref DOI fallback.",
     "Verified coauthor-network overlap requires an OpenAlex author ID or ORCID match; full-name-only overlap is probable.",
     "A full API author list with no source-author overlap is classified as verified independent.",
-    "Results are merged with the Phase 2 master by Edge_ID; unresolved API rows retain the conservative Phase 2 status.",
+    "Target results are merged into the immutable 299-edge Phase 2 master by Edge_ID.",
     "This is a research audit, not legal advice."
   ]
 }
